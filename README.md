@@ -5,5 +5,7 @@ Add Bezels to your game in ES-DE
 
  * Per system to match installed roms
  * Per system all
+ * Updates/Tidy
  * By resolution
- * Switch bezel sets
+ * Switch/Choose bezel sets
+   
