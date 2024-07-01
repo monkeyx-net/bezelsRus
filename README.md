@@ -10,6 +10,8 @@ Add Bezels to your game in ES-DE
  * Editable lists in Spreadsheet/table
  * By resolution
  * By System Android, PC Windows and Linux, macs
- * Switch/Choose bezel sets
+ * Switch/Choose bezel sets online or local
+ * Backup bezels
+ * Backup config prefrences
  * Batch Convert dimension/sizes?
    
