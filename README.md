@@ -7,6 +7,7 @@ Add Bezels to your game in ES-DE
  * Per system all
  * Updates/Tidy
  * By resolution
- * Per System Android, PC
+ * By System Android, PC Windows and Linux, macs
  * Switch/Choose bezel sets
+ * Batch Convert dimension/sizes?
    
