@@ -1,0 +1,2299 @@
+Path,Name,name_cfg,name_png,BezelPath
+./galaxianiii.zip,Galaxian III,galaxianiii.cfg,galaxianiii.png,/base/path/galaxianiii.cfg
+./galaxbsf.zip,Galaxian,galaxbsf.cfg,galaxbsf.png,/base/path/galaxbsf.cfg
+./1943.zip,1943: Midway Kaisen,1943.cfg,1943.png,/base/path/1943.cfg
+./bloodbro.zip,Blood Brothers,bloodbro.cfg,bloodbro.png,/base/path/bloodbro.cfg
+./cotton.zip,Cotton 2: Magical Night Dreams,cotton.cfg,cotton.png,/base/path/cotton.cfg
+./fball.zip,Fire Ball,fball.cfg,fball.png,/base/path/fball.cfg
+./ryorioh.zip,Gourmet Battle Quiz Ryouri-ou CooKing,ryorioh.cfg,ryorioh.png,/base/path/ryorioh.cfg
+./ironhors.zip,Dai Ressya Goutou,ironhors.cfg,ironhors.png,/base/path/ironhors.cfg
+./janshin.zip,Jyanshin Densetsu - Quest of Jongmaster,janshin.cfg,janshin.png,/base/path/janshin.cfg
+./majtitl2.zip,The Irem Skins Game,majtitl2.cfg,majtitl2.png,/base/path/majtitl2.cfg
+./megrescu.zip,Megumi Rescue,megrescu.cfg,megrescu.png,/base/path/megrescu.cfg
+./neocdz.zip,Nekketsu Koukou Dodgeball Bu,neocdz.cfg,neocdz.png,/base/path/neocdz.cfg
+./nbbatman.zip,Yakyū Kakutō League Man,nbbatman.cfg,nbbatman.png,/base/path/nbbatman.cfg
+./onna34ro.zip,Onna Sansirou: Typhoon Gal,onna34ro.cfg,onna34ro.png,/base/path/onna34ro.cfg
+./pitfall2.zip,Pitfall II: Lost Caverns,pitfall2.cfg,pitfall2.png,/base/path/pitfall2.cfg
+./pnyaa.zip,Pochi & Nyaa,pnyaa.cfg,pnyaa.png,/base/path/pnyaa.cfg
+./svcpcb.zip,SNK vs. Capcom: SVC Chaos,svcpcb.cfg,svcpcb.png,/base/path/svcpcb.cfg
+./startrek.zip,Star Trek: Strategic Operations Simulator,startrek.cfg,startrek.png,/base/path/startrek.cfg
+./sf2hf.zip,Street Fighter II Turbo: Hyper Fighting,sf2hf.cfg,sf2hf.png,/base/path/sf2hf.cfg
+./scontra.zip,Super Contra: The Alien Strikes Back,scontra.cfg,scontra.png,/base/path/scontra.cfg
+./srdarwin.zip,SRD Super Real Darwin,srdarwin.cfg,srdarwin.png,/base/path/srdarwin.cfg
+./term2.zip,Terminator 2: Judgment Day,term2.cfg,term2.png,/base/path/term2.cfg
+./esb.zip,Star Wars: The Empire Strikes Back,esb.cfg,esb.png,/base/path/esb.cfg
+./toki.zip,Ju Ju Densetsu,toki.cfg,toki.png,/base/path/toki.cfg
+./wschamp.zip,Wing Shooting Championship,wschamp.cfg,wschamp.png,/base/path/wschamp.cfg
+./88games.zip,'88 Games,88games.cfg,88games.png,/base/path/88games.cfg
+./flagrall.zip,'96 Flag Rally,flagrall.cfg,flagrall.png,/base/path/flagrall.cfg
+./10yard.zip,10-Yard Fight,10yard.cfg,10yard.png,/base/path/10yard.cfg
+./progolf.zip,18 Holes Pro Golf,progolf.cfg,progolf.png,/base/path/progolf.cfg
+./1941.zip,1941: Counter Attack,1941.cfg,1941.png,/base/path/1941.cfg
+./1942.zip,1942,1942.cfg,1942.png,/base/path/1942.cfg
+./1943kai.zip,1943 Kai: Midway Kaisen,1943kai.cfg,1943kai.png,/base/path/1943kai.cfg
+./1943mii.zip,1943: The Battle of Midway Mark II,1943mii.cfg,1943mii.png,/base/path/1943mii.cfg
+./1944.zip,1944 : The Loop Master,1944.cfg,1944.png,/base/path/1944.cfg
+./1945kiii.zip,1945k III,1945kiii.cfg,1945kiii.png,/base/path/1945kiii.cfg
+./ksayakyu.zip,Kusayakyuu,ksayakyu.cfg,ksayakyu.png,/base/path/ksayakyu.cfg
+./19xx.zip,19XX : The War Against Destiny,19xx.cfg,19xx.png,/base/path/19xx.cfg
+./openice.zip,2 On 2 Open Ice Challenge,openice.cfg,openice.png,/base/path/openice.cfg
+./2020bb.zip,2020 Super Baseball,2020bb.cfg,2020bb.png,/base/path/2020bb.cfg
+./3countb.zip,3 Count Bout,3countb.cfg,3countb.png,/base/path/3countb.cfg
+./3on3dunk.zip,3 On 3 Dunk Madness,3on3dunk.cfg,3on3dunk.png,/base/path/3on3dunk.cfg
+./dblewing.zip,3-d Bowling,dblewing.cfg,dblewing.png,/base/path/dblewing.cfg
+./3x3puzzl.zip,3x3 Puzzle,3x3puzzl.cfg,3x3puzzl.png,/base/path/3x3puzzl.cfg
+./4enraya.zip,4 En Raya,4enraya.cfg,4enraya.png,/base/path/4enraya.cfg
+./4in1.zip,4 Fun In 1,4in1.cfg,4in1.png,/base/path/4in1.cfg
+./4dwarrio.zip,4-D Warriors,4dwarrio.cfg,4dwarrio.png,/base/path/4dwarrio.cfg
+./64street.zip,64th. Street - A Detective Story,64street.cfg,64street.png,/base/path/64street.cfg
+./7ordi.zip,7 Ordi,7ordi.cfg,7ordi.png,/base/path/7ordi.cfg
+./8ballact.zip,Eight Ball Action,8ballact.cfg,8ballact.png,/base/path/8ballact.cfg
+./abcop.zip,A.B. Cop,abcop.cfg,abcop.png,/base/path/abcop.cfg
+./ad2083.zip,A. D. 2083,ad2083.cfg,ad2083.png,/base/path/ad2083.cfg
+./aa.zip,Aaargh!,aa.cfg,aa.png,/base/path/aa.cfg
+./aceattac.zip,Ace Attacker,aceattac.cfg,aceattac.png,/base/path/aceattac.cfg
+./acrobatm.zip,Acrobat Mission,acrobatm.cfg,acrobatm.png,/base/path/acrobatm.cfg
+./dogfgt.zip,Acrobatic Dog-Fight,dogfgt.cfg,dogfgt.png,/base/path/dogfgt.cfg
+./actfancr.zip,Act-Fancer: Cybernetick Hyper Weapon,actfancr.cfg,actfancr.png,/base/path/actfancr.cfg
+./afighter.zip,Action Fighter,afighter.cfg,afighter.png,/base/path/afighter.cfg
+./actionhw.zip,Action Hollywood,actionhw.cfg,actionhw.png,/base/path/actionhw.cfg
+./hatena.zip,Adventure Quiz 2 - Hatena? no Daibouken,hatena.cfg,hatena.png,/base/path/hatena.cfg
+./cworld2j.zip,Adventure Quiz: Capcom World,cworld2j.cfg,cworld2j.png,/base/path/cworld2j.cfg
+./aerofgt.zip,Aero Fighters,aerofgt.cfg,aerofgt.png,/base/path/aerofgt.cfg
+./sonicwi2.zip,Aero Fighters 2,sonicwi2.cfg,sonicwi2.png,/base/path/sonicwi2.cfg
+./sonicwi3.zip,Aero Fighters 3,sonicwi3.cfg,sonicwi3.png,/base/path/sonicwi3.cfg
+./formatz.zip,Aeroboto,formatz.cfg,formatz.png,/base/path/formatz.cfg
+./aburner2.zip,After Burner II,aburner2.cfg,aburner2.png,/base/path/aburner2.cfg
+./aoh.zip,Age of Heroes - Silkroad 2,aoh.cfg,aoh.png,/base/path/aoh.cfg
+./superbon.zip,Agent Super Bond,superbon.cfg,superbon.png,/base/path/superbon.cfg
+./aodk.zip,Aggressors of Dark Kombat,aodk.cfg,aodk.png,/base/path/aodk.cfg
+./agress.zip,Agress - Missile Daisenryaku,agress.cfg,agress.png,/base/path/agress.cfg
+./koshien.zip,Ah Eikou No Koshien,koshien.cfg,koshien.png,/base/path/koshien.cfg
+./airass.zip,Air Assault,airass.cfg,airass.png,/base/path/airass.cfg
+./airattck.zip,Air Attack,airattck.cfg,airattck.png,/base/path/airattck.cfg
+./airbustr.zip,Air Buster: Trouble Specialty Raid Unit,airbustr.cfg,airbustr.png,/base/path/airbustr.cfg
+./airduel.zip,Air Duel,airduel.cfg,airduel.png,/base/path/airduel.cfg
+./agallet.zip,Air Gallet,agallet.cfg,agallet.png,/base/path/agallet.cfg
+./arescue.zip,Air Rescue,arescue.cfg,arescue.png,/base/path/arescue.cfg
+./airwolf.zip,Airwolf,airwolf.cfg,airwolf.png,/base/path/airwolf.cfg
+./ajax.zip,Ajax,ajax.cfg,ajax.png,/base/path/ajax.cfg
+./akatana.zip,Akai Katana,akatana.cfg,akatana.png,/base/path/akatana.cfg
+./akkaarrh.zip,Akka Arrh,akkaarrh.cfg,akkaarrh.png,/base/path/akkaarrh.cfg
+./alcon.zip,Slap Fight,alcon.cfg,alcon.png,/base/path/alcon.cfg
+./alexkidd.zip,Alex Kidd: The Lost Stars,alexkidd.cfg,alexkidd.png,/base/path/alexkidd.cfg
+./alibaba.zip,Ali Baba And 40 Thieves,alibaba.cfg,alibaba.png,/base/path/alibaba.cfg
+./alienar.zip,Alien Arena,alienar.cfg,alienar.png,/base/path/alienar.cfg
+./aliencha.zip,Alien Challenge,aliencha.cfg,aliencha.png,/base/path/aliencha.cfg
+./alinvade.zip,Alien Invaders,alinvade.cfg,alinvade.png,/base/path/alinvade.cfg
+./astorm.zip,Alien Storm,astorm.cfg,astorm.png,/base/path/astorm.cfg
+./aliensyn.zip,Alien Syndrome,aliensyn.cfg,aliensyn.png,/base/path/aliensyn.cfg
+./avsp.zip,Alien vs. Predator,avsp.cfg,avsp.png,/base/path/avsp.cfg
+./alien3.zip,Alien3: The Gun,alien3.cfg,alien3.png,/base/path/alien3.cfg
+./aliens.zip,Aliens,aliens.cfg,aliens.png,/base/path/aliens.cfg
+./aligator.zip,Alligator Hunt,aligator.cfg,aligator.png,/base/path/aligator.cfg
+./alpham2.zip,Alpha Mission II,alpham2.cfg,alpham2.png,/base/path/alpham2.cfg
+./alpha1v.zip,Alpha One,alpha1v.cfg,alpha1v.png,/base/path/alpha1v.cfg
+./alpine.zip,Alpine Ski,alpine.cfg,alpine.png,/base/path/alpine.cfg
+./altbeast.zip,Altered Beast,altbeast.cfg,altbeast.png,/base/path/altbeast.cfg
+./ambush.zip,Ambush,ambush.cfg,ambush.png,/base/path/ambush.cfg
+./horshoes.zip,American Horseshoes,horshoes.cfg,horshoes.png,/base/path/horshoes.cfg
+./amspdwy.zip,American Speedway,amspdwy.cfg,amspdwy.png,/base/path/amspdwy.cfg
+./amidar.zip,Amidar,amidar.cfg,amidar.png,/base/path/amidar.cfg
+./androdun.zip,Andro Dunos,androdun.cfg,androdun.png,/base/path/androdun.cfg
+./androidp.zip,Android,androidp.cfg,androidp.png,/base/path/androidp.cfg
+./angelkds.zip,Angel Kids,angelkds.cfg,angelkds.png,/base/path/angelkds.cfg
+./cadanglr.zip,Angler Dangler,cadanglr.cfg,cadanglr.png,/base/path/cadanglr.cfg
+./anteater.zip,Anteater,anteater.cfg,anteater.png,/base/path/anteater.cfg
+./appoooh.zip,Appoooh,appoooh.cfg,appoooh.png,/base/path/appoooh.cfg
+./aquajack.zip,Aqua Jack,aquajack.cfg,aquajack.png,/base/path/aquajack.cfg
+./aquarium.zip,Aquarium,aquarium.cfg,aquarium.png,/base/path/aquarium.cfg
+./arabian.zip,Arabian,arabian.cfg,arabian.png,/base/path/arabian.cfg
+./arabfgt.zip,Arabian Fight,arabfgt.cfg,arabfgt.png,/base/path/arabfgt.cfg
+./arabianm.zip,Arabian Magic,arabianm.cfg,arabianm.png,/base/path/arabianm.cfg
+./arbalest.zip,Arbalester,arbalest.cfg,arbalest.png,/base/path/arbalest.cfg
+./arcadecl.zip,Arcade Classics,arcadecl.cfg,arcadecl.png,/base/path/arcadecl.cfg
+./archrivl.zip,Arch Rivals,archrivl.cfg,archrivl.png,/base/path/archrivl.cfg
+./unsquad.zip,U.N. Squadron,unsquad.cfg,unsquad.png,/base/path/unsquad.cfg
+./argus.zip,Argus,argus.cfg,argus.png,/base/path/argus.cfg
+./argusg.zip,Argus,argusg.cfg,argusg.png,/base/path/argusg.cfg
+./arkarea.zip,Ark Area,arkarea.cfg,arkarea.png,/base/path/arkarea.cfg
+./arkanoid.zip,Arkanoid,arkanoid.cfg,arkanoid.png,/base/path/arkanoid.cfg
+./arkretrn.zip,Arkanoid Returns,arkretrn.cfg,arkretrn.png,/base/path/arkretrn.cfg
+./arknoid2.zip,Arkanoid - Revenge Of Doh,arknoid2.cfg,arknoid2.png,/base/path/arknoid2.cfg
+./armwrest.zip,Arm Wrestling,armwrest.cfg,armwrest.png,/base/path/armwrest.cfg
+./armedf.zip,Armed Formation,armedf.cfg,armedf.png,/base/path/armedf.cfg
+./armorcar.zip,Armored Car,armorcar.cfg,armorcar.png,/base/path/armorcar.cfg
+./armwar.zip,Armored Warriors,armwar.cfg,armwar.png,/base/path/armwar.cfg
+./aof.zip,Art of Fighting,aof.cfg,aof.png,/base/path/aof.cfg
+./aof2.zip,Art of Fighting 2,aof2.cfg,aof2.png,/base/path/aof2.cfg
+./aof3.zip,Art of Fighting 3 : The Path of the Warrior,aof3.cfg,aof3.png,/base/path/aof3.cfg
+./ashura.zip,Ashura Blaster,ashura.cfg,ashura.png,/base/path/ashura.cfg
+./aso.zip,ASO: Armored Scrum Object,aso.cfg,aso.png,/base/path/aso.cfg
+./assault.zip,Assault,assault.cfg,assault.png,/base/path/assault.cfg
+./asterix.zip,Asterix,asterix.cfg,asterix.png,/base/path/asterix.cfg
+./asteroid.zip,Asteroids,asteroid.cfg,asteroid.png,/base/path/asteroid.cfg
+./astdelux.zip,Asteroids Deluxe,astdelux.cfg,astdelux.png,/base/path/astdelux.cfg
+./castfant.zip,Astro Fantasia,castfant.cfg,castfant.png,/base/path/castfant.cfg
+./asuka.zip,Asuka & Asuka,asuka.cfg,asuka.png,/base/path/asuka.cfg
+./asurabld.zip,Asura Blade - Sword Of Dynasty,asurabld.cfg,asurabld.png,/base/path/asurabld.cfg
+./asurabus.zip,Asura Buster - Eternal Warriors,asurabus.cfg,asurabus.png,/base/path/asurabus.cfg
+./athena.zip,Athena,athena.cfg,athena.png,/base/path/athena.cfg
+./atehate.zip,Athena No Hatena ?,atehate.cfg,atehate.png,/base/path/atehate.cfg
+./atomicp.zip,Atomic Point,atomicp.cfg,atomicp.png,/base/path/atomicp.cfg
+./robokid.zip,Atomic Robo-Kid,robokid.cfg,robokid.png,/base/path/robokid.cfg
+./aurail.zip,Aurail,aurail.cfg,aurail.png,/base/path/aurail.cfg
+./avengrgs.zip,Avengers In Galactic Storm,avengrgs.cfg,avengrgs.png,/base/path/avengrgs.cfg
+./avspirit.zip,Avenging Spirit,avspirit.cfg,avspirit.png,/base/path/avspirit.cfg
+./aztarac.zip,Aztarac,aztarac.cfg,aztarac.png,/base/path/aztarac.cfg
+./azurian.zip,Azurian Attack,azurian.cfg,azurian.png,/base/path/azurian.cfg
+./bang.zip,B-wings,bang.cfg,bang.png,/base/path/bang.cfg
+./bwings.zip,B-wings,bwings.cfg,bwings.png,/base/path/bwings.cfg
+./bcstry.zip,B.C. Story,bcstry.cfg,bcstry.png,/base/path/bcstry.cfg
+./brapboys.zip,B.Rap Boys,brapboys.cfg,brapboys.png,/base/path/brapboys.cfg
+./bonkadv.zip,B.C. Kid - Arcade Version,bonkadv.cfg,bonkadv.png,/base/path/bonkadv.cfg
+./bssoccer.zip,Back Street Soccer,bssoccer.cfg,bssoccer.png,/base/path/bssoccer.cfg
+./backfire.zip,Backfire!,backfire.cfg,backfire.png,/base/path/backfire.cfg
+./baddudes.zip,Bad Dudes vs. Dragonninja,baddudes.cfg,baddudes.png,/base/path/baddudes.cfg
+./badlands.zip,Bad Lands,badlands.cfg,badlands.png,/base/path/badlands.cfg
+./bagman.zip,Bagman,bagman.cfg,bagman.png,/base/path/bagman.cfg
+./bakatono.zip,Bakatonosama Mahjong Manyuuki,bakatono.cfg,bakatono.png,/base/path/bakatono.cfg
+./bkrtmaq.zip,Bakuretsu Quiz Ma-q Dai Bouken,bkrtmaq.cfg,bkrtmaq.png,/base/path/bkrtmaq.cfg
+./bakutotu.zip,Bakutotsu Kijuutei,bakutotu.cfg,bakutotu.png,/base/path/bakutotu.cfg
+./balcube.zip,Bal Cube,balcube.cfg,balcube.png,/base/path/balcube.cfg
+./ballbros.zip,Balloon Brothers,ballbros.cfg,ballbros.png,/base/path/ballbros.cfg
+./baluba.zip,Baluba-louk No Densetsu,baluba.cfg,baluba.png,/base/path/baluba.cfg
+./banbam.zip,Banbam,banbam.cfg,banbam.png,/base/path/banbam.cfg
+./bangball.zip,Bang Bang Ball,bangball.cfg,bangball.png,/base/path/bangball.cfg
+./b2b.zip,Bang Bang Busters,b2b.cfg,b2b.png,/base/path/b2b.cfg
+./bangbead.zip,Bang Bead,bangbead.cfg,bangbead.png,/base/path/bangbead.cfg
+./bankp.zip,Bank Panic,bankp.cfg,bankp.png,/base/path/bankp.cfg
+./boonggab.zip,Boong-ga Boong-ga,boonggab.cfg,boonggab.png,/base/path/boonggab.cfg
+./aliensec.zip,Alien Sector,aliensec.cfg,aliensec.png,/base/path/aliensec.cfg
+./baryon.zip,Baryon: Future Assault,baryon.cfg,baryon.png,/base/path/baryon.cfg
+./bstars2.zip,Baseball Stars 2,bstars2.cfg,bstars2.png,/base/path/bstars2.cfg
+./bstars.zip,Baseball Stars Professional,bstars.cfg,bstars.png,/base/path/bstars.cfg
+./batman.zip,Batman,batman.cfg,batman.png,/base/path/batman.cfg
+./batrider.zip,Armed Police Batrider,batrider.cfg,batrider.png,/base/path/batrider.cfg
+./batsugun.zip,Batsugun,batsugun.cfg,batsugun.png,/base/path/batsugun.cfg
+./battlnts.zip,Battlantis,battlnts.cfg,battlnts.png,/base/path/battlnts.cfg
+./bbakraid.zip,Battle Bakraid: Unlimited Version,bbakraid.cfg,bbakraid.png,/base/path/bbakraid.cfg
+./senkyu.zip,Battle Balls,senkyu.cfg,senkyu.png,/base/path/senkyu.cfg
+./bchopper.zip,Battle Chopper,bchopper.cfg,bchopper.png,/base/path/bchopper.cfg
+./batcir.zip,Battle Circuit,batcir.cfg,batcir.png,/base/path/batcir.cfg
+./vsbattlecity.zip,Vs. Battle City,vsbattlecity.cfg,vsbattlecity.png,/base/path/vsbattlecity.cfg
+./battlex.zip,Battle Cross,battlex.cfg,battlex.png,/base/path/battlex.cfg
+./bcruzm12.zip,Battle Cruiser M-12,bcruzm12.cfg,bcruzm12.png,/base/path/bcruzm12.cfg
+./flipshot.zip,Battle Flip Shot,flipshot.cfg,flipshot.png,/base/path/flipshot.cfg
+./bgaregga.zip,Battle Garegga,bgaregga.cfg,bgaregga.png,/base/path/bgaregga.cfg
+./btlkroad.zip,Battle K-Road,btlkroad.cfg,btlkroad.png,/base/path/btlkroad.cfg
+./battlane.zip,Battle Lane! Vol. 5,battlane.cfg,battlane.png,/base/path/battlane.cfg
+./atlantis.zip,Battle of Atlantis,atlantis.cfg,atlantis.png,/base/path/atlantis.cfg
+./bshark.zip,Battle Shark,bshark.cfg,bshark.png,/base/path/bshark.cfg
+./btoads.zip,Battletoads,btoads.cfg,btoads.png,/base/path/btoads.cfg
+./bzone.zip,Battle Zone,bzone.cfg,bzone.png,/base/path/bzone.cfg
+./bayroute.zip,Bay Route,bayroute.cfg,bayroute.png,/base/path/bayroute.cfg
+./bbusters.zip,Beast Busters,bbusters.cfg,bbusters.png,/base/path/bbusters.cfg
+./bucky.zip,Bucky O'Hare,bucky.cfg,bucky.png,/base/path/bucky.cfg
+./blswhstl.zip,Bells & Whistles,blswhstl.cfg,blswhstl.png,/base/path/blswhstl.cfg
+./benberob.zip,Ben Bero Beh,benberob.cfg,benberob.png,/base/path/benberob.cfg
+./bermudat.zip,Bermuda Triangle,bermudat.cfg,bermudat.png,/base/path/bermudat.cfg
+./berzerk.zip,Berzerk,berzerk.cfg,berzerk.png,/base/path/berzerk.cfg
+./bbbxing.zip,Best Bout Boxing,bbbxing.cfg,bbbxing.png,/base/path/bbbxing.cfg
+./bestbest.zip,Best of Best,bestbest.cfg,bestbest.png,/base/path/bestbest.cfg
+./bestri.zip,Bestri,bestri.cfg,bestri.png,/base/path/bestri.cfg
+./bigbucks.zip,Big Bucks,bigbucks.cfg,bigbucks.png,/base/path/bigbucks.cfg
+./bigkarnk.zip,Big Karnak,bigkarnk.cfg,bigkarnk.png,/base/path/bigkarnk.cfg
+./bigrun.zip,Big Run,bigrun.cfg,bigrun.png,/base/path/bigrun.cfg
+./bigstrik.zip,Big Striker,bigstrik.cfg,bigstrik.png,/base/path/bigstrik.cfg
+./bigtwin.zip,Big Twin,bigtwin.cfg,bigtwin.png,/base/path/bigtwin.cfg
+./bikkuric.zip,Bikkuri Card,bikkuric.cfg,bikkuric.png,/base/path/bikkuric.cfg
+./bioatack.zip,Bio Attack,bioatack.cfg,bioatack.png,/base/path/bioatack.cfg
+./bioship.zip,Bio-ship Paladin,bioship.cfg,bioship.png,/base/path/bioship.cfg
+./biomtoy.zip,Biomechanical Toy,biomtoy.cfg,biomtoy.png,/base/path/biomtoy.cfg
+./bionicc.zip,Bionic Commando,bionicc.cfg,bionicc.png,/base/path/bionicc.cfg
+./birdtry.zip,Birdie Try,birdtry.cfg,birdtry.png,/base/path/birdtry.cfg
+./birdiy.zip,Birdiy,birdiy.cfg,birdiy.png,/base/path/birdiy.cfg
+./bishi.zip,Bishi Bashi Championship Mini Game Senshuken,bishi.cfg,bishi.png,/base/path/bishi.cfg
+./blkheart.zip,Black Heart,blkheart.cfg,blkheart.png,/base/path/blkheart.cfg
+./blkhole.zip,Black Hole,blkhole.cfg,blkhole.png,/base/path/blkhole.cfg
+./blkpnthr.zip,Black Panther,blkpnthr.cfg,blkpnthr.png,/base/path/blkpnthr.cfg
+./blktiger.zip,Black Tiger,blktiger.cfg,blktiger.png,/base/path/blktiger.cfg
+./blackt96.zip,Black Touch '96,blackt96.cfg,blackt96.png,/base/path/blackt96.cfg
+./bwidow.zip,Black Widow,bwidow.cfg,bwidow.png,/base/path/bwidow.cfg
+./bmaster.zip,Blade Master,bmaster.cfg,bmaster.png,/base/path/bmaster.cfg
+./bladestl.zip,Blades Of Steel,bladestl.cfg,bladestl.png,/base/path/bladestl.cfg
+./blandia.zip,Blandia,blandia.cfg,blandia.png,/base/path/blandia.cfg
+./blastoff.zip,Blast Off,blastoff.cfg,blastoff.png,/base/path/blastoff.cfg
+./blasted.zip,Blasted,blasted.cfg,blasted.png,/base/path/blasted.cfg
+./blaster.zip,Blaster,blaster.cfg,blaster.png,/base/path/blaster.cfg
+./blstroid.zip,Blasteroids,blstroid.cfg,blstroid.png,/base/path/blstroid.cfg
+./blasto.zip,Blasto,blasto.cfg,blasto.png,/base/path/blasto.cfg
+./blazeon.zip,Blaze On,blazeon.cfg,blazeon.png,/base/path/blazeon.cfg
+./blazer.zip,Blazer,blazer.cfg,blazer.png,/base/path/blazer.cfg
+./blazstar.zip,Blazing Star,blazstar.cfg,blazstar.png,/base/path/blazstar.cfg
+./blzntrnd.zip,Blazing Tornado,blzntrnd.cfg,blzntrnd.png,/base/path/blzntrnd.cfg
+./block.zip,Block Block,block.cfg,block.png,/base/path/block.cfg
+./blockcar.zip,Block Carnival,blockcar.cfg,blockcar.png,/base/path/blockcar.cfg
+./blockgal.zip,Block Gal,blockgal.cfg,blockgal.png,/base/path/blockgal.cfg
+./blockhl.zip,Block Hole,blockhl.cfg,blockhl.png,/base/path/blockhl.cfg
+./blockout.zip,Block Out,blockout.cfg,blockout.png,/base/path/blockout.cfg
+./blockade.zip,Blockade,blockade.cfg,blockade.png,/base/path/blockade.cfg
+./blocken.zip,Blocken,blocken.cfg,blocken.png,/base/path/blocken.cfg
+./blmbycar.zip,Blomby Car,blmbycar.cfg,blmbycar.png,/base/path/blmbycar.cfg
+./bloodstm.zip,Blood Storm,bloodstm.cfg,bloodstm.png,/base/path/bloodstm.cfg
+./bloodwar.zip,Blood Warrior,bloodwar.cfg,bloodwar.png,/base/path/bloodwar.cfg
+./bloxeed.zip,Bloxeed,bloxeed.cfg,bloxeed.png,/base/path/bloxeed.cfg
+./bluehawk.zip,Blue Hawk,bluehawk.cfg,bluehawk.png,/base/path/bluehawk.cfg
+./blueprnt.zip,Blue Print,blueprnt.cfg,blueprnt.png,/base/path/blueprnt.cfg
+./bjourney.zip,Blue's Journey,bjourney.cfg,bjourney.png,/base/path/bjourney.cfg
+./bwcasino.zip,Boardwalk Casino,bwcasino.cfg,bwcasino.png,/base/path/bwcasino.cfg
+./bodyslam.zip,Body Slam,bodyslam.cfg,bodyslam.png,/base/path/bodyslam.cfg
+./bogeyman.zip,Bogey Manor,bogeyman.cfg,bogeyman.png,/base/path/bogeyman.cfg
+./bace.zip,Boggy '84,bace.cfg,bace.png,/base/path/bace.cfg
+./boggy84.zip,Boggy '84,boggy84.cfg,boggy84.png,/base/path/boggy84.cfg
+./bombbee.zip,Bomb Bee,bombbee.cfg,bombbee.png,/base/path/bombbee.cfg
+./bombjack.zip,Bomb Jack,bombjack.cfg,bombjack.png,/base/path/bombjack.cfg
+./bjtwin.zip,Bombjack Twin,bjtwin.cfg,bjtwin.png,/base/path/bjtwin.cfg
+./bombkick.zip,Bomb Kick,bombkick.cfg,bombkick.png,/base/path/bombkick.cfg
+./bbmanw.zip,New Dyna Blaster - Global Quest,bbmanw.cfg,bbmanw.png,/base/path/bbmanw.cfg
+./panicbom.zip,Panic Bomber,panicbom.cfg,panicbom.png,/base/path/panicbom.cfg
+./bnzabros.zip,Bonanza Bros.,bnzabros.cfg,bnzabros.png,/base/path/bnzabros.cfg
+./bongo.zip,Bongo,bongo.cfg,bongo.png,/base/path/bongo.cfg
+./bonzeadv.zip,Bonze Adventure,bonzeadv.cfg,bonzeadv.png,/base/path/bonzeadv.cfg
+./boogwing.zip,Boogie Wings,boogwing.cfg,boogwing.png,/base/path/boogwing.cfg
+./boomrang.zip,Boomer Rang'r,boomrang.cfg,boomrang.png,/base/path/boomrang.cfg
+./borench.zip,Borench,borench.cfg,borench.png,/base/path/borench.cfg
+./botanic.zip,Botanic,botanic.cfg,botanic.png,/base/path/botanic.cfg
+./bottom9.zip,Bottom Of The Ninth,bottom9.cfg,bottom9.png,/base/path/bottom9.cfg
+./cbdash.zip,Boulder Dash,cbdash.cfg,cbdash.png,/base/path/cbdash.cfg
+./bouldash.zip,Boulder Dash / Boulder Dash Part 2,bouldash.cfg,bouldash.png,/base/path/bouldash.cfg
+./bballs.zip,Bouncing Balls,bballs.cfg,bballs.png,/base/path/bballs.cfg
+./bowlrama.zip,Bowl-O-Rama,bowlrama.cfg,bowlrama.png,/base/path/bowlrama.cfg
+./boxyboy.zip,Boxy Boy,boxyboy.cfg,boxyboy.png,/base/path/boxyboy.cfg
+./bradley.zip,Bradley Trainer,bradley.cfg,bradley.png,/base/path/bradley.cfg
+./brain.zip,Brain,brain.cfg,brain.png,/base/path/brain.cfg
+./breakers.zip,Breakers,breakers.cfg,breakers.png,/base/path/breakers.cfg
+./breakrev.zip,Breakers Revenge,breakrev.cfg,breakrev.png,/base/path/breakrev.cfg
+./brkthru.zip,Break Thru,brkthru.cfg,brkthru.png,/base/path/brkthru.cfg
+./bubl2000.zip,Bubble 2000,bubl2000.cfg,bubl2000.png,/base/path/bubl2000.cfg
+./bublbob2.zip,Bubble Bobble II,bublbob2.cfg,bublbob2.png,/base/path/bublbob2.cfg
+./bublbobl.zip,Bubble Bobble,bublbobl.cfg,bublbobl.png,/base/path/bublbobl.cfg
+./bubblem.zip,Bubble Memories: The Story of Bubble Bobble III,bubblem.cfg,bubblem.png,/base/path/bubblem.cfg
+./bubbletr.zip,Bubble Trouble,bubbletr.cfg,bubbletr.png,/base/path/bubbletr.cfg
+./bubbles.zip,Bubbles,bubbles.cfg,bubbles.png,/base/path/bubbles.cfg
+./buccanrs.zip,Buccaneers,buccanrs.cfg,buccanrs.png,/base/path/buccanrs.cfg
+./buckrog.zip,Buck Rogers: Planet of Zoom,buckrog.cfg,buckrog.png,/base/path/buckrog.cfg
+./buggychl.zip,Buggy Challenge,buggychl.cfg,buggychl.png,/base/path/buggychl.cfg
+./bublbust.zip,Puzzle Bobble,bublbust.cfg,bublbust.png,/base/path/bublbust.cfg
+./bullet.zip,Bullet,bullet.cfg,bullet.png,/base/path/bullet.cfg
+./bullfgt.zip,Bullfight,bullfgt.cfg,bullfgt.png,/base/path/bullfgt.cfg
+./btime.zip,BurgerTime,btime.cfg,btime.png,/base/path/btime.cfg
+./cbtime.zip,Burger Time,cbtime.cfg,cbtime.png,/base/path/cbtime.cfg
+./burglarx.zip,Burglar X,burglarx.cfg,burglarx.png,/base/path/burglarx.cfg
+./brubber.zip,Bump 'n' Jump,brubber.cfg,brubber.png,/base/path/brubber.cfg
+./cburnrub.zip,Burnin' Rubber (DECO Cassette),cburnrub.cfg,cburnrub.png,/base/path/cburnrub.cfg
+./burningf.zip,Burning Fight,burningf.cfg,burningf.png,/base/path/burningf.cfg
+./burnforc.zip,Burning Force,burnforc.cfg,burnforc.png,/base/path/burnforc.cfg
+./brival.zip,Burning Rival,brival.cfg,brival.png,/base/path/brival.cfg
+./pang.zip,Pang,pang.cfg,pang.png,/base/path/pang.cfg
+./butasan.zip,Butasan - Pig's & Bomber's,butasan.cfg,butasan.png,/base/path/butasan.cfg
+./bygone.zip,Bygone,bygone.cfg,bygone.png,/base/path/bygone.cfg
+./cabal.zip,Cabal,cabal.cfg,cabal.png,/base/path/cabal.cfg
+./cabalng.zip,Cabal,cabalng.cfg,cabalng.png,/base/path/cabalng.cfg
+./cachat.zip,Tube-it,cachat.cfg,cachat.png,/base/path/cachat.cfg
+./cadash.zip,Cadash,cadash.cfg,cadash.png,/base/path/cadash.cfg
+./dino.zip,Cadillacs and Dinosaurs,dino.cfg,dino.png,/base/path/dino.cfg
+./calibr50.zip,Caliber 50,calibr50.cfg,calibr50.png,/base/path/calibr50.cfg
+./calipso.zip,Calipso,calipso.cfg,calipso.png,/base/path/calipso.cfg
+./calorie.zip,Calorie Kun Vs Moguranian,calorie.cfg,calorie.png,/base/path/calorie.cfg
+./cameltry.zip,Cameltry,cameltry.cfg,cameltry.png,/base/path/cameltry.cfg
+./candy.zip,Candy Candy,candy.cfg,candy.png,/base/path/candy.cfg
+./cannball.zip,Cannon Ball,cannball.cfg,cannball.png,/base/path/cannball.cfg
+./cannonbp.zip,Cannon Ball,cannonbp.cfg,cannonbp.png,/base/path/cannonbp.cfg
+./canvas.zip,Canvas Croquis,canvas.cfg,canvas.png,/base/path/canvas.cfg
+./croquis.zip,Canvas Croquis,croquis.cfg,croquis.png,/base/path/croquis.cfg
+./canyon.zip,Canyon Bomber,canyon.cfg,canyon.png,/base/path/canyon.cfg
+./capbowl.zip,Capcom Bowling,capbowl.cfg,capbowl.png,/base/path/capbowl.cfg
+./csclub.zip,Capcom Sports Club,csclub.cfg,csclub.png,/base/path/csclub.cfg
+./cworld.zip,Adventure Quiz: Capcom World,cworld.cfg,cworld.png,/base/path/cworld.cfg
+./captaven.zip,Captain America And The Avengers,captaven.cfg,captaven.png,/base/path/captaven.cfg
+./captcomm.zip,Captain Commando,captcomm.cfg,captcomm.png,/base/path/captcomm.cfg
+./csilver.zip,Captain Silver,csilver.cfg,csilver.png,/base/path/csilver.cfg
+./ctomaday.zip,Captain Tomaday,ctomaday.cfg,ctomaday.png,/base/path/ctomaday.cfg
+./carjmbre.zip,Car Jamboree,carjmbre.cfg,carjmbre.png,/base/path/carjmbre.cfg
+./curvebal.zip,Car Polo,curvebal.cfg,curvebal.png,/base/path/curvebal.cfg
+./carket.zip,Carket Ball,carket.cfg,carket.png,/base/path/carket.cfg
+./carnival.zip,Carnival,carnival.cfg,carnival.png,/base/path/carnival.cfg
+./cawing.zip,Carrier Air Wing,cawing.cfg,cawing.png,/base/path/cawing.cfg
+./cashquiz.zip,Cash Quiz,cashquiz.cfg,cashquiz.png,/base/path/cashquiz.cfg
+./catacomb.zip,Catacomb,catacomb.cfg,catacomb.png,/base/path/catacomb.cfg
+./mcatadv.zip,Magical Cat Adventure,mcatadv.cfg,mcatadv.png,/base/path/mcatadv.cfg
+./cavelon.zip,Cavelon,cavelon.cfg,cavelon.png,/base/path/cavelon.cfg
+./cninja.zip,Caveman Ninja,cninja.cfg,cninja.png,/base/path/cninja.cfg
+./centiped.zip,Centipede,centiped.cfg,centiped.png,/base/path/centiped.cfg
+./casanova.zip,Casanova,casanova.cfg,casanova.png,/base/path/casanova.cfg
+./chaknpop.zip,Chack'n Pop,chaknpop.cfg,chaknpop.png,/base/path/chaknpop.cfg
+./chainrec.zip,Chain Reaction,chainrec.cfg,chainrec.png,/base/path/chainrec.cfg
+./chameleo.zip,Chameleon,chameleo.cfg,chameleo.png,/base/path/chameleo.cfg
+./champwr.zip,Champion Wrestler,champwr.cfg,champwr.png,/base/path/champwr.cfg
+./chanbara.zip,Chanbara,chanbara.cfg,chanbara.png,/base/path/chanbara.cfg
+./chkun.zip,Chance Kun,chkun.cfg,chkun.png,/base/path/chkun.cfg
+./cairblad.zip,Change Air Blade,cairblad.cfg,cairblad.png,/base/path/cairblad.cfg
+./changes.zip,Changes,changes.cfg,changes.png,/base/path/changes.cfg
+./charlien.zip,Charlie Ninja,charlien.cfg,charlien.png,/base/path/charlien.cfg
+./cbombers.zip,Chase Bombers,cbombers.cfg,cbombers.png,/base/path/cbombers.cfg
+./chasehq.zip,Chase H.Q.,chasehq.cfg,chasehq.png,/base/path/chasehq.cfg
+./checkman.zip,Check Man,checkman.cfg,checkman.png,/base/path/checkman.cfg
+./cheekyms.zip,Cheeky Mouse,cheekyms.cfg,cheekyms.png,/base/path/cheekyms.cfg
+./cheesech.zip,Cheese Chase,cheesech.cfg,cheesech.png,/base/path/cheesech.cfg
+./cyclemb.zip,Cycle Maabou,cyclemb.cfg,cyclemb.png,/base/path/cyclemb.cfg
+./chelnov.zip,Chelnov - Atomic Runner,chelnov.cfg,chelnov.png,/base/path/chelnov.cfg
+./chqflag.zip,Chequered Flag,chqflag.cfg,chqflag.png,/base/path/chqflag.cfg
+./cheyenne.zip,Cheyenne,cheyenne.cfg,cheyenne.png,/base/path/cheyenne.cfg
+./marukodq.zip,Chibi Marukochan Deluxe Quiz,marukodq.cfg,marukodq.png,/base/path/marukodq.cfg
+./chiller.zip,Chiller,chiller.cfg,chiller.png,/base/path/chiller.cfg
+./chimerab.zip,Chimera Beast,chimerab.cfg,chimerab.png,/base/path/chimerab.cfg
+./chinagat.zip,China Gate,chinagat.cfg,chinagat.png,/base/path/chinagat.cfg
+./chinatwn.zip,China Town,chinatwn.cfg,chinatwn.png,/base/path/chinatwn.cfg
+./comotion.zip,China Town,comotion.cfg,comotion.png,/base/path/comotion.cfg
+./chinhero.zip,Chinese Hero,chinhero.cfg,chinhero.png,/base/path/chinhero.cfg
+./chokchok.zip,Choky! Choky!,chokchok.cfg,chokchok.png,/base/path/chokchok.cfg
+./choplift.zip,Choplifter,choplift.cfg,choplift.png,/base/path/choplift.cfg
+./chopper.zip,Chopper I,chopper.cfg,chopper.png,/base/path/chopper.cfg
+./berabohm.zip,Beraboh Man,berabohm.cfg,berabohm.png,/base/path/berabohm.cfg
+./ironclad.zip,Ironclad,ironclad.cfg,ironclad.png,/base/path/ironclad.cfg
+./chukatai.zip,Chuka Taisen,chukatai.cfg,chukatai.png,/base/path/chukatai.cfg
+./circusc.zip,Circus Charlie,circusc.cfg,circusc.png,/base/path/circusc.cfg
+./cischeat.zip,Cisco Heat,cischeat.cfg,cischeat.png,/base/path/cischeat.cfg
+./citybomb.zip,City Bomber,citybomb.cfg,citybomb.png,/base/path/citybomb.cfg
+./citycon.zip,City Connection,citycon.cfg,citycon.png,/base/path/citycon.cfg
+./clshroad.zip,Clash-road,clshroad.cfg,clshroad.png,/base/path/clshroad.cfg
+./claypign.zip,Clay Pigeon,claypign.cfg,claypign.png,/base/path/claypign.cfg
+./cleopatr.zip,Cleopatra Fortune,cleopatr.cfg,cleopatr.png,/base/path/cleopatr.cfg
+./cloak.zip,Cloak & Dagger,cloak.cfg,cloak.png,/base/path/cloak.cfg
+./cloud9.zip,Cloud 9,cloud9.cfg,cloud9.png,/base/path/cloud9.cfg
+./cgraplop.zip,Cluster Buster,cgraplop.cfg,cgraplop.png,/base/path/cgraplop.cfg
+./cltchitr.zip,Clutch Hitter,cltchitr.cfg,cltchitr.png,/base/path/cltchitr.cfg
+./cobracom.zip,Cobra-command,cobracom.cfg,cobracom.png,/base/path/cobracom.cfg
+./colony7.zip,Colony 7,colony7.cfg,colony7.png,/base/path/colony7.cfg
+./columns.zip,Columns,columns.cfg,columns.png,/base/path/columns.cfg
+./columns2.zip,Columns II: The Voyage Through Time,columns2.cfg,columns2.png,/base/path/columns2.cfg
+./combat.zip,Combat,combat.cfg,combat.png,/base/path/combat.cfg
+./combh.zip,Combat Hawk,combh.cfg,combh.png,/base/path/combh.cfg
+./combatsc.zip,Combat School,combatsc.cfg,combatsc.png,/base/path/combatsc.cfg
+./toto.zip,Come Back Toto,toto.cfg,toto.png,/base/path/toto.cfg
+./commandw.zip,Command War - Super Special Battle & War Game,commandw.cfg,commandw.png,/base/path/commandw.cfg
+./complexx.zip,Complex X,complexx.cfg,complexx.png,/base/path/complexx.cfg
+./contcirc.zip,Continental Circus,contcirc.cfg,contcirc.png,/base/path/contcirc.cfg
+./contra.zip,Gryzor,contra.cfg,contra.png,/base/path/contra.cfg
+./cookbib.zip,Cookie & Bibi,cookbib.cfg,cookbib.png,/base/path/cookbib.cfg
+./cookbib2.zip,Cookie & Bibi 2,cookbib2.cfg,cookbib2.png,/base/path/cookbib2.cfg
+./cookbib3.zip,Cookie & Bibi 3,cookbib3.cfg,cookbib3.png,/base/path/cookbib3.cfg
+./coolmini.zip,Cool Minigame Collection,coolmini.cfg,coolmini.png,/base/path/coolmini.cfg
+./cop01.zip,Cop 01,cop01.cfg,cop01.png,/base/path/cop01.cfg
+./cavenger.zip,Cosmic Avenger,cavenger.cfg,cavenger.png,/base/path/cavenger.cfg
+./cosmccop.zip,Cosmic Cop,cosmccop.cfg,cosmccop.png,/base/path/cosmccop.cfg
+./cgangpzl.zip,Cosmo Gang the Puzzle,cgangpzl.cfg,cgangpzl.png,/base/path/cgangpzl.cfg
+./cosmogng.zip,Cosmo Gang the Video,cosmogng.cfg,cosmogng.png,/base/path/cosmogng.cfg
+./countrun.zip,Counter Run,countrun.cfg,countrun.png,/base/path/countrun.cfg
+./countryc.zip,Country Club,countryc.cfg,countryc.png,/base/path/countryc.cfg
+./crkdown.zip,Crack Down,crkdown.cfg,crkdown.png,/base/path/crkdown.cfg
+./cracksht.zip,Crackshot,cracksht.cfg,cracksht.png,/base/path/cracksht.cfg
+./qcrayon2.zip,Crayon Shinchan Orato Asobo,qcrayon2.cfg,qcrayon2.png,/base/path/qcrayon2.cfg
+./crbaloon.zip,Crazy Balloon,crbaloon.cfg,crbaloon.png,/base/path/crbaloon.cfg
+./cclimber.zip,Crazy Climber,cclimber.cfg,cclimber.png,/base/path/cclimber.cfg
+./cclimbr2.zip,Crazy Climber 2,cclimbr2.cfg,cclimbr2.png,/base/path/cclimbr2.cfg
+./crazyfgt.zip,Crazy Fight,crazyfgt.cfg,crazyfgt.png,/base/path/crazyfgt.cfg
+./ckong.zip,Crazy Kong,ckong.cfg,ckong.png,/base/path/ckong.cfg
+./ckongpt2.zip,Crazy Kong Part II,ckongpt2.cfg,ckongpt2.png,/base/path/ckongpt2.cfg
+./crzrally.zip,Crazy Rally,crzrally.cfg,crzrally.png,/base/path/crzrally.cfg
+./crazywar.zip,Crazy War,crazywar.cfg,crazywar.png,/base/path/crazywar.cfg
+./crimec.zip,Crime City,crimec.cfg,crimec.png,/base/path/crimec.cfg
+./crimfght.zip,Crime Fighters,crimfght.cfg,crimfght.png,/base/path/crimfght.cfg
+./crospang.zip,Cross Pang,crospang.cfg,crospang.png,/base/path/crospang.cfg
+./crossbow.zip,Crossbow,crossbow.cfg,crossbow.png,/base/path/crossbow.cfg
+./crsword.zip,Crossed Swords,crsword.cfg,crsword.png,/base/path/crsword.cfg
+./cbuster.zip,Crude Buster,cbuster.cfg,cbuster.png,/base/path/cbuster.cfg
+./crush.zip,Crush Roller,crush.cfg,crush.png,/base/path/crush.cfg
+./crusherm.zip,Crusher Makochan,crusherm.cfg,crusherm.png,/base/path/crusherm.cfg
+./cexplore.zip,Crypt Killer,cexplore.cfg,cexplore.png,/base/path/cexplore.cfg
+./ccastles.zip,Crystal Castles,ccastles.cfg,ccastles.png,/base/path/ccastles.cfg
+./cubybop.zip,Cuby Bop,cubybop.cfg,cubybop.png,/base/path/cubybop.cfg
+./cuebrick.zip,Cue Brick,cuebrick.cfg,cuebrick.png,/base/path/cuebrick.cfg
+./cutefght.zip,Cute Fighter,cutefght.cfg,cutefght.png,/base/path/cutefght.cfg
+./cutieq.zip,Cutie Q,cutieq.cfg,cutieq.png,/base/path/cutieq.cfg
+./cybattlr.zip,Cybattler,cybattlr.cfg,cybattlr.png,/base/path/cybattlr.cfg
+./cybertnk.zip,Cyber Tank,cybertnk.cfg,cybertnk.png,/base/path/cybertnk.cfg
+./cyberlip.zip,Cyber-Lip,cyberlip.cfg,cyberlip.png,/base/path/cyberlip.cfg
+./cybots.zip,Cyberbots : Fullmetal Madness,cybots.cfg,cybots.png,/base/path/cybots.cfg
+./cyclshtg.zip,Cycle Shooting,cyclshtg.cfg,cyclshtg.png,/base/path/cyclshtg.cfg
+./cyvern.zip,Cyvern - The Dragon Weapons,cyvern.cfg,cyvern.png,/base/path/cyvern.cfg
+./dcon.zip,D-con,dcon.cfg,dcon.png,/base/path/dcon.cfg
+./dockman.zip,Dock Man,dockman.cfg,dockman.png,/base/path/dockman.cfg
+./dday.zip,D-day,dday.cfg,dday.png,/base/path/dday.cfg
+./ddayjlc.zip,D-day,ddayjlc.cfg,ddayjlc.png,/base/path/ddayjlc.cfg
+./ddcrew.zip,D. D. Crew,ddcrew.cfg,ddcrew.png,/base/path/ddcrew.cfg
+./dacholer.zip,Dacholer,dacholer.cfg,dacholer.png,/base/path/dacholer.cfg
+./kickboy.zip,Dacholer,kickboy.cfg,kickboy.png,/base/path/kickboy.cfg
+./daikaiju.zip,Daikaiju No Gyakushu,daikaiju.cfg,daikaiju.png,/base/path/daikaiju.cfg
+./daioh.zip,Daioh,daioh.cfg,daioh.png,/base/path/daioh.cfg
+./daitorid.zip,Daitoride,daitorid.cfg,daitorid.png,/base/path/daitorid.cfg
+./dambustr.zip,Dambusters,dambustr.cfg,dambustr.png,/base/path/dambustr.cfg
+./dangseed.zip,Dangerous Seed,dangseed.cfg,dangseed.png,/base/path/dangseed.cfg
+./darius.zip,Darius,darius.cfg,darius.png,/base/path/darius.cfg
+./dariusg.zip,Darius Gaiden - Silver Hawk,dariusg.cfg,dariusg.png,/base/path/dariusg.cfg
+./dariusgx.zip,Darius Gaiden - Silver Hawk Extra Version,dariusgx.cfg,dariusgx.png,/base/path/dariusgx.cfg
+./darius2.zip,Darius II,darius2.cfg,darius2.png,/base/path/darius2.cfg
+./darkedge.zip,Dark Edge,darkedge.cfg,darkedge.png,/base/path/darkedge.cfg
+./darkplnt.zip,Dark Planet,darkplnt.cfg,darkplnt.png,/base/path/darkplnt.cfg
+./darkseal.zip,Dark Seal,darkseal.cfg,darkseal.png,/base/path/darkseal.cfg
+./darktowr.zip,Dark Tower,darktowr.cfg,darktowr.png,/base/path/darktowr.cfg
+./dstlk.zip,Darkstalkers: The Night Warriors,dstlk.cfg,dstlk.png,/base/path/dstlk.cfg
+./darwin.zip,Darwin 4078,darwin.cfg,darwin.png,/base/path/darwin.cfg
+./dquizgo.zip,Date Quiz Go Go,dquizgo.cfg,dquizgo.png,/base/path/dquizgo.cfg
+./dankuga.zip,Dan-ku-ga,dankuga.cfg,dankuga.png,/base/path/dankuga.cfg
+./ddpsdoj.zip,Dodonpachi Saidaioujou,ddpsdoj.cfg,ddpsdoj.png,/base/path/ddpsdoj.cfg
+./deadang.zip,Dead Angle,deadang.cfg,deadang.png,/base/path/deadang.cfg
+./deadconx.zip,Dead Connection,deadconx.cfg,deadconx.png,/base/path/deadconx.cfg
+./mutantf.zip,Mutant Fighter,mutantf.cfg,mutantf.png,/base/path/mutantf.cfg
+./deathsml.zip,Deathsmiles,deathsml.cfg,deathsml.png,/base/path/deathsml.cfg
+./dsmbl.zip,Deathsmiles MegaBlack Label,dsmbl.cfg,dsmbl.png,/base/path/dsmbl.cfg
+./deerhunt.zip,Deer Hunting Usa V4.3,deerhunt.cfg,deerhunt.png,/base/path/deerhunt.cfg
+./redufo.zip,Defend the Terra Attack on the Red UFO,redufo.cfg,redufo.png,/base/path/redufo.cfg
+./defender.zip,Defender,defender.cfg,defender.png,/base/path/defender.cfg
+./deluxe5.zip,Deluxe 5,deluxe5.cfg,deluxe5.png,/base/path/deluxe5.cfg
+./demoderb.zip,Demolition Derby,demoderb.cfg,demoderb.png,/base/path/demoderb.cfg
+./meijinsn.zip,Meijinsen,meijinsn.cfg,meijinsn.png,/base/path/meijinsn.cfg
+./mgakuen.zip,Mahjong Gakuen,mgakuen.cfg,mgakuen.png,/base/path/mgakuen.cfg
+./demonwld.zip,Demon's World,demonwld.cfg,demonwld.png,/base/path/demonwld.cfg
+./denjinmk.zip,Denjin Makai,denjinmk.cfg,denjinmk.png,/base/path/denjinmk.cfg
+./deroon.zip,Deroon Derodero,deroon.cfg,deroon.png,/base/path/deroon.cfg
+./desertbr.zip,Desert Breaker,desertbr.cfg,desertbr.png,/base/path/desertbr.cfg
+./desertdn.zip,Desert Dan,desertdn.cfg,desertdn.png,/base/path/desertdn.cfg
+./desertwr.zip,Desert War,desertwr.cfg,desertwr.png,/base/path/desertwr.cfg
+./devstors.zip,Devastators,devstors.cfg,devstors.png,/base/path/devstors.cfg
+./devilfsh.zip,Devil Fish,devilfsh.cfg,devilfsh.png,/base/path/devilfsh.cfg
+./devilw.zip,Devil World,devilw.cfg,devilw.png,/base/path/devilw.cfg
+./dharma.zip,Dharma Doujou,dharma.cfg,dharma.png,/base/path/dharma.cfg
+./diamond.zip,Diamond Run,diamond.cfg,diamond.png,/base/path/diamond.cfg
+./dtfamily.zip,Diet Family,dtfamily.cfg,dtfamily.png,/base/path/dtfamily.cfg
+./dietgo.zip,Diet Go Go,dietgo.cfg,dietgo.png,/base/path/dietgo.cfg
+./digdug.zip,Dig Dug,digdug.cfg,digdug.png,/base/path/digdug.cfg
+./digdug2.zip,Dig Dug II,digdug2.cfg,digdug2.png,/base/path/digdug2.cfg
+./diggerma.zip,Digger Man,diggerma.cfg,diggerma.png,/base/path/diggerma.cfg
+./dimahoo.zip,Dimahoo,dimahoo.cfg,dimahoo.png,/base/path/dimahoo.cfg
+./dingo.zip,Dingo,dingo.cfg,dingo.png,/base/path/dingo.cfg
+./dinorex.zip,Dino Rex,dinorex.cfg,dinorex.png,/base/path/dinorex.cfg
+./dirtfoxj.zip,Dirt Fox,dirtfoxj.cfg,dirtfoxj.png,/base/path/dirtfoxj.cfg
+./discoboy.zip,Disco Boy,discoboy.cfg,discoboy.png,/base/path/discoboy.cfg
+./cdiscon1.zip,Disco No.1 (DECO Cassette),cdiscon1.cfg,cdiscon1.png,/base/path/cdiscon1.cfg
+./disco.zip,Disco No.1,disco.cfg,disco.png,/base/path/disco.cfg
+./dotron.zip,Discs Of Tron,dotron.cfg,dotron.png,/base/path/dotron.cfg
+./diverboy.zip,Diver Boy,diverboy.cfg,diverboy.png,/base/path/diverboy.cfg
+./djboy.zip,Dj Boy,djboy.cfg,djboy.png,/base/path/djboy.cfg
+./dorunrun.zip,Do! Run Run,dorunrun.cfg,dorunrun.png,/base/path/dorunrun.cfg
+./dodgeman.zip,Dodge Man,dodgeman.cfg,dodgeman.png,/base/path/dodgeman.cfg
+./ddonpach.zip,DoDonPachi,ddonpach.cfg,ddonpach.png,/base/path/ddonpach.cfg
+./ddp3.zip,DoDonPachi,ddp3.cfg,ddp3.png,/base/path/ddp3.cfg
+./dfkbl.zip,DoDonPachi Dai-Fukkatsu Black Label,dfkbl.cfg,dfkbl.png,/base/path/dfkbl.cfg
+./ddpdfk.zip,DoDonPachi Resurrection,ddpdfk.cfg,ddpdfk.png,/base/path/ddpdfk.cfg
+./ddp2.zip,DoDonPachi II - Bee Storm,ddp2.cfg,ddp2.png,/base/path/ddp2.cfg
+./dogfight.zip,Dog Fight,dogfight.cfg,dogfight.png,/base/path/dogfight.cfg
+./dquizgo2.zip,Date Quiz Go Go Episode 2,dquizgo2.cfg,dquizgo2.png,/base/path/dquizgo2.cfg
+./dogyuun.zip,Dogyuun,dogyuun.cfg,dogyuun.png,/base/path/dogyuun.cfg
+./dokaben.zip,Dokaben,dokaben.cfg,dokaben.png,/base/path/dokaben.cfg
+./dokaben2.zip,Dokaben 2,dokaben2.cfg,dokaben2.png,/base/path/dokaben2.cfg
+./dolmen.zip,Dolmen,dolmen.cfg,dolmen.png,/base/path/dolmen.cfg
+./domino.zip,Domino Man,domino.cfg,domino.png,/base/path/domino.cfg
+./dommy.zip,Dommy,dommy.cfg,dommy.png,/base/path/dommy.cfg
+./dondokod.zip,Don Doko Don,dondokod.cfg,dondokod.png,/base/path/dondokod.cfg
+./dkong.zip,Donkey Kong,dkong.cfg,dkong.png,/base/path/dkong.cfg
+./dkong3.zip,Donkey Kong 3,dkong3.cfg,dkong3.png,/base/path/dkong3.cfg
+./kong.zip,Kong,kong.cfg,kong.png,/base/path/kong.cfg
+./dkongjr.zip,Donkey Kong Junior,dkongjr.cfg,dkongjr.png,/base/path/dkongjr.cfg
+./donpachi.zip,DonPachi,donpachi.cfg,donpachi.png,/base/path/donpachi.cfg
+./dorodon.zip,Dorodon,dorodon.cfg,dorodon.png,/base/path/dorodon.cfg
+./dorachan.zip,Dorachan,dorachan.cfg,dorachan.png,/base/path/dorachan.cfg
+./dotrikun.zip,Dottori Kun,dotrikun.cfg,dotrikun.png,/base/path/dotrikun.cfg
+./dblaxle.zip,Double Axle,dblaxle.cfg,dblaxle.png,/base/path/dblaxle.cfg
+./ddragon.zip,Double Dragon,ddragon.cfg,ddragon.png,/base/path/ddragon.cfg
+./doubledr.zip,Double Dragon,doubledr.cfg,doubledr.png,/base/path/doubledr.cfg
+./ddragon3.zip,Double Dragon 3 - The Rosetta Stone,ddragon3.cfg,ddragon3.png,/base/path/ddragon3.cfg
+./ddragon2.zip,Double Dragon 2 - The Revenge,ddragon2.cfg,ddragon2.png,/base/path/ddragon2.cfg
+./ddribble.zip,Double Dribble,ddribble.cfg,ddribble.png,/base/path/ddribble.cfg
+./dblpoint.zip,Double Point,dblpoint.cfg,dblpoint.png,/base/path/dblpoint.cfg
+./downtown.zip,Downtown / Mokugeki,downtown.cfg,downtown.png,/base/path/downtown.cfg
+./sparkz.zip,Sparkz,sparkz.cfg,sparkz.png,/base/path/sparkz.cfg
+./vsdrmario.zip,Vs. Dr. Mario,vsdrmario.cfg,vsdrmario.png,/base/path/vsdrmario.cfg
+./drmicro.zip,Dr. Micro,drmicro.cfg,drmicro.png,/base/path/drmicro.cfg
+./dsoccr94.zip,Dream Soccer '94,dsoccr94.cfg,dsoccr94.png,/base/path/dsoccr94.cfg
+./drtomy.zip,Dr. Tomy,drtomy.cfg,drtomy.png,/base/path/drtomy.cfg
+./drtoppel.zip,Dr. Toppel's Adventure,drtoppel.cfg,drtoppel.png,/base/path/drtoppel.cfg
+./dbz.zip,DragonBall Z,dbz.cfg,dbz.png,/base/path/dbz.cfg
+./dbz2.zip,Dragonball Z 2 - Super Battle,dbz2.cfg,dbz2.png,/base/path/dbz2.cfg
+./dbzvrvs.zip,Dragon Ball Z V.r.v.s.,dbzvrvs.cfg,dbzvrvs.png,/base/path/dbzvrvs.cfg
+./dragnblz.zip,Dragon Blaze,dragnblz.cfg,dragnblz.png,/base/path/dragnblz.cfg
+./drgnbowl.zip,Dragon Bowl,drgnbowl.cfg,drgnbowl.png,/base/path/drgnbowl.cfg
+./dbreed.zip,Dragon Breed,dbreed.cfg,dbreed.png,/base/path/dbreed.cfg
+./drgnbstr.zip,Dragon Buster,drgnbstr.cfg,drgnbstr.png,/base/path/drgnbstr.cfg
+./dragngun.zip,Dragon Gun,dragngun.cfg,dragngun.png,/base/path/dragngun.cfg
+./drgnmst.zip,Dragon Master,drgnmst.cfg,drgnmst.png,/base/path/drgnmst.cfg
+./dsaber.zip,Dragon Saber,dsaber.cfg,dsaber.png,/base/path/dsaber.cfg
+./dspirit.zip,Dragon Spirit,dspirit.cfg,dspirit.png,/base/path/dspirit.cfg
+./drgnunit.zip,Dragon Unit / Castle Of Dragon,drgnunit.cfg,drgnunit.png,/base/path/drgnunit.cfg
+./dw2001.zip,Dragon World 3,dw2001.cfg,dw2001.png,/base/path/dw2001.cfg
+./crashh.zip,Crash,crashh.cfg,crashh.png,/base/path/crashh.cfg
+./drgw2.zip,Dragon World II,drgw2.cfg,drgw2.png,/base/path/drgw2.cfg
+./dragonsh.zip,Dragon's Heaven,dragonsh.cfg,dragonsh.png,/base/path/dragonsh.cfg
+./drakton.zip,Drakton,drakton.cfg,drakton.png,/base/path/drakton.cfg
+./keithlcy.zip,Dramatic Adventure Quiz Keith & Lucy,keithlcy.cfg,keithlcy.png,/base/path/keithlcy.cfg
+./dreambal.zip,Dream Ball,dreambal.cfg,dreambal.png,/base/path/dreambal.cfg
+./dremshpr.zip,Dream Shopper,dremshpr.cfg,dremshpr.png,/base/path/dremshpr.cfg
+./dreamwld.zip,Dream World,dreamwld.cfg,dreamwld.png,/base/path/dreamwld.cfg
+./dribling.zip,Dribbling,dribling.cfg,dribling.png,/base/path/dribling.cfg
+./driftout.zip,Drift Out,driftout.cfg,driftout.png,/base/path/driftout.cfg
+./drifto94.zip,Drift Out '94 - The Hard Order,drifto94.cfg,drifto94.png,/base/path/drifto94.cfg
+./drivfrcp.zip,Driving Force,drivfrcp.cfg,drivfrcp.png,/base/path/drivfrcp.cfg
+./cdsteljn.zip,Ds Telejan,cdsteljn.cfg,cdsteljn.png,/base/path/cdsteljn.cfg
+./vsduckhunt.zip,Vs. Duck Hunt,vsduckhunt.cfg,vsduckhunt.png,/base/path/vsduckhunt.cfg
+./lightbr.zip,Dungeon Magic,lightbr.cfg,lightbr.png,/base/path/lightbr.cfg
+./ddsom.zip,Dungeons & Dragons: Shadow over Mystara,ddsom.cfg,ddsom.png,/base/path/ddsom.cfg
+./ddtod.zip,Dungeons & Dragons: Tower of Doom,ddtod.cfg,ddtod.png,/base/path/ddtod.cfg
+./dunkshot.zip,Dunk Shot,dunkshot.cfg,dunkshot.png,/base/path/dunkshot.cfg
+./dyger.zip,Dyger,dyger.cfg,dyger.png,/base/path/dyger.cfg
+./dynagear.zip,Dyna Gear,dynagear.cfg,dynagear.png,/base/path/dynagear.cfg
+./dynablst.zip,Dynablaster,dynablst.cfg,dynablst.png,/base/path/dynablst.cfg
+./dcclub.zip,Dynamic Country Club,dcclub.cfg,dcclub.png,/base/path/dcclub.cfg
+./dynamski.zip,Dynamic Ski,dynamski.cfg,dynamski.png,/base/path/dynamski.cfg
+./dynabomb.zip,Dynamite Bomber,dynabomb.cfg,dynabomb.png,/base/path/dynabomb.cfg
+./dynduke.zip,Dynamite Duke,dynduke.cfg,dynduke.png,/base/path/dynduke.cfg
+./ddux.zip,Dynamite Dux,ddux.cfg,ddux.png,/base/path/ddux.cfg
+./dleague.zip,Dynamite League,dleague.cfg,dleague.png,/base/path/dleague.cfg
+./dynwar.zip,Dynasty Wars,dynwar.cfg,dynwar.png,/base/path/dynwar.cfg
+./ejanhs.zip,E Jong High School,ejanhs.cfg,ejanhs.png,/base/path/ejanhs.cfg
+./ejsakura.zip,E-jan Sakurasou,ejsakura.cfg,ejsakura.png,/base/path/ejsakura.cfg
+./eswat.zip,E-swat - Cyber Police,eswat.cfg,eswat.png,/base/path/eswat.cfg
+./edf.zip,E.D.F. : Earth Defense Force,edf.cfg,edf.png,/base/path/edf.cfg
+./eaglshot.zip,Eagle Shot Golf,eaglshot.cfg,eaglshot.png,/base/path/eaglshot.cfg
+./ecofghtr.zip,Eco Fighters,ecofghtr.cfg,ecofghtr.png,/base/path/ecofghtr.cfg
+./egghunt.zip,Egg Hunt,egghunt.cfg,egghunt.png,/base/path/egghunt.cfg
+./eggor.zip,Eggor,eggor.cfg,eggor.png,/base/path/eggor.cfg
+./eeekk.zip,Scrambled Egg,eeekk.cfg,eeekk.png,/base/path/eeekk.cfg
+./eightfrc.zip,Eight Forces,eightfrc.cfg,eightfrc.png,/base/path/eightfrc.cfg
+./eightman.zip,Eight Man,eightman.cfg,eightman.png,/base/path/eightman.cfg
+./efdt.zip,El Fin Del Tiempo,efdt.cfg,efdt.png,/base/path/efdt.cfg
+./elevator.zip,Elevator Action,elevator.cfg,elevator.png,/base/path/elevator.cfg
+./elvactr.zip,Elevator Action Returns,elvactr.cfg,elvactr.png,/base/path/elvactr.cfg
+./elim2.zip,Eliminator,elim2.cfg,elim2.png,/base/path/elim2.cfg
+./emeralda.zip,Emeraldia,emeralda.cfg,emeralda.png,/base/path/emeralda.cfg
+./enduror.zip,Enduro Racer,enduror.cfg,enduror.png,/base/path/enduror.cfg
+./enforce.zip,Enforce,enforce.cfg,enforce.png,/base/path/enforce.cfg
+./enmadaio.zip,Enma Daio,enmadaio.cfg,enmadaio.png,/base/path/enmadaio.cfg
+./eprom.zip,Escape From The Planet Of The Robot Monsters,eprom.cfg,eprom.png,/base/path/eprom.cfg
+./esckids.zip,Escape Kids,esckids.cfg,esckids.png,/base/path/esckids.cfg
+./esprade.zip,ESP Ra.De.,esprade.cfg,esprade.png,/base/path/esprade.cfg
+./espgal.zip,Espgaluda,espgal.cfg,espgal.png,/base/path/espgal.cfg
+./espgal2.zip,Espgaluda II,espgal2.cfg,espgal2.png,/base/path/espgal2.cfg
+./espial.zip,Espial,espial.cfg,espial.png,/base/path/espial.cfg
+./euroch92.zip,Euro Champ '92,euroch92.cfg,euroch92.png,/base/path/euroch92.cfg
+./evilston.zip,Evil Stone,evilston.cfg,evilston.png,/base/path/evilston.cfg
+./excelsr.zip,Excelsior,excelsr.cfg,excelsr.png,/base/path/excelsr.cfg
+./exctleag.zip,Excite League,exctleag.cfg,exctleag.png,/base/path/exctleag.cfg
+./vsexcitebike.zip,Vs. Excitebike,vsexcitebike.cfg,vsexcitebike.png,/base/path/vsexcitebike.cfg
+./exedexes.zip,Exed Exes,exedexes.cfg,exedexes.png,/base/path/exedexes.cfg
+./exerion.zip,Exerion,exerion.cfg,exerion.png,/base/path/exerion.cfg
+./explbrkr.zip,Explosive Breaker,explbrkr.cfg,explbrkr.png,/base/path/explbrkr.cfg
+./exprraid.zip,Express Raider,exprraid.cfg,exprraid.png,/base/path/exprraid.cfg
+./extrmatn.zip,Extermination,extrmatn.cfg,extrmatn.png,/base/path/extrmatn.cfg
+./exterm.zip,Exterminator,exterm.cfg,exterm.png,/base/path/exterm.cfg
+./extdwnhl.zip,Extreme Downhill,extdwnhl.cfg,extdwnhl.png,/base/path/extdwnhl.cfg
+./exvania.zip,Exvania,exvania.cfg,exvania.png,/base/path/exvania.cfg
+./exzisus.zip,Exzisus,exzisus.cfg,exzisus.png,/base/path/exzisus.cfg
+./eyes.zip,Eyes,eyes.cfg,eyes.png,/base/path/eyes.cfg
+./f1dream.zip,F-1 Dream,f1dream.cfg,f1dream.png,/base/path/f1dream.cfg
+./f1gp.zip,F-1 Grand Prix,f1gp.cfg,f1gp.png,/base/path/f1gp.cfg
+./f1gp2.zip,F-1 Grand Prix Part II,f1gp2.cfg,f1gp2.png,/base/path/f1gp2.cfg
+./f1gpstr2.zip,F-1 Grand Prix Star II,f1gpstr2.cfg,f1gpstr2.png,/base/path/f1gpstr2.cfg
+./f1en.zip,F1 Exhaust Note,f1en.cfg,f1en.png,/base/path/f1en.cfg
+./f1lap.zip,F1 Super Lap,f1lap.cfg,f1lap.png,/base/path/f1lap.cfg
+./faceoff.zip,Face Off,faceoff.cfg,faceoff.png,/base/path/faceoff.cfg
+./fncywld.zip,Fancy World: Earth of Crisis,fncywld.cfg,fncywld.png,/base/path/fncywld.cfg
+./fantasia.zip,Fantasia,fantasia.cfg,fantasia.png,/base/path/fantasia.cfg
+./fantsia2.zip,Fantasia II,fantsia2.cfg,fantsia2.png,/base/path/fantsia2.cfg
+./fantastc.zip,Fantastic,fantastc.cfg,fantastc.png,/base/path/fantastc.cfg
+./fantasyu.zip,Fantasy,fantasyu.cfg,fantasyu.png,/base/path/fantasyu.cfg
+./fantland.zip,Fantasy Land,fantland.cfg,fantland.png,/base/path/fantland.cfg
+./fantzone.zip,Fantasy Zone,fantzone.cfg,fantzone.png,/base/path/fantzone.cfg
+./fantzn2.zip,Fantasy Zone II: The Tears of Opa-Opa,fantzn2.cfg,fantzn2.png,/base/path/fantzn2.cfg
+./fantzn2x.zip,Fantasy Zone II: The Tears of Opa-Opa,fantzn2x.cfg,fantzn2x.png,/base/path/fantzn2x.cfg
+./kabukikl.zip,Far East of Eden: Kabuki Klash,kabukikl.cfg,kabukikl.png,/base/path/kabukikl.cfg
+./flyboy.zip,Fly-boy,flyboy.cfg,flyboy.png,/base/path/flyboy.cfg
+./fastlane.zip,Fast Lane,fastlane.cfg,fastlane.png,/base/path/fastlane.cfg
+./sqbert.zip,"Faster, Harder, More Challenging Q*bert",sqbert.cfg,sqbert.png,/base/path/sqbert.cfg
+./fatfury1.zip,Fatal Fury : King of Fighters,fatfury1.cfg,fatfury1.png,/base/path/fatfury1.cfg
+./fatfury2.zip,Fatal Fury 2,fatfury2.cfg,fatfury2.png,/base/path/fatfury2.cfg
+./fatfury3.zip,Fatal Fury 3: Road to the Final Victory,fatfury3.cfg,fatfury3.png,/base/path/fatfury3.cfg
+./fatfursp.zip,Fatal Fury Special,fatfursp.cfg,fatfursp.png,/base/path/fatfursp.cfg
+./feversos.zip,Fever SOS,feversos.cfg,feversos.png,/base/path/feversos.cfg
+./fcombat.zip,Field Combat,fcombat.cfg,fcombat.png,/base/path/fcombat.cfg
+./fightfev.zip,Fight Fever,fightfev.cfg,fightfev.png,/base/path/fightfev.cfg
+./fghtatck.zip,Fighter & Attacker,fghtatck.cfg,fghtatck.png,/base/path/fghtatck.cfg
+./fghthist.zip,Fighter's History,fghthist.cfg,fghthist.png,/base/path/fghthist.cfg
+./fghtbskt.zip,Fighting Basketball,fghtbskt.cfg,fghtbskt.png,/base/path/fghtbskt.cfg
+./fhawk.zip,Fighting Hawk,fhawk.cfg,fhawk.png,/base/path/fhawk.cfg
+./cfghtice.zip,Fighting Ice Hockey,cfghtice.cfg,cfghtice.png,/base/path/cfghtice.cfg
+./fightrol.zip,Fighting Roller,fightrol.cfg,fightrol.png,/base/path/fightrol.cfg
+./fsoccer.zip,Fighting Soccer,fsoccer.cfg,fsoccer.png,/base/path/fsoccer.cfg
+./finalb.zip,Final Blow,finalb.cfg,finalb.png,/base/path/finalb.cfg
+./ffight.zip,Final Fight,ffight.cfg,ffight.png,/base/path/ffight.cfg
+./finalgdr.zip,Final Godori,finalgdr.cfg,finalgdr.png,/base/path/finalgdr.cfg
+./finallap.zip,Final Lap,finallap.cfg,finallap.png,/base/path/finallap.cfg
+./finalap2.zip,Final Lap 2,finalap2.cfg,finalap2.png,/base/path/finalap2.cfg
+./finalap3.zip,Final Lap 3,finalap3.cfg,finalap3.png,/base/path/finalap3.cfg
+./fstarfrc.zip,Final Star Force,fstarfrc.cfg,fstarfrc.png,/base/path/fstarfrc.cfg
+./finalttr.zip,Final Tetris,finalttr.cfg,finalttr.png,/base/path/finalttr.cfg
+./finalizr.zip,Finalizer - Super Transformation,finalizr.cfg,finalizr.png,/base/path/finalizr.cfg
+./finehour.zip,Finest Hour,finehour.cfg,finehour.png,/base/path/finehour.cfg
+./firebatl.zip,Fire Battle,firebatl.cfg,firebatl.png,/base/path/firebatl.cfg
+./fireshrk.zip,Fire Shark,fireshrk.cfg,fireshrk.png,/base/path/fireshrk.cfg
+./firetrap.zip,Fire Trap,firetrap.cfg,firetrap.png,/base/path/firetrap.cfg
+./firebeas.zip,Firebeast,firebeas.cfg,firebeas.png,/base/path/firebeas.cfg
+./fixeight.zip,FixEight,fixeight.cfg,fixeight.png,/base/path/fixeight.cfg
+./cfboy0a1.zip,Flash Boy,cfboy0a1.cfg,cfboy0a1.png,/base/path/cfboy0a1.cfg
+./fpoint.zip,Flash Point,fpoint.cfg,fpoint.png,/base/path/fpoint.cfg
+./flashgal.zip,Flashgal,flashgal.cfg,flashgal.png,/base/path/flashgal.cfg
+./flicky.zip,Flicky,flicky.cfg,flicky.png,/base/path/flicky.cfg
+./flipjack.zip,Flipper Jack,flipjack.cfg,flipjack.png,/base/path/flipjack.cfg
+./flower.zip,Flower,flower.cfg,flower.png,/base/path/flower.cfg
+./cflyball.zip,Flying Ball,cflyball.cfg,cflyball.png,/base/path/cflyball.cfg
+./fshark.zip,Flying Shark,fshark.cfg,fshark.png,/base/path/fshark.cfg
+./flytiger.zip,Flying Tiger,flytiger.cfg,flytiger.png,/base/path/flytiger.cfg
+./foodf.zip,Food Fight,foodf.cfg,foodf.png,/base/path/foodf.cfg
+./footchmp.zip,Football Champ,footchmp.cfg,footchmp.png,/base/path/footchmp.cfg
+./fbfrenzy.zip,Football Frenzy,fbfrenzy.cfg,fbfrenzy.png,/base/path/fbfrenzy.cfg
+./forgottn.zip,Forgotten Worlds,forgottn.cfg,forgottn.png,/base/path/forgottn.cfg
+./fort2b.zip,Fortress 2 Blue Arcade,fort2b.cfg,fort2b.png,/base/path/fort2b.cfg
+./fourtrax.zip,Four Trax,fourtrax.cfg,fourtrax.png,/base/path/fourtrax.cfg
+./freekick.zip,Free Kick,freekick.cfg,freekick.png,/base/path/freekick.cfg
+./freeze.zip,Freeze,freeze.cfg,freeze.png,/base/path/freeze.cfg
+./frenzy.zip,Frenzy,frenzy.cfg,frenzy.png,/base/path/frenzy.cfg
+./friskyt.zip,Frisky Tom,friskyt.cfg,friskyt.png,/base/path/friskyt.cfg
+./frogger.zip,Frogger,frogger.cfg,frogger.png,/base/path/frogger.cfg
+./frontlin.zip,Front Line,frontlin.cfg,frontlin.png,/base/path/frontlin.cfg
+./shogwarr.zip,Shogun Warriors,shogwarr.cfg,shogwarr.png,/base/path/shogwarr.cfg
+./funkybee.zip,Funky Bee,funkybee.cfg,funkybee.png,/base/path/funkybee.cfg
+./fnkyfish.zip,Funky Fish,fnkyfish.cfg,fnkyfish.png,/base/path/fnkyfish.cfg
+./funkyjet.zip,Funky Jet,funkyjet.cfg,funkyjet.png,/base/path/funkyjet.cfg
+./funybubl.zip,Funny Bubble,funybubl.cfg,funybubl.png,/base/path/funybubl.cfg
+./futspy.zip,Future Spy,futspy.cfg,futspy.png,/base/path/futspy.cfg
+./galaga88.zip,G-loc Air Battle,galaga88.cfg,galaga88.png,/base/path/galaga88.cfg
+./gloc.zip,G-loc Air Battle,gloc.cfg,gloc.png,/base/path/gloc.cfg
+./gstream.zip,G-Stream G2020,gstream.cfg,gstream.png,/base/path/gstream.cfg
+./gijoe.zip,G.I. Joe,gijoe.cfg,gijoe.png,/base/path/gijoe.cfg
+./gaialast.zip,Gaia: The Last Choice of Earth,gaialast.cfg,gaialast.png,/base/path/gaialast.cfg
+./gaia.zip,Gaia Crusaders,gaia.cfg,gaia.png,/base/path/gaia.cfg
+./gaiapols.zip,Gaiapolis,gaiapols.cfg,gaiapols.png,/base/path/gaiapols.cfg
+./gground.zip,Gain Ground,gground.cfg,gground.png,/base/path/gground.cfg
+./galastrm.zip,Galactic Storm,galastrm.cfg,galastrm.png,/base/path/galastrm.cfg
+./gwarrior.zip,Galactic Warriors,gwarrior.cfg,gwarrior.png,/base/path/gwarrior.cfg
+./gaplus.zip,Gaplus,gaplus.cfg,gaplus.png,/base/path/gaplus.cfg
+./galaxyfg.zip,Galaxy Fight: Universal Warriors,galaxyfg.cfg,galaxyfg.png,/base/path/galaxyfg.cfg
+./gforce2.zip,Galaxy Force 2,gforce2.cfg,gforce2.png,/base/path/gforce2.cfg
+./galaxygn.zip,Galaxy Gunners,galaxygn.cfg,galaxygn.png,/base/path/galaxygn.cfg
+./galivan.zip,Cosmo Police Galivan,galivan.cfg,galivan.png,/base/path/galivan.cfg
+./galmedes.zip,Galmedes,galmedes.cfg,galmedes.png,/base/path/galmedes.cfg
+./galpanic.zip,Gals Panic,galpanic.cfg,galpanic.png,/base/path/galpanic.cfg
+./galpani3.zip,Gals Panic 3,galpani3.cfg,galpani3.png,/base/path/galpani3.cfg
+./galpani4.zip,Gals Panic 4,galpani4.cfg,galpani4.png,/base/path/galpani4.cfg
+./galpanis.zip,Gals Panic S - Extra Edition,galpanis.cfg,galpanis.png,/base/path/galpanis.cfg
+./galpans2.zip,Gals Panic S2,galpans2.cfg,galpans2.png,/base/path/galpans2.cfg
+./galpans3.zip,Gals Panic S3,galpans3.cfg,galpans3.png,/base/path/galpans3.cfg
+./galspnbl.zip,Gals Pinball,galspnbl.cfg,galspnbl.png,/base/path/galspnbl.cfg
+./usgames.zip,Games V25.4x,usgames.cfg,usgames.png,/base/path/usgames.cfg
+./ginkun.zip,Ganbare Ginkun,ginkun.cfg,ginkun.png,/base/path/ginkun.cfg
+./ganbare.zip,Ganbare! Marine Kun,ganbare.cfg,ganbare.png,/base/path/ganbare.cfg
+./gbusters.zip,Gang Busters,gbusters.cfg,gbusters.png,/base/path/gbusters.cfg
+./gangwars.zip,Gang Wars,gangwars.cfg,gangwars.png,/base/path/gangwars.cfg
+./ganryu.zip,Ganryu,ganryu.cfg,ganryu.png,/base/path/ganryu.cfg
+./gardia.zip,Gardia,gardia.cfg,gardia.png,/base/path/gardia.cfg
+./garogun.zip,Garogun Seroyang,garogun.cfg,garogun.png,/base/path/garogun.cfg
+./garou.zip,Garou: Mark of the Wolves,garou.cfg,garou.png,/base/path/garou.cfg
+./garyoret.zip,Garyo Retsuden,garyoret.cfg,garyoret.png,/base/path/garyoret.cfg
+./gauntlet.zip,Gauntlet,gauntlet.cfg,gauntlet.png,/base/path/gauntlet.cfg
+./gaunt2.zip,Gauntlet II,gaunt2.cfg,gaunt2.png,/base/path/gaunt2.cfg
+./geebee.zip,Gee Bee,geebee.cfg,geebee.png,/base/path/geebee.cfg
+./gekiridn.zip,Gekirindan,gekiridn.cfg,gekiridn.png,/base/path/gekiridn.cfg
+./gemini.zip,Gemini Wing,gemini.cfg,gemini.png,/base/path/gemini.cfg
+./genix.zip,Genix Family,genix.cfg,genix.png,/base/path/genix.cfg
+./genpeitd.zip,Genpei Toumaden,genpeitd.cfg,genpeitd.png,/base/path/genpeitd.cfg
+./gpilots.zip,Ghost Pilots,gpilots.cfg,gpilots.png,/base/path/gpilots.cfg
+./ghostlop.zip,Ghostlop,ghostlop.cfg,ghostlop.png,/base/path/ghostlop.cfg
+./ghouls.zip,Ghouls'n Ghosts,ghouls.cfg,ghouls.png,/base/path/ghouls.cfg
+./ghox.zip,Ghox,ghox.cfg,ghox.png,/base/path/ghox.cfg
+./go2000.zip,Go 2000,go2000.cfg,go2000.png,/base/path/go2000.cfg
+./gigawing.zip,Giga Wing,gigawing.cfg,gigawing.png,/base/path/gigawing.cfg
+./gigandes.zip,Gigandes,gigandes.cfg,gigandes.png,/base/path/gigandes.cfg
+./gigas.zip,Gigas,gigas.cfg,gigas.png,/base/path/gigas.cfg
+./gigasm2.zip,Gigas Mark II,gigasm2.cfg,gigasm2.png,/base/path/gigasm2.cfg
+./ginganin.zip,Ginga Ninkyouden,ginganin.cfg,ginganin.png,/base/path/ginganin.cfg
+./gladiatr.zip,Gladiator,gladiatr.cfg,gladiatr.png,/base/path/gladiatr.cfg
+./sgladiat.zip,Gladiator 1984,sgladiat.cfg,sgladiat.png,/base/path/sgladiat.cfg
+./glass.zip,Glass,glass.cfg,glass.png,/base/path/glass.cfg
+./yamagchi.zip,Go Go Mr. Yamaguchi / Yuke Yuke Yamaguchi-kun,yamagchi.cfg,yamagchi.png,/base/path/yamagchi.cfg
+./goalx3.zip,Goal! Goal! Goal!,goalx3.cfg,goalx3.png,/base/path/goalx3.cfg
+./godzilla.zip,Godzilla,godzilla.cfg,godzilla.png,/base/path/godzilla.cfg
+./goindol.zip,Goindol,goindol.cfg,goindol.png,/base/path/goindol.cfg
+./goldmedl.zip,Gold Medalist,goldmedl.cfg,goldmedl.png,/base/path/goldmedl.cfg
+./goldnaxe.zip,Golden Axe,goldnaxe.cfg,goldnaxe.png,/base/path/goldnaxe.cfg
+./ga2.zip,Golden Axe: The Revenge of Death Adder,ga2.cfg,ga2.png,/base/path/ga2.cfg
+./gfire2.zip,Golden Fire II,gfire2.cfg,gfire2.png,/base/path/gfire2.cfg
+./gt97.zip,Golden Tee '97,gt97.cfg,gt97.png,/base/path/gt97.cfg
+./gt98.zip,Golden Tee '98,gt98.cfg,gt98.png,/base/path/gt98.cfg
+./gt99.zip,Golden Tee '99,gt99.cfg,gt99.png,/base/path/gt99.cfg
+./gt2k.zip,Golden Tee 2k,gt2k.cfg,gt2k.png,/base/path/gt2k.cfg
+./gt3d.zip,Golden Tee 3d Golf,gt3d.cfg,gt3d.png,/base/path/gt3d.cfg
+./gtclassc.zip,Golden Tee Classic,gtclassc.cfg,gtclassc.png,/base/path/gtclassc.cfg
+./gollygho.zip,Golly! Ghost!,gollygho.cfg,gollygho.png,/base/path/gollygho.cfg
+./gondo.zip,Gondomania,gondo.cfg,gondo.png,/base/path/gondo.cfg
+./goori.zip,Goori Goori,goori.cfg,goori.png,/base/path/goori.cfg
+./gotcha.zip,Got-cha Mini Game Festival,gotcha.cfg,gotcha.png,/base/path/gotcha.cfg
+./gprider.zip,Gp Rider,gprider.cfg,gprider.png,/base/path/gprider.cfg
+./gradius3.zip,Gradius III,gradius3.cfg,gradius3.png,/base/path/gradius3.cfg
+./f1gpstar.zip,Grand Prix Star,f1gpstar.cfg,f1gpstar.png,/base/path/f1gpstar.cfg
+./gstrik2.zip,Grand Striker 2,gstrik2.cfg,gstrik2.png,/base/path/gstrik2.cfg
+./grndtour.zip,Grand Tour,grndtour.cfg,grndtour.png,/base/path/grndtour.cfg
+./grasspin.zip,Grasspin,grasspin.cfg,grasspin.png,/base/path/grasspin.cfg
+./gratia.zip,Gratia - Second Earth,gratia.cfg,gratia.png,/base/path/gratia.cfg
+./gravitar.zip,Gravitar,gravitar.cfg,gravitar.png,/base/path/gravitar.cfg
+./gtmr.zip,1000 Miglia: Great 1000 Miles Rally,gtmr.cfg,gtmr.png,/base/path/gtmr.cfg
+./gslgr94u.zip,Great Sluggers '94,gslgr94u.cfg,gslgr94u.png,/base/path/gslgr94u.cfg
+./gslugrsj.zip,Great Sluggers,gslugrsj.cfg,gslugrsj.png,/base/path/gslugrsj.cfg
+./gberet.zip,Green Beret,gberet.cfg,gberet.png,/base/path/gberet.cfg
+./gseeker.zip,Grid Seeker: Project Storm Hammer,gseeker.cfg,gseeker.png,/base/path/gseeker.cfg
+./grobda.zip,Grobda,grobda.cfg,grobda.png,/base/path/grobda.cfg
+./groundfx.zip,Ground Effects / Super Ground Effects,groundfx.cfg,groundfx.png,/base/path/groundfx.cfg
+./growl.zip,Growl,growl.cfg,growl.png,/base/path/growl.cfg
+./grdian.zip,Guardian,grdian.cfg,grdian.png,/base/path/grdian.cfg
+./grdnstrm.zip,Guardian Storm,grdnstrm.cfg,grdnstrm.png,/base/path/grdnstrm.cfg
+./grdians.zip,Guardians: Denjin Makai II,grdians.cfg,grdians.png,/base/path/grdians.cfg
+./gwar.zip,Guerrilla War,gwar.cfg,gwar.png,/base/path/gwar.cfg
+./gulfstrm.zip,Gulf Storm,gulfstrm.cfg,gulfstrm.png,/base/path/gulfstrm.cfg
+./gulfwar2.zip,Gulf War II,gulfwar2.cfg,gulfwar2.png,/base/path/gulfwar2.cfg
+./gulunpa.zip,Gulun.Pa,gulunpa.cfg,gulunpa.png,/base/path/gulunpa.cfg
+./gumbo.zip,Gumbo,gumbo.cfg,gumbo.png,/base/path/gumbo.cfg
+./gundl94.zip,Gun Dealer '94,gundl94.cfg,gundl94.png,/base/path/gundl94.cfg
+./gunforc2.zip,GunForce II,gunforc2.cfg,gunforc2.png,/base/path/gunforc2.cfg
+./gunfront.zip,Gun & Frontier,gunfront.cfg,gunfront.png,/base/path/gunfront.cfg
+./gunmast.zip,Gun Master,gunmast.cfg,gunmast.png,/base/path/gunmast.cfg
+./gunsmoke.zip,Gun.Smoke,gunsmoke.cfg,gunsmoke.png,/base/path/gunsmoke.cfg
+./gnbarich.zip,Gunbarich,gnbarich.cfg,gnbarich.png,/base/path/gnbarich.cfg
+./gunbird.zip,Gunbird,gunbird.cfg,gunbird.png,/base/path/gunbird.cfg
+./gunbird2.zip,Gunbird 2,gunbird2.cfg,gunbird2.png,/base/path/gunbird2.cfg
+./gunbustr.zip,Gunbuster,gunbustr.cfg,gunbustr.png,/base/path/gunbustr.cfg
+./gundhara.zip,Gundhara,gundhara.cfg,gundhara.png,/base/path/gundhara.cfg
+./gunforce.zip,Gunforce - Battle Fire Engulfed Terror Island,gunforce.cfg,gunforce.png,/base/path/gunforce.cfg
+./gunnail.zip,GunNail,gunnail.cfg,gunnail.png,/base/path/gunnail.cfg
+./gururin.zip,Gururin,gururin.cfg,gururin.png,/base/path/gururin.cfg
+./gutsn.zip,Guts'n,gutsn.cfg,gutsn.png,/base/path/gutsn.cfg
+./guwange.zip,Guwange,guwange.cfg,guwange.png,/base/path/guwange.cfg
+./guzzler.zip,Guzzler,guzzler.cfg,guzzler.png,/base/path/guzzler.cfg
+./pbancho.zip,Gyakuten!! Puzzle Bancho,pbancho.cfg,pbancho.png,/base/path/pbancho.cfg
+./gyrodine.zip,Gyrodine,gyrodine.cfg,gyrodine.png,/base/path/gyrodine.cfg
+./gyruss.zip,Gyruss,gyruss.cfg,gyruss.png,/base/path/gyruss.cfg
+./hachamf.zip,Hacha Mecha Fighter,hachamf.cfg,hachamf.png,/base/path/hachamf.cfg
+./chwy.zip,Highway Chase,chwy.cfg,chwy.png,/base/path/chwy.cfg
+./hachoo.zip,Hachoo!,hachoo.cfg,hachoo.png,/base/path/hachoo.cfg
+./hal21.zip,Hal21,hal21.cfg,hal21.png,/base/path/hal21.cfg
+./halleysc.zip,Halley's Comet,halleysc.cfg,halleysc.png,/base/path/halleysc.cfg
+./hamaway.zip,Hammer Away,hamaway.cfg,hamaway.png,/base/path/hamaway.cfg
+./hharry.zip,Hammerin' Harry,hharry.cfg,hharry.png,/base/path/hharry.cfg
+./hangon.zip,Hang-on,hangon.cfg,hangon.png,/base/path/hangon.cfg
+./hangonjr.zip,Hang-on Jr.,hangonjr.cfg,hangonjr.png,/base/path/hangonjr.cfg
+./hangzo.zip,Hangzo,hangzo.cfg,hangzo.png,/base/path/hangzo.cfg
+./harddunk.zip,Hard Dunk,harddunk.cfg,harddunk.png,/base/path/harddunk.cfg
+./hardhead.zip,Hard Head,hardhead.cfg,hardhead.png,/base/path/hardhead.cfg
+./hardhea2.zip,Hard Head 2,hardhea2.cfg,hardhea2.png,/base/path/hardhea2.cfg
+./hrdtimes.zip,Hard Times,hrdtimes.cfg,hrdtimes.png,/base/path/hrdtimes.cfg
+./hardyard.zip,Hard Yardage,hardyard.cfg,hardyard.png,/base/path/hardyard.cfg
+./harem.zip,Harem,harem.cfg,harem.png,/base/path/harem.cfg
+./hasamu.zip,Hasamu,hasamu.cfg,hasamu.png,/base/path/hasamu.cfg
+./htchctch.zip,Hatch Catch,htchctch.cfg,htchctch.png,/base/path/htchctch.cfg
+./hatris.zip,Hatris,hatris.cfg,hatris.png,/base/path/hatris.cfg
+./hcastle.zip,Haunted Castle,hcastle.cfg,hcastle.png,/base/path/hcastle.cfg
+./hayaosi2.zip,Hayaoshi Quiz Ouza Ketteisen - The King Of Quiz,hayaosi2.cfg,hayaosi2.png,/base/path/hayaosi2.cfg
+./hayaosi3.zip,Hayaoshi Quiz Nettou Namahousou,hayaosi3.cfg,hayaosi3.png,/base/path/hayaosi3.cfg
+./hayaosi1.zip,Hayaoshi Quiz Ouza Ketteisen - The King Of Quiz,hayaosi1.cfg,hayaosi1.png,/base/path/hayaosi1.cfg
+./headon.zip,Head On,headon.cfg,headon.png,/base/path/headon.cfg
+./hedpanic.zip,Head Panic,hedpanic.cfg,hedpanic.png,/base/path/hedpanic.cfg
+./heatbrl.zip,Heated Barrel,heatbrl.cfg,heatbrl.png,/base/path/heatbrl.cfg
+./hbarrel.zip,Heavy Barrel,hbarrel.cfg,hbarrel.png,/base/path/hbarrel.cfg
+./hvymetal.zip,Heavy Metal,hvymetal.cfg,hvymetal.png,/base/path/hvymetal.cfg
+./hvysmsh.zip,Heavy Smash,hvysmsh.cfg,hvysmsh.png,/base/path/hvysmsh.cfg
+./hvyunit.zip,Heavy Unit,hvyunit.cfg,hvyunit.png,/base/path/hvyunit.cfg
+./hwchamp.zip,Heavyweight Champ,hwchamp.cfg,hwchamp.png,/base/path/hwchamp.cfg
+./heberpop.zip,Hebereke No Popoon,heberpop.cfg,heberpop.png,/base/path/heberpop.cfg
+./heiankyo.zip,Heiankyo Alien,heiankyo.cfg,heiankyo.png,/base/path/heiankyo.cfg
+./hellfire.zip,Hellfire,hellfire.cfg,hellfire.png,/base/path/hellfire.cfg
+./hero.zip,Hero,hero.cfg,hero.png,/base/path/hero.cfg
+./heuksun.zip,Heuk Sun Baek Sa,heuksun.cfg,heuksun.png,/base/path/heuksun.cfg
+./hexa.zip,Hexa,hexa.cfg,hexa.png,/base/path/hexa.cfg
+./hexion.zip,Hexion,hexion.cfg,hexion.png,/base/path/hexion.cfg
+./hidnctch.zip,Hidden Catch,hidnctch.cfg,hidnctch.png,/base/path/hidnctch.cfg
+./hidctch2.zip,Hidden Catch 2,hidctch2.cfg,hidctch2.png,/base/path/hidctch2.cfg
+./hidnc2k.zip,Hidden Catch 2000,hidnc2k.cfg,hidnc2k.png,/base/path/hidnc2k.cfg
+./hidctch3.zip,Hidden Catch 3,hidctch3.cfg,hidctch3.png,/base/path/hidctch3.cfg
+./hiimpact.zip,High Impact Football,hiimpact.cfg,hiimpact.png,/base/path/hiimpact.cfg
+./hwrace.zip,High Way Race,hwrace.cfg,hwrace.png,/base/path/hwrace.cfg
+./himesiki.zip,Himeshikibu,himesiki.cfg,himesiki.png,/base/path/himesiki.cfg
+./hippodrm.zip,Hippodrome,hippodrm.cfg,hippodrm.png,/base/path/hippodrm.cfg
+./avengers.zip,Avengers,avengers.cfg,avengers.png,/base/path/avengers.cfg
+./hitnmiss.zip,Hit 'n Miss,hitnmiss.cfg,hitnmiss.png,/base/path/hitnmiss.cfg
+./hitice.zip,Hit The Ice,hitice.cfg,hitice.png,/base/path/hitice.cfg
+./hoccer.zip,Hoccer,hoccer.cfg,hoccer.png,/base/path/hoccer.cfg
+./holeland.zip,Hole Land,holeland.cfg,holeland.png,/base/path/holeland.cfg
+./holo.zip,Holosseum,holo.cfg,holo.png,/base/path/holo.cfg
+./honeydol.zip,Honey Dolls,honeydol.cfg,honeydol.png,/base/path/honeydol.cfg
+./hook.zip,Hook,hook.cfg,hook.png,/base/path/hook.cfg
+./hoops96.zip,Hoops'96,hoops96.cfg,hoops96.png,/base/path/hoops96.cfg
+./hopprobo.zip,Hopper Robo,hopprobo.cfg,hopprobo.png,/base/path/hopprobo.cfg
+./hopmappy.zip,Hopping Mappy,hopmappy.cfg,hopmappy.png,/base/path/hopmappy.cfg
+./horizon.zip,Horizon,horizon.cfg,horizon.png,/base/path/horizon.cfg
+./hotchase.zip,Hot Chase,hotchase.cfg,hotchase.png,/base/path/hotchase.cfg
+./hotmind.zip,Hot Mind,hotmind.cfg,hotmind.png,/base/path/hotmind.cfg
+./hotpinbl.zip,Hot Pinball,hotpinbl.cfg,hotpinbl.png,/base/path/hotpinbl.cfg
+./hotrod.zip,Hot Rod,hotrod.cfg,hotrod.png,/base/path/hotrod.cfg
+./hotshock.zip,Hot Shocker,hotshock.cfg,hotshock.png,/base/path/hotshock.cfg
+./hotdogst.zip,Hotdog Storm,hotdogst.cfg,hotdogst.png,/base/path/hotdogst.cfg
+./happy6.zip,Happy 6-in-1,happy6.cfg,happy6.png,/base/path/happy6.cfg
+./hunchbak.zip,Hunchback,hunchbak.cfg,hunchbak.png,/base/path/hunchbak.cfg
+./huncholy.zip,Hunchback at the Olympics,huncholy.cfg,huncholy.png,/base/path/huncholy.cfg
+./hustle.zip,Hustle,hustle.cfg,hustle.png,/base/path/hustle.cfg
+./hydra.zip,Hydra,hydra.cfg,hydra.png,/base/path/hydra.cfg
+./hcrash.zip,Hyper Crash,hcrash.cfg,hcrash.png,/base/path/hcrash.cfg
+./hyprduel.zip,Hyper Duel,hyprduel.cfg,hyprduel.png,/base/path/hyprduel.cfg
+./hyperpac.zip,Hyper Pacman,hyperpac.cfg,hyperpac.png,/base/path/hyperpac.cfg
+./hyperspt.zip,Hyper Sports,hyperspt.cfg,hyperspt.png,/base/path/hyperspt.cfg
+./hsf2.zip,Hyper Street Fighter II: The Anniversary Edition,hsf2.cfg,hsf2.png,/base/path/hsf2.cfg
+./imsorry.zip,I'm Sorry,imsorry.cfg,imsorry.png,/base/path/imsorry.cfg
+./ibara.zip,Ibara,ibara.cfg,ibara.png,/base/path/ibara.cfg
+./ibarablk.zip,Ibara Kuro Black Label,ibarablk.cfg,ibarablk.png,/base/path/ibarablk.cfg
+./suchie2.zip,Idol Janshi Suchie-pai 2,suchie2.cfg,suchie2.png,/base/path/suchie2.cfg
+./froman2b.zip,Idol Mahjong Final Romance 2,froman2b.cfg,froman2b.png,/base/path/froman2b.cfg
+./igmo.zip,Igmo,igmo.cfg,igmo.png,/base/path/igmo.cfg
+./ikari3.zip,Ikari III - The Rescue,ikari3.cfg,ikari3.png,/base/path/ikari3.cfg
+./ikari.zip,Ikari Warriors,ikari.cfg,ikari.png,/base/path/ikari.cfg
+./ikki.zip,Ikki,ikki.cfg,ikki.png,/base/path/ikki.cfg
+./imgfight.zip,Image Fight,imgfight.cfg,imgfight.png,/base/path/imgfight.cfg
+./imago.zip,Imago,imago.cfg,imago.png,/base/path/imago.cfg
+./inthunt.zip,In the Hunt,inthunt.cfg,inthunt.png,/base/path/inthunt.cfg
+./inyourfa.zip,In Your Face,inyourfa.cfg,inyourfa.png,/base/path/inyourfa.cfg
+./insector.zip,Insector,insector.cfg,insector.png,/base/path/insector.cfg
+./insectx.zip,Insector X,insectx.cfg,insectx.png,/base/path/insectx.cfg
+./intcup94.zip,International Cup '94,intcup94.cfg,intcup94.png,/base/path/intcup94.cfg
+./intrepid.zip,Intrepid,intrepid.cfg,intrepid.png,/base/path/intrepid.cfg
+./iqblock.zip,Iq-block,iqblock.cfg,iqblock.png,/base/path/iqblock.cfg
+./ironfort.zip,Iron Fortress,ironfort.cfg,ironfort.png,/base/path/ironfort.cfg
+./itaten.zip,Itazura Tenshi,itaten.cfg,itaten.png,/base/path/itaten.cfg
+./ixion.zip,Ixion,ixion.cfg,ixion.png,/base/path/ixion.cfg
+./vshoot.zip,J-league Soccer V-shoot,vshoot.cfg,vshoot.png,/base/path/vshoot.cfg
+./jjsquawk.zip,J. J. Squawkers,jjsquawk.cfg,jjsquawk.png,/base/path/jjsquawk.cfg
+./jack.zip,Jack the Giantkiller,jack.cfg,jack.png,/base/path/jack.cfg
+./jchan2.zip,Jackie Chan In Fists Of Fire,jchan2.cfg,jchan2.png,/base/path/jchan2.cfg
+./jchan.zip,Jackie Chan - The Kung-fu Master,jchan.cfg,jchan.png,/base/path/jchan.cfg
+./jailbrek.zip,Jail Break,jailbrek.cfg,jailbrek.png,/base/path/jailbrek.cfg
+./jjparads.zip,Jan Jan Paradise,jjparads.cfg,jjparads.png,/base/path/jjparads.cfg
+./jjparad2.zip,Jan Jan Paradise 2,jjparad2.cfg,jjparad2.png,/base/path/jjparad2.cfg
+./choko.zip,Janpai Puzzle Choukou,choko.cfg,choko.png,/base/path/choko.cfg
+./cultures.zip,Jibun Wo Migaku Culture School Mahjong Hen,cultures.cfg,cultures.png,/base/path/cultures.cfg
+./jin.zip,Jin,jin.cfg,jin.png,/base/path/jin.cfg
+./jitsupro.zip,Jitsuryoku!! Pro Yakyuu,jitsupro.cfg,jitsupro.png,/base/path/jitsupro.cfg
+./jockeygp.zip,Jockey Grand Prix,jockeygp.cfg,jockeygp.png,/base/path/jockeygp.cfg
+./joemacr.zip,Joe & Mac Returns,joemacr.cfg,joemacr.png,/base/path/joemacr.cfg
+./joinem.zip,Joinem,joinem.cfg,joinem.png,/base/path/joinem.cfg
+./jojoba.zip,Jojo's Bizarre Adventure,jojoba.cfg,jojoba.png,/base/path/jojoba.cfg
+./jojo.zip,JoJo's Venture,jojo.cfg,jojo.png,/base/path/jojo.cfg
+./jollyjgr.zip,Jolly Jogger,jollyjgr.cfg,jollyjgr.png,/base/path/jollyjgr.cfg
+./jongpute.zip,Jongputer,jongpute.cfg,jongpute.png,/base/path/jongpute.cfg
+./journey.zip,Journey,journey.cfg,journey.png,/base/path/journey.cfg
+./joust.zip,Joust,joust.cfg,joust.png,/base/path/joust.cfg
+./joyfulr.zip,Joyful Road,joyfulr.cfg,joyfulr.png,/base/path/joyfulr.cfg
+./jrpacman.zip,Jr. Pac-Man,jrpacman.cfg,jrpacman.png,/base/path/jrpacman.cfg
+./jdreddp.zip,Judge Dredd,jdreddp.cfg,jdreddp.png,/base/path/jdreddp.cfg
+./jumpbug.zip,Jump Bug,jumpbug.cfg,jumpbug.png,/base/path/jumpbug.cfg
+./jumpcoas.zip,Jump Coaster,jumpcoas.cfg,jumpcoas.png,/base/path/jumpcoas.cfg
+./jumpkids.zip,Jump Kids,jumpkids.cfg,jumpkids.png,/base/path/jumpkids.cfg
+./jumpkun.zip,Jump Kun,jumpkun.cfg,jumpkun.png,/base/path/jumpkun.cfg
+./jumpshot.zip,Jump Shot,jumpshot.cfg,jumpshot.png,/base/path/jumpshot.cfg
+./jmpbreak.zip,Jumping Break,jmpbreak.cfg,jmpbreak.png,/base/path/jmpbreak.cfg
+./jcross.zip,Jumping Cross,jcross.cfg,jcross.png,/base/path/jcross.cfg
+./jjack.zip,Jumping Jack,jjack.cfg,jjack.png,/base/path/jjack.cfg
+./jumppop.zip,Jumping Pop,jumppop.cfg,jumppop.png,/base/path/jumppop.cfg
+./junglek.zip,Jungle King,junglek.cfg,junglek.png,/base/path/junglek.cfg
+./jungler.zip,Jungler,jungler.cfg,jungler.png,/base/path/jungler.cfg
+./junofrst.zip,Juno First,junofrst.cfg,junofrst.png,/base/path/junofrst.cfg
+./jpark.zip,Jurassic Park,jpark.cfg,jpark.png,/base/path/jpark.cfg
+./jyangoku.zip,Jyangokushi: Haoh no Saihai,jyangoku.cfg,jyangoku.png,/base/path/jyangoku.cfg
+./kabukiz.zip,Kabuki-Z,kabukiz.cfg,kabukiz.png,/base/path/kabukiz.cfg
+./kageki.zip,Kageki,kageki.cfg,kageki.png,/base/path/kageki.cfg
+./kaiserkn.zip,Global Champion,kaiserkn.cfg,kaiserkn.png,/base/path/kaiserkn.cfg
+./kaitei.zip,Kaitei Takara Sagashi,kaitei.cfg,kaitei.png,/base/path/kaitei.cfg
+./kamikcab.zip,Kamikaze Cabbie,kamikcab.cfg,kamikcab.png,/base/path/kamikcab.cfg
+./kangaroo.zip,Kangaroo,kangaroo.cfg,kangaroo.png,/base/path/kangaroo.cfg
+./karatblz.zip,Karate Blazers,karatblz.cfg,karatblz.png,/base/path/karatblz.cfg
+./kchamp.zip,Karate Champ,kchamp.cfg,kchamp.png,/base/path/kchamp.cfg
+./karianx.zip,Karian Cross,karianx.cfg,karianx.png,/base/path/karianx.cfg
+./karnov.zip,Karnov,karnov.cfg,karnov.png,/base/path/karnov.cfg
+./karnovr.zip,Karnov's Revenge,karnovr.cfg,karnovr.png,/base/path/karnovr.cfg
+./keroppi.zip,Kero Kero Keroppi's Let's Play Together,keroppi.cfg,keroppi.png,/base/path/keroppi.cfg
+./ket.zip,Ketsui - Kizuna Jigoku Tachi,ket.cfg,ket.png,/base/path/ket.cfg
+./kick.zip,Kick,kick.cfg,kick.png,/base/path/kick.cfg
+./kicknrun.zip,Kick And Run,kicknrun.cfg,kicknrun.png,/base/path/kicknrun.cfg
+./kickgoal.zip,Kick Goal,kickgoal.cfg,kickgoal.png,/base/path/kickgoal.cfg
+./kickoff.zip,Kick Off,kickoff.cfg,kickoff.png,/base/path/kickoff.cfg
+./kickridr.zip,Kick Rider,kickridr.cfg,kickridr.png,/base/path/kickridr.cfg
+./kikstart.zip,Kick Start - Wheelie King,kikstart.cfg,kikstart.png,/base/path/kikstart.cfg
+./kidniki.zip,Kid Niki - Radical Ninja,kidniki.cfg,kidniki.png,/base/path/kidniki.cfg
+./horekid.zip,Kid No Hore Hore Daisakusen,horekid.cfg,horekid.png,/base/path/horekid.cfg
+./kikikai.zip,KiKi KaiKai,kikikai.cfg,kikikai.png,/base/path/kikikai.cfg
+./kingball.zip,King & Balloon,kingball.cfg,kingball.png,/base/path/kingball.cfg
+./kingofb.zip,King Of Boxer,kingofb.cfg,kingofb.png,/base/path/kingofb.cfg
+./kotm.zip,King of the Monsters,kotm.cfg,kotm.png,/base/path/kotm.cfg
+./kotm2.zip,King of the Monsters 2 - The Next Thing,kotm2.cfg,kotm2.png,/base/path/kotm2.cfg
+./kingdmgp.zip,Kingdom Grandprix,kingdmgp.cfg,kingdmgp.png,/base/path/kingdmgp.cfg
+./kirameki.zip,Kirameki Star Road,kirameki.cfg,kirameki.png,/base/path/kirameki.cfg
+./kittenk.zip,Kitten Kaboodle,kittenk.cfg,kittenk.png,/base/path/kittenk.cfg
+./kizuna.zip,Kizuna Encounter - Super Tag Battle,kizuna.cfg,kizuna.png,/base/path/kizuna.cfg
+./klax.zip,Klax,klax.cfg,klax.png,/base/path/klax.cfg
+./klondkp.zip,Klondike+,klondkp.cfg,klondkp.png,/base/path/klondkp.cfg
+./kngtmare.zip,Knightmare,kngtmare.cfg,kngtmare.png,/base/path/kngtmare.cfg
+./knights.zip,Knights of the Round,knights.cfg,knights.png,/base/path/knights.cfg
+./kbash.zip,Knuckle Bash,kbash.cfg,kbash.png,/base/path/kbash.cfg
+./knckhead.zip,Knuckle Heads,knckhead.cfg,knckhead.png,/base/path/knckhead.cfg
+./kncljoe.zip,Knuckle Joe,kncljoe.cfg,kncljoe.png,/base/path/kncljoe.cfg
+./koikois2.zip,Koi Koi Shimasho 2 - Super Real Hanafuda,koikois2.cfg,koikois2.png,/base/path/koikois2.cfg
+./eto.zip,Kokontouzai Eto Monogatari,eto.cfg,eto.png,/base/path/eto.cfg
+./konamigt.zip,Konami Gt,konamigt.cfg,konamigt.png,/base/path/konamigt.cfg
+./pingpong.zip,Konami's Ping-pong,pingpong.cfg,pingpong.png,/base/path/pingpong.cfg
+./korokoro.zip,Koro Koro Quest,korokoro.cfg,korokoro.png,/base/path/korokoro.cfg
+./myangel.zip,Kosodate Quiz My Angel,myangel.cfg,myangel.png,/base/path/myangel.cfg
+./myangel2.zip,Kosodate Quiz My Angel 2,myangel2.cfg,myangel2.png,/base/path/myangel2.cfg
+./strahl.zip,Koutetsu Yousai Strahl,strahl.cfg,strahl.png,/base/path/strahl.cfg
+./kroozr.zip,Kozmik Kroozr,kroozr.cfg,kroozr.png,/base/path/kroozr.cfg
+./kozure.zip,Kozure Ookami,kozure.cfg,kozure.png,/base/path/kozure.cfg
+./kram.zip,Kram,kram.cfg,kram.png,/base/path/kram.cfg
+./krzybowl.zip,Krazy Bowl,krzybowl.cfg,krzybowl.png,/base/path/krzybowl.cfg
+./krull.zip,Krull,krull.cfg,krull.png,/base/path/krull.cfg
+./kungfum.zip,Kung-fu Master,kungfum.cfg,kungfum.png,/base/path/kungfum.cfg
+./kungfut.zip,Kung-fu Taikun,kungfut.cfg,kungfut.png,/base/path/kungfut.cfg
+./kurikint.zip,Kuri Kinton,kurikint.cfg,kurikint.png,/base/path/kurikint.cfg
+./kyros.zip,Kyros,kyros.cfg,kyros.png,/base/path/kyros.cfg
+./kyukaidk.zip,Kyuukai Douchuuki,kyukaidk.cfg,kyukaidk.png,/base/path/kyukaidk.cfg
+./divebomb.zip,Kyuukoukabakugekitai - Dive Bomber Squad,divebomb.cfg,divebomb.png,/base/path/divebomb.cfg
+./ladybug.zip,Lady Bug,ladybug.cfg,ladybug.png,/base/path/ladybug.cfg
+./ladyfrog.zip,Lady Frog,ladyfrog.cfg,ladyfrog.png,/base/path/ladyfrog.cfg
+./ladykill.zip,Lady Killer,ladykill.cfg,ladykill.png,/base/path/ladykill.cfg
+./ladymstr.zip,Lady Master of Kung Fu,ladymstr.cfg,ladymstr.png,/base/path/ladymstr.cfg
+./landbrk.zip,Land Breaker,landbrk.cfg,landbrk.png,/base/path/landbrk.cfg
+./landmakr.zip,Land Maker,landmakr.cfg,landmakr.png,/base/path/landmakr.cfg
+./lsasquad.zip,Land Sea Air Squad,lsasquad.cfg,lsasquad.png,/base/path/lsasquad.cfg
+./lvgirl94.zip,Las Vegas Girl,lvgirl94.cfg,lvgirl94.png,/base/path/lvgirl94.cfg
+./lghost.zip,Laser Ghost,lghost.cfg,lghost.png,/base/path/lghost.cfg
+./lasso.zip,Lasso,lasso.cfg,lasso.png,/base/path/lasso.cfg
+./lastduel.zip,Last Duel,lastduel.cfg,lastduel.png,/base/path/lastduel.cfg
+./lastfort.zip,Last Fortress - Toride,lastfort.cfg,lastfort.png,/base/path/lastfort.cfg
+./lastkm.zip,Last Km,lastkm.cfg,lastkm.png,/base/path/lastkm.cfg
+./lastmisn.zip,Last Mission,lastmisn.cfg,lastmisn.png,/base/path/lastmisn.cfg
+./lresort.zip,Last Resort,lresort.cfg,lresort.png,/base/path/lresort.cfg
+./kyustrkr.zip,Last Striker ,kyustrkr.cfg,kyustrkr.png,/base/path/kyustrkr.cfg
+./lastsurv.zip,Last Survivor,lastsurv.cfg,lastsurv.png,/base/path/lastsurv.cfg
+./lazybug.zip,Lazy Bug,lazybug.cfg,lazybug.png,/base/path/lazybug.cfg
+./lbowling.zip,League Bowling,lbowling.cfg,lbowling.png,/base/path/lbowling.cfg
+./leds2011.zip,Led Storm Rally 2011,leds2011.cfg,leds2011.png,/base/path/leds2011.cfg
+./fitegolf.zip,Lee Trevino's Fighting Golf,fitegolf.cfg,fitegolf.png,/base/path/fitegolf.cfg
+./legend.zip,Legend,legend.cfg,legend.png,/base/path/legend.cfg
+./loht.zip,Legend of Hero Tonma,loht.cfg,loht.png,/base/path/loht.cfg
+./legendoh.zip,Legend Of Heroes,legendoh.cfg,legendoh.png,/base/path/legendoh.cfg
+./lomakai.zip,Legend of Makai,lomakai.cfg,lomakai.png,/base/path/lomakai.cfg
+./legendos.zip,Legend of Success Joe,legendos.cfg,legendos.png,/base/path/legendos.cfg
+./lwings.zip,Legendary Wings,lwings.cfg,lwings.png,/base/path/lwings.cfg
+./lockonph.zip,Legion: Spinner-87,lockonph.cfg,lockonph.png,/base/path/lockonph.cfg
+./legion.zip,Legion: Spinner-87,legion.cfg,legion.png,/base/path/legion.cfg
+./legionna.zip,Legionnaire,legionna.cfg,legionna.png,/base/path/legionna.cfg
+./lemmings.zip,Lemmings,lemmings.cfg,lemmings.png,/base/path/lemmings.cfg
+./lethalen.zip,Lethal Enforcers,lethalen.cfg,lethalen.png,/base/path/lethalen.cfg
+./lethalth.zip,Lethal Thunder,lethalth.cfg,lethalth.png,/base/path/lethalth.cfg
+./levers.zip,Levers,levers.cfg,levers.png,/base/path/levers.cfg
+./liblrabl.zip,Libble Rabble,liblrabl.cfg,liblrabl.png,/base/path/liblrabl.cfg
+./liberate.zip,Liberation,liberate.cfg,liberate.png,/base/path/liberate.cfg
+./ltswords.zip,Lightning Swords,ltswords.cfg,ltswords.png,/base/path/ltswords.cfg
+./loffire.zip,Line Of Fire / Bakudan Yarou,loffire.cfg,loffire.png,/base/path/loffire.cfg
+./linkypip.zip,Linky Pipe,linkypip.cfg,linkypip.png,/base/path/linkypip.cfg
+./liquidk.zip,Liquid Kids,liquidk.cfg,liquidk.png,/base/path/liquidk.cfg
+./livequiz.zip,Live Quiz Show,livequiz.cfg,livequiz.png,/base/path/livequiz.cfg
+./lizwiz.zip,Lizard Wizard,lizwiz.cfg,lizwiz.png,/base/path/lizwiz.cfg
+./clocknch.zip,Lock'n'Chase (DECO Cassette),clocknch.cfg,clocknch.png,/base/path/clocknch.cfg
+./lnc.zip,Lock 'n' Chase,lnc.cfg,lnc.png,/base/path/lnc.cfg
+./locomotn.zip,Loco-motion,locomotn.cfg,locomotn.png,/base/path/locomotn.cfg
+./ldrun.zip,Lode Runner,ldrun.cfg,ldrun.png,/base/path/ldrun.cfg
+./ldrun2.zip,Lode Runner II - The Bungeling Strikes Back,ldrun2.cfg,ldrun2.png,/base/path/ldrun2.cfg
+./ldrun3.zip,Lode Runner III - The Golden Labyrinth,ldrun3.cfg,ldrun3.png,/base/path/ldrun3.cfg
+./ldrun4.zip,Lode Runner IV - Teikoku Karano Dasshutsu,ldrun4.cfg,ldrun4.png,/base/path/ldrun4.cfg
+./loderndf.zip,Lode Runner: The Dig Fight,loderndf.cfg,loderndf.png,/base/path/loderndf.cfg
+./logicpr2.zip,Logic Pro 2,logicpr2.cfg,logicpr2.png,/base/path/logicpr2.cfg
+./lordgun.zip,Lord Of Gun,lordgun.cfg,lordgun.png,/base/path/lordgun.cfg
+./losttomb.zip,Lost Tomb,losttomb.cfg,losttomb.png,/base/path/losttomb.cfg
+./lotlot.zip,Lot Lot,lotlot.cfg,lotlot.png,/base/path/lotlot.cfg
+./lottofun.zip,Lotto Fun,lottofun.cfg,lottofun.png,/base/path/lottofun.cfg
+./janjans1.zip,Lovely Pop Mahjong Jangjang Shimasho,janjans1.cfg,janjans1.png,/base/path/janjans1.cfg
+./janjans2.zip,Lovely Pop Mahjong Jangjang Shimasho 2,janjans2.cfg,janjans2.png,/base/path/janjans2.cfg
+./loverboy.zip,Lover Boy,loverboy.cfg,loverboy.png,/base/path/loverboy.cfg
+./ltorb.zip,Jonas Indiana and the Lost Temple of RA,ltorb.cfg,ltorb.png,/base/path/ltorb.cfg
+./luckywld.zip,Lucky & Wild,luckywld.cfg,luckywld.png,/base/path/luckywld.cfg
+./luckboom.zip,Lucky Boom,luckboom.cfg,luckboom.png,/base/path/luckboom.cfg
+./cluckypo.zip,Lucky Poker,cluckypo.cfg,cluckypo.png,/base/path/cluckypo.cfg
+./luctoday.zip,Lucky Today,luctoday.cfg,luctoday.png,/base/path/luctoday.cfg
+./llander.zip,Lunar Lander,llander.cfg,llander.png,/base/path/llander.cfg
+./mia.zip,M.I.A.: Missing in Action,mia.cfg,mia.png,/base/path/mia.cfg
+./mvp.zip,Mvp,mvp.cfg,mvp.png,/base/path/mvp.cfg
+./machbrkr.zip,Mach Breakers,machbrkr.cfg,machbrkr.png,/base/path/machbrkr.cfg
+./machomou.zip,Macho Mouse,machomou.cfg,machomou.png,/base/path/machomou.cfg
+./mmagic.zip,Monkey Magic,mmagic.cfg,mmagic.png,/base/path/mmagic.cfg
+./macrossp.zip,Macross Plus,macrossp.cfg,macrossp.png,/base/path/macrossp.cfg
+./madcrash.zip,Mad Crasher,madcrash.cfg,madcrash.png,/base/path/madcrash.cfg
+./cmanhat.zip,Mad Donna,cmanhat.cfg,cmanhat.png,/base/path/cmanhat.cfg
+./maddonna.zip,Mad Donna,maddonna.cfg,maddonna.png,/base/path/maddonna.cfg
+./madgear.zip,Led Storm,madgear.cfg,madgear.png,/base/path/madgear.cfg
+./madmotor.zip,Mad Motor,madmotor.cfg,madmotor.png,/base/path/madmotor.cfg
+./mplanets.zip,Mad Planets,mplanets.cfg,mplanets.png,/base/path/mplanets.cfg
+./madshark.zip,Mad Shark,madshark.cfg,madshark.png,/base/path/madshark.cfg
+./magmax.zip,Mag Max,magmax.cfg,magmax.png,/base/path/magmax.cfg
+./magicbub.zip,Magic Bubble,magicbub.cfg,magicbub.png,/base/path/magicbub.cfg
+./musicbal.zip,Music Ball,musicbal.cfg,musicbal.png,/base/path/musicbal.cfg
+./magipur.zip,Magic Purple,magipur.cfg,magipur.png,/base/path/magipur.cfg
+./msword.zip,Magic Sword: Heroic Fantasy,msword.cfg,msword.png,/base/path/msword.cfg
+./mgcrystl.zip,Magical Crystals,mgcrystl.cfg,mgcrystl.png,/base/path/mgcrystl.cfg
+./magdrop2.zip,Magical Drop II,magdrop2.cfg,magdrop2.png,/base/path/magdrop2.cfg
+./magdrop3.zip,Magical Drop III,magdrop3.cfg,magdrop3.png,/base/path/magdrop3.cfg
+./magerror.zip,Magical Error Wo Sagase,magerror.cfg,magerror.png,/base/path/magerror.cfg
+./maglord.zip,Magician Lord,maglord.cfg,maglord.png,/base/path/maglord.cfg
+./akiss.zip,Mahjong Angel Kiss,akiss.cfg,akiss.png,/base/path/akiss.cfg
+./mjgtaste.zip,Mahjong G-taste,mjgtaste.cfg,mjgtaste.png,/base/path/mjgtaste.cfg
+./mgakuen2.zip,Mahjong Gakuen 2 Gakuen-chou No Fukushuu,mgakuen2.cfg,mgakuen2.png,/base/path/mgakuen2.cfg
+./hotgmcki.zip,Mahjong Hot Gimmick Integral,hotgmcki.cfg,hotgmcki.png,/base/path/hotgmcki.cfg
+./hypreac2.zip,Mahjong Hyper Reaction 2,hypreac2.cfg,hypreac2.png,/base/path/hypreac2.cfg
+./hypreact.zip,Mahjong Hyper Reaction,hypreact.cfg,hypreact.png,/base/path/hypreact.cfg
+./mahretsu.zip,Mahjong Kyo Retsuden,mahretsu.cfg,mahretsu.png,/base/path/mahretsu.cfg
+./mjkjidai.zip,Mahjong Kyou Jidai,mjkjidai.cfg,mjkjidai.png,/base/path/mjkjidai.cfg
+./mjnquest.zip,Mahjong Quest,mjnquest.cfg,mjnquest.png,/base/path/mjnquest.cfg
+./mainsnk.zip,Main Event,mainsnk.cfg,mainsnk.png,/base/path/mainsnk.cfg
+./mhavoc.zip,Major Havoc,mhavoc.cfg,mhavoc.png,/base/path/mhavoc.cfg
+./mjleague.zip,Major League,mjleague.cfg,mjleague.png,/base/path/mjleague.cfg
+./majtitle.zip,Major Title,majtitle.cfg,majtitle.png,/base/path/majtitle.cfg
+./gng.zip,Ghosts'n Goblins,gng.cfg,gng.png,/base/path/gng.cfg
+./mangchi.zip,Mang-Chi,mangchi.cfg,mangchi.png,/base/path/mangchi.cfg
+./maniach.zip,Mania Challenge,maniach.cfg,maniach.png,/base/path/maniach.cfg
+./maniacsq.zip,Maniac Square,maniacsq.cfg,maniacsq.png,/base/path/maniacsq.cfg
+./manybloc.zip,Many Block,manybloc.cfg,manybloc.png,/base/path/manybloc.cfg
+./mappy.zip,Mappy,mappy.cfg,mappy.png,/base/path/mappy.cfg
+./marblmd2.zip,Marble Madness 2,marblmd2.cfg,marblmd2.png,/base/path/marblmd2.cfg
+./mmaze.zip,Marchen Maze,mmaze.cfg,mmaze.png,/base/path/mmaze.cfg
+./mrjong.zip,Mr. Jong,mrjong.cfg,mrjong.png,/base/path/mrjong.cfg
+./marineb.zip,Marine Boy,marineb.cfg,marineb.png,/base/path/marineb.cfg
+./mariner.zip,Mariner,mariner.cfg,mariner.png,/base/path/mariner.cfg
+./mario.zip,Pest Place,mario.cfg,mario.png,/base/path/mario.cfg
+./markham.zip,Markham,markham.cfg,markham.png,/base/path/markham.cfg
+./mars.zip,Mars,mars.cfg,mars.png,/base/path/mars.cfg
+./mmatrix.zip,Mars Matrix: Hyper Solid Shooting,mmatrix.cfg,mmatrix.png,/base/path/mmatrix.cfg
+./mtlchamp.zip,Martial Champion,mtlchamp.cfg,mtlchamp.png,/base/path/mtlchamp.cfg
+./marvland.zip,Marvel Land,marvland.cfg,marvland.png,/base/path/marvland.cfg
+./msh.zip,Marvel Super Heroes,msh.cfg,msh.png,/base/path/msh.cfg
+./mshvsf.zip,Marvel Super Heroes vs. Street Fighter,mshvsf.cfg,mshvsf.png,/base/path/mshvsf.cfg
+./mvsc.zip,Marvel vs. Capcom : Clash of Super Heroes,mvsc.cfg,mvsc.png,/base/path/mvsc.cfg
+./marvins.zip,Marvin's Maze,marvins.cfg,marvins.png,/base/path/marvins.cfg
+./kamenrid.zip,Masked Riders Club Battle Race,kamenrid.cfg,kamenrid.png,/base/path/kamenrid.cfg
+./masterw.zip,Master of Weapon,masterw.cfg,masterw.png,/base/path/masterw.cfg
+./matmania.zip,Mat Mania,matmania.cfg,matmania.png,/base/path/matmania.cfg
+./matchit.zip,Match It,matchit.cfg,matchit.png,/base/path/matchit.cfg
+./matchit2.zip,Match It II,matchit2.cfg,matchit2.png,/base/path/matchit2.cfg
+./matrim.zip,Matrimelee,matrim.cfg,matrim.png,/base/path/matrim.cfg
+./maxrpm.zip,Max Rpm,maxrpm.cfg,maxrpm.png,/base/path/maxrpm.cfg
+./mayday.zip,Mayday,mayday.cfg,mayday.png,/base/path/mayday.cfg
+./mofflott.zip,Maze Of Flott,mofflott.cfg,mofflott.png,/base/path/mofflott.cfg
+./mazinger.zip,Mazinger Z,mazinger.cfg,mazinger.png,/base/path/mazinger.cfg
+./mechatt.zip,Mechanized Attack,mechatt.cfg,mechatt.png,/base/path/mechatt.cfg
+./megaman2.zip,Mega Man 2: The Power Fighters,megaman2.cfg,megaman2.png,/base/path/megaman2.cfg
+./kikcubic.zip,Kickle Cubicle / Meikyu Jima,kikcubic.cfg,kikcubic.png,/base/path/kikcubic.cfg
+./megaman.zip,Mega Man: The Power Battle,megaman.cfg,megaman.png,/base/path/megaman.cfg
+./mtwins.zip,Mega Twins,mtwins.cfg,mtwins.png,/base/path/mtwins.cfg
+./megazone.zip,Mega Zone,megazone.cfg,megazone.png,/base/path/megazone.cfg
+./megablst.zip,Mega Blast,megablst.cfg,megablst.png,/base/path/megablst.cfg
+./megadon.zip,Megadon,megadon.cfg,megadon.png,/base/path/megadon.cfg
+./magicstk.zip,Magic Sticks,magicstk.cfg,magicstk.png,/base/path/magicstk.cfg
+./mightguy.zip,Mighty Guy,mightguy.cfg,mightguy.png,/base/path/mightguy.cfg
+./meosism.zip,Meosis Magic,meosism.cfg,meosism.png,/base/path/meosism.cfg
+./mercs.zip,Mercs,mercs.cfg,mercs.png,/base/path/mercs.cfg
+./merlinmm.zip,Merlin's Money Maze,merlinmm.cfg,merlinmm.png,/base/path/merlinmm.cfg
+./metafox.zip,Meta Fox,metafox.cfg,metafox.png,/base/path/metafox.cfg
+./metalb.zip,Metal Black,metalb.cfg,metalb.png,/base/path/metalb.cfg
+./metlclsh.zip,Metal Clash,metlclsh.cfg,metlclsh.png,/base/path/metlclsh.cfg
+./metlfrzr.zip,Metal Freezer,metlfrzr.cfg,metlfrzr.png,/base/path/metlfrzr.cfg
+./metlhawk.zip,Metal Hawk,metlhawk.cfg,metlhawk.png,/base/path/metlhawk.cfg
+./metlsavr.zip,Metal Saver,metlsavr.cfg,metlsavr.png,/base/path/metlsavr.cfg
+./mslug.zip,Metal Slug - Super Vehicle-001,mslug.cfg,mslug.png,/base/path/mslug.cfg
+./mslug2.zip,Metal Slug 2 - Super Vehicle-001/II,mslug2.cfg,mslug2.png,/base/path/mslug2.cfg
+./mslugx.zip,Metal Slug X - Super Vehicle-001,mslugx.cfg,mslugx.png,/base/path/mslugx.cfg
+./mslug3.zip,Metal Slug 3,mslug3.cfg,mslug3.png,/base/path/mslug3.cfg
+./mslug4.zip,Metal Slug 4,mslug4.cfg,mslug4.png,/base/path/mslug4.cfg
+./ms5pcb.zip,Metal Slug 5,ms5pcb.cfg,ms5pcb.png,/base/path/ms5pcb.cfg
+./mslug5.zip,Metal Slug 5,mslug5.cfg,mslug5.png,/base/path/mslug5.cfg
+./msisaac.zip,Metal Soldier Isaac II,msisaac.cfg,msisaac.png,/base/path/msisaac.cfg
+./metmqstr.zip,Metamoqester,metmqstr.cfg,metmqstr.png,/base/path/metmqstr.cfg
+./metamrph.zip,Metamorphic Force,metamrph.cfg,metamrph.png,/base/path/metamrph.cfg
+./metrocrs.zip,Metro-cross,metrocrs.cfg,metrocrs.png,/base/path/metrocrs.cfg
+./mwalk.zip,Michael Jackson's Moonwalker,mwalk.cfg,mwalk.png,/base/path/mwalk.cfg
+./midres.zip,Midnight Resistance,midres.cfg,midres.png,/base/path/midres.cfg
+./mimonkey.zip,Mighty Monkey,mimonkey.cfg,mimonkey.png,/base/path/mimonkey.cfg
+./mwarr.zip,Mighty Warriors,mwarr.cfg,mwarr.png,/base/path/mwarr.cfg
+./mpang.zip,Mighty! Pang,mpang.cfg,mpang.png,/base/path/mpang.cfg
+./mikie.zip,Mikie,mikie.cfg,mikie.png,/base/path/mikie.cfg
+./gtmr2.zip,Mille Miglia 2: Great 1000 Miles Rally,gtmr2.cfg,gtmr2.png,/base/path/gtmr2.cfg
+./milliped.zip,Millipede,milliped.cfg,milliped.png,/base/path/milliped.cfg
+./minasan.zip,Minasan no Okagesamadesu! Dai Sugoroku Taikai,minasan.cfg,minasan.png,/base/path/minasan.cfg
+./minefld.zip,Minefield,minefld.cfg,minefld.png,/base/path/minefld.cfg
+./mineswpr.zip,Minesweeper,mineswpr.cfg,mineswpr.png,/base/path/mineswpr.cfg
+./minivadr.zip,Mini Vaders,minivadr.cfg,minivadr.png,/base/path/minivadr.cfg
+./mmonkey.zip,Minky Monkey,mmonkey.cfg,mmonkey.png,/base/path/mmonkey.cfg
+./mirage.zip,Mirage Youjuu Mahjongden,mirage.cfg,mirage.png,/base/path/mirage.cfg
+./mirninja.zip,Mirai Ninja,mirninja.cfg,mirninja.png,/base/path/mirninja.cfg
+./mirax.zip,Mirax,mirax.cfg,mirax.png,/base/path/mirax.cfg
+./msbingo.zip,Miss Bingo,msbingo.cfg,msbingo.png,/base/path/msbingo.cfg
+./missb2.zip,Miss Bubble II,missb2.cfg,missb2.png,/base/path/missb2.cfg
+./mspuzzle.zip,Miss Puzzle,mspuzzle.cfg,mspuzzle.png,/base/path/mspuzzle.cfg
+./missw96.zip,Miss World '96,missw96.cfg,missw96.png,/base/path/missw96.cfg
+./missw02.zip,Miss World 2002,missw02.cfg,missw02.png,/base/path/missw02.cfg
+./missile.zip,Missile Command,missile.cfg,missile.png,/base/path/missile.cfg
+./m660.zip,Mission 660,m660.cfg,m660.png,/base/path/m660.cfg
+./misncrft.zip,Mission Craft,misncrft.cfg,misncrft.png,/base/path/misncrft.cfg
+./cmissnx.zip,Mission-X,cmissnx.cfg,cmissnx.png,/base/path/cmissnx.cfg
+./mrviking.zip,Mister Viking,mrviking.cfg,mrviking.png,/base/path/mrviking.cfg
+./quiz18k.zip,Miyasu Nonki no Quiz 18-Kin,quiz18k.cfg,quiz18k.png,/base/path/quiz18k.cfg
+./msgundam.zip,Mobile Suit Gundam,msgundam.cfg,msgundam.png,/base/path/msgundam.cfg
+./gundamex.zip,Mobile Suit Gundam: EX Revue,gundamex.cfg,gundamex.png,/base/path/gundamex.cfg
+./gdfs.zip,Mobile Suit Gundam Final Shooting,gdfs.cfg,gdfs.png,/base/path/gdfs.cfg
+./mogura.zip,Mogura Desse,mogura.cfg,mogura.png,/base/path/mogura.cfg
+./mole.zip,Mole Attack,mole.cfg,mole.png,/base/path/mole.cfg
+./momoko.zip,Momoko 120%,momoko.cfg,momoko.png,/base/path/momoko.cfg
+./miexchng.zip,Money Puzzle Exchanger,miexchng.cfg,miexchng.png,/base/path/miexchng.cfg
+./mmaulers.zip,Monster Maulers,mmaulers.cfg,mmaulers.png,/base/path/mmaulers.cfg
+./mslider.zip,Monster Slider,mslider.cfg,mslider.png,/base/path/mslider.cfg
+./moonal2.zip,Moon Alien Part 2,moonal2.cfg,moonal2.png,/base/path/moonal2.cfg
+./mooncrst.zip,Moon Cresta,mooncrst.cfg,mooncrst.png,/base/path/mooncrst.cfg
+./mpatrol.zip,Moon Patrol,mpatrol.cfg,mpatrol.png,/base/path/mpatrol.cfg
+./moonqsr.zip,Moon Quasar,moonqsr.cfg,moonqsr.png,/base/path/moonqsr.cfg
+./mshuttle.zip,Moon Shuttle,mshuttle.cfg,mshuttle.png,/base/path/mshuttle.cfg
+./moonwar.zip,Moonwar,moonwar.cfg,moonwar.png,/base/path/moonwar.cfg
+./moonwarp.zip,Moonwar,moonwarp.cfg,moonwarp.png,/base/path/moonwarp.cfg
+./moremore.zip,More More,moremore.cfg,moremore.png,/base/path/moremore.cfg
+./moremorp.zip,More More Plus,moremorp.cfg,moremorp.png,/base/path/moremorp.cfg
+./quizhuhu.zip,Moriguchi Hiroko No Quiz De Hyuu!hyuu!,quizhuhu.cfg,quizhuhu.png,/base/path/quizhuhu.cfg
+./mk.zip,Mortal Kombat,mk.cfg,mk.png,/base/path/mk.cfg
+./mk3.zip,Mortal Kombat 3,mk3.cfg,mk3.png,/base/path/mk3.cfg
+./mk2.zip,Mortal Kombat 2,mk2.cfg,mk2.png,/base/path/mk2.cfg
+./mosaic.zip,Mosaic,mosaic.cfg,mosaic.png,/base/path/mosaic.cfg
+./mosaicf2.zip,Mosaic (F2 System),mosaicf2.cfg,mosaicf2.png,/base/path/mosaicf2.cfg
+./motos.zip,Motos,motos.cfg,motos.png,/base/path/motos.cfg
+./msgogo.zip,Mouse Shooter Gogo,msgogo.cfg,msgogo.png,/base/path/msgogo.cfg
+./mastboyo.zip,Mouse Trap,mastboyo.cfg,mastboyo.png,/base/path/mastboyo.cfg
+./mouser.zip,Mouser,mouser.cfg,mouser.png,/base/path/mouser.cfg
+./mrdig.zip,Mr. Dig,mrdig.cfg,mrdig.png,/base/path/mrdig.cfg
+./docastle.zip,Mr. Do's Castle,docastle.cfg,docastle.png,/base/path/docastle.cfg
+./dowild.zip,Mr. Do's Wild Ride,dowild.cfg,dowild.png,/base/path/dowild.cfg
+./mrgoemon.zip,Mr. Goemon,mrgoemon.cfg,mrgoemon.png,/base/path/mrgoemon.cfg
+./mrkicker.zip,Mr. Kicker,mrkicker.cfg,mrkicker.png,/base/path/mrkicker.cfg
+./mrkougar.zip,Mr. Kougar,mrkougar.cfg,mrkougar.png,/base/path/mrkougar.cfg
+./mrtnt.zip,Mr. TNT,mrtnt.cfg,mrtnt.png,/base/path/mrtnt.cfg
+./mrdo.zip,Mr. Do!,mrdo.cfg,mrdo.png,/base/path/mrdo.cfg
+./mrsdyna.zip,Mrs. Dynamite,mrsdyna.cfg,mrsdyna.png,/base/path/mrsdyna.cfg
+./mspactwin.zip,Ms Pac Man Twin,mspactwin.cfg,mspactwin.png,/base/path/mspactwin.cfg
+./mspacman.zip,Ms. Pac-Man,mspacman.cfg,mspacman.png,/base/path/mspacman.cfg
+./20pacgal.zip,Ms. Pac-man/Galaga - 20th Anniversary Class of 1981 Reunion,20pacgal.cfg,20pacgal.png,/base/path/20pacgal.cfg
+./rocktrv2.zip,Mtv Rock-n-roll Trivia,rocktrv2.cfg,rocktrv2.png,/base/path/rocktrv2.cfg
+./mmpork.zip,Muchi Muchi Pork!,mmpork.cfg,mmpork.png,/base/path/mmpork.cfg
+./mugsmash.zip,Mug Smashers,mugsmash.cfg,mugsmash.png,/base/path/mugsmash.cfg
+./semibase.zip,Muhanseungbu,semibase.cfg,semibase.png,/base/path/semibase.cfg
+./nmg5.zip,Multi 5 / New Multi Game 5,nmg5.cfg,nmg5.png,/base/path/nmg5.cfg
+./multchmp.zip,Multi Champ,multchmp.cfg,multchmp.png,/base/path/multchmp.cfg
+./mchampdx.zip,Multi Champ Deluxe,mchampdx.cfg,mchampdx.png,/base/path/mchampdx.cfg
+./mbombrd.zip,Muscle Bomber Duo : Ultimate Team Battle,mbombrd.cfg,mbombrd.png,/base/path/mbombrd.cfg
+./mushisam.zip,Mushihime-Sama,mushisam.cfg,mushisam.png,/base/path/mushisam.cfg
+./futaribl.zip,Mushihime-Sama Futari Black Label,futaribl.cfg,futaribl.png,/base/path/futaribl.cfg
+./futari15.zip,Mushihime-Sama Futari,futari15.cfg,futari15.png,/base/path/futari15.cfg
+./shoottv.zip,Must Shoot TV,shoottv.cfg,shoottv.png,/base/path/shoottv.cfg
+./mustache.zip,Mustache Boy,mustache.cfg,mustache.png,/base/path/mustache.cfg
+./mnight.zip,Mutant Night,mnight.cfg,mnight.png,/base/path/mnight.cfg
+./mutnat.zip,Mutation Nation,mutnat.cfg,mutnat.png,/base/path/mutnat.cfg
+./mx5000.zip,MX5000,mx5000.cfg,mx5000.png,/base/path/mx5000.cfg
+./myhero.zip,My Hero,myhero.cfg,myhero.png,/base/path/myhero.cfg
+./mystston.zip,Mysterious Stones - Dr. John's Adventure,mystston.cfg,mystston.png,/base/path/mystston.cfg
+./mysticri.zip,Mystic Riders,mysticri.cfg,mysticri.png,/base/path/mysticri.cfg
+./mystwarr.zip,Mystic Warriors,mystwarr.cfg,mystwarr.png,/base/path/mystwarr.cfg
+./nsub.zip,N-sub,nsub.cfg,nsub.png,/base/path/nsub.cfg
+./nycaptor.zip,N.y. Captor,nycaptor.cfg,nycaptor.png,/base/path/nycaptor.cfg
+./nam1975.zip,NAM-1975,nam1975.cfg,nam1975.png,/base/path/nam1975.cfg
+./namenayo.zip,Namennayo,namenayo.cfg,namenayo.png,/base/path/namenayo.cfg
+./naname.zip,Naname De Magic!,naname.cfg,naname.png,/base/path/naname.cfg
+./narc.zip,NARC,narc.cfg,narc.png,/base/path/narc.cfg
+./nastar.zip,Nastar,nastar.cfg,nastar.png,/base/path/nastar.cfg
+./natodef.zip,NATO Defense,natodef.cfg,natodef.png,/base/path/natodef.cfg
+./naughtyb.zip,Naughty Boy,naughtyb.cfg,naughtyb.png,/base/path/naughtyb.cfg
+./nmouse.zip,Naughty Mouse,nmouse.cfg,nmouse.png,/base/path/nmouse.cfg
+./3in1semi.zip,New HyperMan,3in1semi.cfg,3in1semi.png,/base/path/3in1semi.cfg
+./navarone.zip,Navarone,navarone.cfg,navarone.png,/base/path/navarone.cfg
+./nbahangt.zip,Nba Hangtime,nbahangt.cfg,nbahangt.png,/base/path/nbahangt.cfg
+./nbajam.zip,NBA Jam,nbajam.cfg,nbajam.png,/base/path/nbajam.cfg
+./nbajamte.zip,NBA Jam Tournament Edition,nbajamte.cfg,nbajamte.png,/base/path/nbajamte.cfg
+./nbamht.zip,Nba Maximum Hangtime,nbamht.cfg,nbamht.png,/base/path/nbamht.cfg
+./nebulray.zip,Nebulas Ray,nebulray.cfg,nebulray.png,/base/path/nebulray.cfg
+./spdodgeb.zip,Super Dodge Ball,spdodgeb.cfg,spdodgeb.png,/base/path/spdodgeb.cfg
+./nemesis.zip,Nemesis,nemesis.cfg,nemesis.png,/base/path/nemesis.cfg
+./nemo.zip,Nemo,nemo.cfg,nemo.png,/base/path/nemo.cfg
+./neobombe.zip,Neo Bomberman,neobombe.cfg,neobombe.png,/base/path/neobombe.cfg
+./neodrift.zip,Neo Drift Out - New Technology,neodrift.cfg,neodrift.png,/base/path/neodrift.cfg
+./neocup98.zip,Neo-Geo Cup '98 - The Road to the Victory,neocup98.cfg,neocup98.png,/base/path/neocup98.cfg
+./neomrdo.zip,Neo Mr. Do!,neomrdo.cfg,neomrdo.png,/base/path/neomrdo.cfg
+./turfmast.zip,Neo Turf Masters,turfmast.cfg,turfmast.png,/base/path/turfmast.cfg
+./neopang.zip,Neo Pong,neopang.cfg,neopang.png,/base/path/neopang.cfg
+./neopong.zip,Neo Pong,neopong.cfg,neopong.png,/base/path/neopong.cfg
+./netwars.zip,Net Wars,netwars.cfg,netwars.png,/base/path/netwars.cfg
+./quiztou.zip,Nettou! Gekitou! Quiztou!!,quiztou.cfg,quiztou.png,/base/path/quiztou.cfg
+./newxpang.zip,New Cross Pang,newxpang.cfg,newxpang.png,/base/path/newxpang.cfg
+./newfant.zip,New Fantasia,newfant.cfg,newfant.png,/base/path/newfant.cfg
+./nhidctch.zip,New Hidden Catch,nhidctch.cfg,nhidctch.png,/base/path/nhidctch.cfg
+./nrallyx.zip,New Rally X,nrallyx.cfg,nrallyx.png,/base/path/nrallyx.cfg
+./newsin7.zip,New Sinbad 7,newsin7.cfg,newsin7.png,/base/path/newsin7.cfg
+./news.zip,News,news.cfg,news.png,/base/path/news.cfg
+./nibbler.zip,Nibbler,nibbler.cfg,nibbler.png,/base/path/nibbler.cfg
+./nitedrvr.zip,Night Driver,nitedrvr.cfg,nitedrvr.png,/base/path/nitedrvr.cfg
+./nslasher.zip,Night Slashers,nslasher.cfg,nslasher.png,/base/path/nslasher.cfg
+./cnightst.zip,Night Star,cnightst.cfg,cnightst.png,/base/path/cnightst.cfg
+./nightstr.zip,Night Striker,nightstr.cfg,nightstr.png,/base/path/nightstr.cfg
+./nwarr.zip,Night Warriors: Darkstalkers' Revenge,nwarr.cfg,nwarr.png,/base/path/nwarr.cfg
+./vhunt2.zip,Vampire Hunter 2: Darkstalkers' Revenge,vhunt2.cfg,vhunt2.png,/base/path/vhunt2.cfg
+./nitd.zip,Nightmare in the Dark,nitd.cfg,nitd.png,/base/path/nitd.cfg
+./ncombat.zip,Ninja Combat,ncombat.cfg,ncombat.png,/base/path/ncombat.cfg
+./ncommand.zip,Ninja Commando,ncommand.cfg,ncommand.png,/base/path/ncommand.cfg
+./ninjemak.zip,Ninja Emaki,ninjemak.cfg,ninjemak.png,/base/path/ninjemak.cfg
+./kazan.zip,Ninja Kazan,kazan.cfg,kazan.png,/base/path/kazan.cfg
+./ninjamas.zip,Ninja Master's: Haō Ninpō Chō,ninjamas.cfg,ninjamas.png,/base/path/ninjamas.cfg
+./nspirit.zip,Ninja Spirit,nspirit.cfg,nspirit.png,/base/path/nspirit.cfg
+./ninjakd2.zip,Ninja-Kid II,ninjakd2.cfg,ninjakd2.png,/base/path/ninjakd2.cfg
+./ninjakun.zip,Ninja-kun: Adventure of Devil Castle,ninjakun.cfg,ninjakun.png,/base/path/ninjakun.cfg
+./nitrobal.zip,Nitro Ball,nitrobal.cfg,nitrobal.png,/base/path/nitrobal.cfg
+./nob.zip,Zippy Bug,nob.cfg,nob.png,/base/path/nob.cfg
+./nost.zip,Nostradamus,nost.cfg,nost.png,/base/path/nost.cfg
+./nouryoku.zip,Nouryoku Koujou 2nkai,nouryoku.cfg,nouryoku.png,/base/path/nouryoku.cfg
+./nova2001.zip,Nova 2001,nova2001.cfg,nova2001.png,/base/path/nova2001.cfg
+./numanath.zip,Numan Athletics,numanath.cfg,numanath.png,/base/path/numanath.cfg
+./cocean1a.zip,Ocean To Ocean,cocean1a.cfg,cocean1a.png,/base/path/cocean1a.cfg
+./ohmygod.zip,Oh My God!,ohmygod.cfg,ohmygod.png,/base/path/ohmygod.cfg
+./oisipuzl.zip,Triple Fun,oisipuzl.cfg,oisipuzl.png,/base/path/oisipuzl.cfg
+./olibochu.zip,Oli-boo-chu,olibochu.cfg,olibochu.png,/base/path/olibochu.cfg
+./omega.zip,Omega Fighter,omega.cfg,omega.png,/base/path/omega.cfg
+./omegaf.zip,Omega Fighter,omegaf.cfg,omegaf.png,/base/path/omegaf.cfg
+./omegrace.zip,Omega Race,omegrace.cfg,omegrace.png,/base/path/omegrace.cfg
+./onetwo.zip,One + Two,onetwo.cfg,onetwo.png,/base/path/onetwo.cfg
+./oneshot.zip,One Shot One Kill,oneshot.cfg,oneshot.png,/base/path/oneshot.cfg
+./coozumou.zip,Oozumou - The Grand Sumo,coozumou.cfg,coozumou.png,/base/path/coozumou.cfg
+./opaopa.zip,Opa Opa,opaopa.cfg,opaopa.png,/base/path/opaopa.cfg
+./othunder.zip,Operation Thunderbolt,othunder.cfg,othunder.png,/base/path/othunder.cfg
+./opwolf.zip,Operation Wolf,opwolf.cfg,opwolf.png,/base/path/opwolf.cfg
+./opwolf3.zip,Operation Wolf 3,opwolf3.cfg,opwolf3.png,/base/path/opwolf3.cfg
+./orbitron.zip,Orbitron,orbitron.cfg,orbitron.png,/base/path/orbitron.cfg
+./orbs.zip,Orbs,orbs.cfg,orbs.png,/base/path/orbs.cfg
+./ordyne.zip,Ordyne,ordyne.cfg,ordyne.png,/base/path/ordyne.cfg
+./orlegend.zip,Oriental Legend / Xi You Shi E Zhuan,orlegend.cfg,orlegend.png,/base/path/orlegend.cfg
+./oscar.zip,Psycho-Nics Oscar,oscar.cfg,oscar.png,/base/path/oscar.cfg
+./osman.zip,Osman,osman.cfg,osman.png,/base/path/osman.cfg
+./outrun.zip,Out Run,outrun.cfg,outrun.png,/base/path/outrun.cfg
+./outzone.zip,Out Zone,outzone.cfg,outzone.png,/base/path/outzone.cfg
+./orunners.zip,OutRunners,orunners.cfg,orunners.png,/base/path/orunners.cfg
+./overtop.zip,Over Top,overtop.cfg,overtop.png,/base/path/overtop.cfg
+./ozmawars.zip,Ozma Wars,ozmawars.cfg,ozmawars.png,/base/path/ozmawars.cfg
+./ozon1.zip,Ozon I,ozon1.cfg,ozon1.png,/base/path/ozon1.cfg
+./p47aces.zip,P-47 Aces,p47aces.cfg,p47aces.png,/base/path/p47aces.cfg
+./p47.zip,P-47 - The Phantom Fighter,p47.cfg,p47.png,/base/path/p47.cfg
+./pow.zip,P.O.W.: Prisoners of War,pow.cfg,pow.png,/base/path/pow.cfg
+./pacnpal.zip,Pac & Pal,pacnpal.cfg,pacnpal.png,/base/path/pacnpal.cfg
+./pacland.zip,Pac-Land,pacland.cfg,pacland.png,/base/path/pacland.cfg
+./25pacman.zip,Pac-man - 25th Anniversary Edition,25pacman.cfg,25pacman.png,/base/path/25pacman.cfg
+./pacplus.zip,Pac-man Plus,pacplus.cfg,pacplus.png,/base/path/pacplus.cfg
+./pacmania.zip,Pac-Mania,pacmania.cfg,pacmania.png,/base/path/pacmania.cfg
+./sxyreact.zip,Pachinko Sexy Reaction,sxyreact.cfg,sxyreact.png,/base/path/sxyreact.cfg
+./sxyreac2.zip,Pachinko Sexy Reaction 2,sxyreac2.cfg,sxyreac2.png,/base/path/sxyreac2.cfg
+./packbang.zip,Pack'n Bang Bang,packbang.cfg,packbang.png,/base/path/packbang.cfg
+./clubpacm.zip,Pacman Club / Club Lambada,clubpacm.cfg,clubpacm.png,/base/path/clubpacm.cfg
+./paddlema.zip,Paddle Mania,paddlema.cfg,paddlema.png,/base/path/paddlema.cfg
+./pairs.zip,Pairs - Featuring The Giffy Girls,pairs.cfg,pairs.png,/base/path/pairs.cfg
+./pairlove.zip,Pairs Love,pairlove.cfg,pairlove.png,/base/path/pairlove.cfg
+./pairsred.zip,Pairs Redemption,pairsred.cfg,pairsred.png,/base/path/pairsred.cfg
+./palamed.zip,Palamedes,palamed.cfg,palamed.png,/base/path/palamed.cfg
+./pandoras.zip,Pandora's Palace,pandoras.cfg,pandoras.png,/base/path/pandoras.cfg
+./pangpang.zip,Pang Pang,pangpang.cfg,pangpang.png,/base/path/pangpang.cfg
+./pangpoms.zip,Pang Pang,pangpoms.cfg,pangpoms.png,/base/path/pangpoms.cfg
+./pang3.zip,Pang! 3,pang3.cfg,pang3.png,/base/path/pang3.cfg
+./panicstr.zip,Panic Street,panicstr.cfg,panicstr.png,/base/path/panicstr.cfg
+./paprazzi.zip,Paparazzi,paprazzi.cfg,paprazzi.png,/base/path/paprazzi.cfg
+./pturn.zip,Parallel Turn,pturn.cfg,pturn.png,/base/path/pturn.cfg
+./parodius.zip,Parodius Da!,parodius.cfg,parodius.png,/base/path/parodius.cfg
+./prtytime.zip,Party Time: Gonta the Diver II,prtytime.cfg,prtytime.png,/base/path/prtytime.cfg
+./pasha2.zip,Pasha Pasha 2,pasha2.cfg,pasha2.png,/base/path/pasha2.cfg
+./pass.zip,Pass,pass.cfg,pass.png,/base/path/pass.cfg
+./passsht.zip,Passing Shot,passsht.cfg,passsht.png,/base/path/passsht.cfg
+./poknight.zip,Poker Night,poknight.cfg,poknight.png,/base/path/poknight.cfg
+./pastelis.zip,Pastel Island,pastelis.cfg,pastelis.png,/base/path/pastelis.cfg
+./patapata.zip,Pata Pata Panic,patapata.cfg,patapata.png,/base/path/patapata.cfg
+./peekaboo.zip,Peek-a-boo!,peekaboo.cfg,peekaboo.png,/base/path/peekaboo.cfg
+./penfan.zip,Penfan Girls - Step1. Mild Mind,penfan.cfg,penfan.png,/base/path/penfan.cfg
+./pengo.zip,Pengo,pengo.cfg,pengo.png,/base/path/pengo.cfg
+./penbros.zip,Penguin Brothers,penbros.cfg,penbros.png,/base/path/penbros.cfg
+./pkunwar.zip,Penguin-kun Wars,pkunwar.cfg,pkunwar.png,/base/path/pkunwar.cfg
+./pbillrd.zip,Perfect Billiard,pbillrd.cfg,pbillrd.png,/base/path/pbillrd.cfg
+./perfrman.zip,Performan,perfrman.cfg,perfrman.png,/base/path/perfrman.cfg
+./cppicf.zip,Peter Pepper's Ice Cream Factory,cppicf.cfg,cppicf.png,/base/path/cppicf.cfg
+./phelios.zip,Phelios,phelios.cfg,phelios.png,/base/path/phelios.cfg
+./phoenix.zip,Phoenix,phoenix.cfg,phoenix.png,/base/path/phoenix.cfg
+./phozon.zip,Phozon,phozon.cfg,phozon.png,/base/path/phozon.cfg
+./pigskin.zip,Pigskin 621ad,pigskin.cfg,pigskin.png,/base/path/pigskin.cfg
+./pbaction.zip,Pinball Action,pbaction.cfg,pbaction.png,/base/path/pbaction.cfg
+./pinbo.zip,Pinbo,pinbo.cfg,pinbo.png,/base/path/pinbo.cfg
+./popnpop.zip,Pop'n Pop,popnpop.cfg,popnpop.png,/base/path/popnpop.cfg
+./ppmast93.zip,Ping Pong Masters '93,ppmast93.cfg,ppmast93.png,/base/path/ppmast93.cfg
+./pinkswts.zip,Pink Sweets: Ibara Sorekara,pinkswts.cfg,pinkswts.png,/base/path/pinkswts.cfg
+./pballoon.zip,Pioneer Balloon,pballoon.cfg,pballoon.png,/base/path/pballoon.cfg
+./pipedrm.zip,Pipe Dream,pipedrm.cfg,pipedrm.png,/base/path/pipedrm.cfg
+./pipibibs.zip,Pipi & Bibi's,pipibibs.cfg,pipibibs.png,/base/path/pipibibs.cfg
+./higemaru.zip,Pirate Ship Higemaru,higemaru.cfg,higemaru.png,/base/path/higemaru.cfg
+./pirates.zip,Pirates,pirates.cfg,pirates.png,/base/path/pirates.cfg
+./pisces.zip,Pisces,pisces.cfg,pisces.png,/base/path/pisces.cfg
+./pistoldm.zip,Pistol Daimyo no Bōken,pistoldm.cfg,pistoldm.png,/base/path/pistoldm.cfg
+./pitnrun.zip,Pit & Run - F-1 Race,pitnrun.cfg,pitnrun.png,/base/path/pitnrun.cfg
+./pitfight.zip,Pit Fighter,pitfight.cfg,pitfight.png,/base/path/pitfight.cfg
+./pitapat.zip,Pitapat Puzzle,pitapat.cfg,pitapat.png,/base/path/pitapat.cfg
+./pkscram.zip,Pk Scramble,pkscram.cfg,pkscram.png,/base/path/pkscram.cfg
+./pprobe.zip,Planet Probe,pprobe.cfg,pprobe.png,/base/path/pprobe.cfg
+./plgirls.zip,Play Girls,plgirls.cfg,plgirls.png,/base/path/plgirls.cfg
+./plgirls2.zip,Play Girls 2,plgirls2.cfg,plgirls2.png,/base/path/plgirls2.cfg
+./playball.zip,Playball!,playball.cfg,playball.png,/base/path/playball.cfg
+./pgoal.zip,Pleasure Goal : 5 on 5 Mini Soccer,pgoal.cfg,pgoal.png,/base/path/pgoal.cfg
+./pleiads.zip,Pleiads,pleiads.cfg,pleiads.png,/base/path/pleiads.cfg
+./plotting.zip,Plotting,plotting.cfg,plotting.png,/base/path/plotting.cfg
+./plumppop.zip,Plump Pop,plumppop.cfg,plumppop.png,/base/path/plumppop.cfg
+./plusalph.zip,Plus Alpha,plusalph.cfg,plusalph.png,/base/path/plusalph.cfg
+./pnickj.zip,Pnickies,pnickj.cfg,pnickj.png,/base/path/pnickj.cfg
+./pcktgal.zip,Pocket Gal,pcktgal.cfg,pcktgal.png,/base/path/pcktgal.cfg
+./pktgaldx.zip,Pocket Gal Deluxe,pktgaldx.cfg,pktgaldx.png,/base/path/pktgaldx.cfg
+./pgalvip.zip,Pocket Gals V.i.p,pgalvip.cfg,pgalvip.png,/base/path/pgalvip.cfg
+./ptblank.zip,Point Blank,ptblank.cfg,ptblank.png,/base/path/ptblank.cfg
+./poitto.zip,Poitto!,poitto.cfg,poitto.png,/base/path/poitto.cfg
+./pkladies.zip,Poker Ladies,pkladies.cfg,pkladies.png,/base/path/pkladies.cfg
+./pokonyan.zip,Pokonyan! Balloon,pokonyan.cfg,pokonyan.png,/base/path/pokonyan.cfg
+./pollux.zip,Pollux,pollux.cfg,pollux.png,/base/path/pollux.cfg
+./ponpoko.zip,Ponpoko,ponpoko.cfg,ponpoko.png,/base/path/ponpoko.cfg
+./poosho.zip,Poosho Poosho,poosho.cfg,poosho.png,/base/path/poosho.cfg
+./pooyan.zip,Pooyan,pooyan.cfg,pooyan.png,/base/path/pooyan.cfg
+./popbounc.zip,Pop 'n Bounce,popbounc.cfg,popbounc.png,/base/path/popbounc.cfg
+./popbingo.zip,Pop Bingo,popbingo.cfg,popbingo.png,/base/path/popbingo.cfg
+./popflame.zip,Pop Flamer,popflame.cfg,popflame.png,/base/path/popflame.cfg
+./popspops.zip,Pop's Pop's,popspops.cfg,popspops.png,/base/path/popspops.cfg
+./popeye.zip,Popeye,popeye.cfg,popeye.png,/base/path/popeye.cfg
+./popper.zip,Popper,popper.cfg,popper.png,/base/path/popper.cfg
+./porky.zip,Porky,porky.cfg,porky.png,/base/path/porky.cfg
+./potopoto.zip,Poto Poto,potopoto.cfg,potopoto.png,/base/path/potopoto.cfg
+./poundfor.zip,Pound For Pound,poundfor.cfg,poundfor.png,/base/path/poundfor.cfg
+./powerbal.zip,Power Balls,powerbal.cfg,powerbal.png,/base/path/powerbal.cfg
+./pdrift.zip,Power Drift,pdrift.cfg,pdrift.png,/base/path/pdrift.cfg
+./powerdrv.zip,Power Drive,powerdrv.cfg,powerdrv.png,/base/path/powerdrv.cfg
+./powerins.zip,Power Instinct,powerins.cfg,powerins.png,/base/path/powerins.cfg
+./pwrinst2.zip,Power Instinct 2,pwrinst2.cfg,pwrinst2.png,/base/path/pwrinst2.cfg
+./plegends.zip,Power Instinct Legends,plegends.cfg,plegends.png,/base/path/plegends.cfg
+./pspikes.zip,Power Spikes,pspikes.cfg,pspikes.png,/base/path/pspikes.cfg
+./pspikes2.zip,Power Spikes II,pspikes2.cfg,pspikes2.png,/base/path/pspikes2.cfg
+./psurge.zip,Power Surge,psurge.cfg,psurge.png,/base/path/psurge.cfg
+./pubball.zip,Power Up Baseball,pubball.cfg,pubball.png,/base/path/pubball.cfg
+./prehisle.zip,Prehistoric Isle in 1930,prehisle.cfg,prehisle.png,/base/path/prehisle.cfg
+./preisle2.zip,Prehistoric Isle 2,preisle2.cfg,preisle2.png,/base/path/preisle2.cfg
+./sailormn.zip,Pretty Soldier Sailor Moon,sailormn.cfg,sailormn.png,/base/path/sailormn.cfg
+./trstar.zip,Top Ranking Stars,trstar.cfg,trstar.png,/base/path/trstar.cfg
+./cprobowl.zip,Pro Bowling,cprobowl.cfg,cprobowl.png,/base/path/cprobowl.cfg
+./cpsoccer.zip,Pro Soccer,cpsoccer.cfg,cpsoccer.png,/base/path/cpsoccer.cfg
+./cptennis.zip,Pro Tennis,cptennis.cfg,cptennis.png,/base/path/cptennis.cfg
+./wldcourt.zip,World Court,wldcourt.cfg,wldcourt.png,/base/path/wldcourt.cfg
+./ws.zip,World Stadium,ws.cfg,ws.png,/base/path/ws.cfg
+./progear.zip,Progear,progear.cfg,progear.png,/base/path/progear.cfg
+./progress.zip,Progress,progress.cfg,progress.png,/base/path/progress.cfg
+./promutrv.zip,Progressive Music Trivia,promutrv.cfg,promutrv.png,/base/path/promutrv.cfg
+./psychic5.zip,Psychic 5,psychic5.cfg,psychic5.png,/base/path/psychic5.cfg
+./psychos.zip,Psycho Soldier,psychos.cfg,psychos.png,/base/path/psychos.cfg
+./puchicar.zip,Puchi Carat,puchicar.cfg,puchicar.png,/base/path/puchicar.cfg
+./pickin.zip,Pickin',pickin.cfg,pickin.png,/base/path/pickin.cfg
+./puckman.zip,Puck Man,puckman.cfg,puckman.png,/base/path/puckman.cfg
+./pulirula.zip,Pu·Li·Ru·La,pulirula.cfg,pulirula.png,/base/path/pulirula.cfg
+./pulstar.zip,Pulstar,pulstar.cfg,pulstar.png,/base/path/pulstar.cfg
+./punchout.zip,Punch-out!!,punchout.cfg,punchout.png,/base/path/punchout.cfg
+./punkshot.zip,Punk Shot,punkshot.cfg,punkshot.png,/base/path/punkshot.cfg
+./pururun.zip,Pururun,pururun.cfg,pururun.png,/base/path/pururun.cfg
+./pushman.zip,Pushman,pushman.cfg,pushman.png,/base/path/pushman.cfg
+./puyo.zip,Puyo Puyo,puyo.cfg,puyo.png,/base/path/puyo.cfg
+./puyopuy2.zip,Puyo Puyo 2,puyopuy2.cfg,puyopuy2.png,/base/path/puyopuy2.cfg
+./puzzli2.zip,Puzz Loop,puzzli2.cfg,puzzli2.png,/base/path/puzzli2.cfg
+./puzzloop.zip,Puzz Loop,puzzloop.cfg,puzzloop.png,/base/path/puzzloop.cfg
+./puzzlove.zip,Puzzlove,puzzlove.cfg,puzzlove.png,/base/path/puzzlove.cfg
+./pzloop2.zip,Puzz Loop 2,pzloop2.cfg,pzloop2.png,/base/path/pzloop2.cfg
+./ichir.zip,Puzzle & Action: Ichidant-R,ichir.cfg,ichir.png,/base/path/ichir.cfg
+./tantr.zip,Puzzle & Action: Tant-R,tantr.cfg,tantr.png,/base/path/tantr.cfg
+./pbobblen.zip,Puzzle Bobble,pbobblen.cfg,pbobblen.png,/base/path/pbobblen.cfg
+./pbobble2.zip,Puzzle Bobble 2,pbobble2.cfg,pbobble2.png,/base/path/pbobble2.cfg
+./pbobbl2n.zip,Puzzle Bobble 2,pbobbl2n.cfg,pbobbl2n.png,/base/path/pbobbl2n.cfg
+./pbobble3.zip,Puzzle Bobble 3,pbobble3.cfg,pbobble3.png,/base/path/pbobble3.cfg
+./pbobble4.zip,Puzzle Bobble 4,pbobble4.cfg,pbobble4.png,/base/path/pbobble4.cfg
+./pzlbreak.zip,Puzzle Break,pzlbreak.cfg,pzlbreak.png,/base/path/pzlbreak.cfg
+./pclubys.zip,Puzzle Club,pclubys.cfg,pclubys.png,/base/path/pclubys.cfg
+./puzlclub.zip,Puzzle Club,puzlclub.cfg,puzlclub.png,/base/path/puzlclub.cfg
+./pzlbowl.zip,Puzzle De Bowling,pzlbowl.cfg,pzlbowl.png,/base/path/pzlbowl.cfg
+./puzzledp.zip,Puzzle De Pon!,puzzledp.cfg,puzzledp.png,/base/path/puzzledp.cfg
+./4in1boot.zip,Puzzle King,4in1boot.cfg,4in1boot.png,/base/path/4in1boot.cfg
+./puzzlekg.zip,Puzzle King (Dance & Puzzle),puzzlekg.cfg,puzzlekg.png,/base/path/puzzlekg.cfg
+./uopoko.zip,Puzzle Uo Poko,uopoko.cfg,uopoko.png,/base/path/uopoko.cfg
+./mushitam.zip,Puzzle! Mushihime-Tama,mushitam.cfg,mushitam.png,/base/path/mushitam.cfg
+./joyjoy.zip,Puzzled,joyjoy.cfg,joyjoy.png,/base/path/joyjoy.cfg
+./puzzli.zip,Puzzli,puzzli.cfg,puzzli.png,/base/path/puzzli.cfg
+./puzznic.zip,Puzznic,puzznic.cfg,puzznic.png,/base/path/puzznic.cfg
+./qbert.zip,Q*bert,qbert.cfg,qbert.png,/base/path/qbert.cfg
+./qbertqub.zip,Q-bert's Qubes,qbertqub.cfg,qbertqub.png,/base/path/qbertqub.cfg
+./qix.zip,Qix,qix.cfg,qix.png,/base/path/qix.cfg
+./quantum.zip,Quantum,quantum.cfg,quantum.png,/base/path/quantum.cfg
+./quartet.zip,Quartet,quartet.cfg,quartet.png,/base/path/quartet.cfg
+./quester.zip,Quester,quester.cfg,quester.png,/base/path/quester.cfg
+./qad.zip,Quiz & Dragons: Capcom Quiz Game,qad.cfg,qad.png,/base/path/qad.cfg
+./inufuku.zip,Quiz & Variety Sukusuku Inufuku,inufuku.cfg,inufuku.png,/base/path/inufuku.cfg
+./quizmoon.zip,Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyo,quizmoon.cfg,quizmoon.png,/base/path/quizmoon.cfg
+./qzchikyu.zip,Quiz Chikyu Bouei Gun,qzchikyu.cfg,qzchikyu.png,/base/path/qzchikyu.cfg
+./qcrayon.zip,Quiz Crayon Shinchan,qcrayon.cfg,qcrayon.png,/base/path/qcrayon.cfg
+./quizdais.zip,Quiz Daisousa Sen - The Last Count Down,quizdais.cfg,quizdais.png,/base/path/quizdais.cfg
+./hotdebut.zip,Quiz De Idol! Hot Debut,hotdebut.cfg,hotdebut.png,/base/path/hotdebut.cfg
+./quizf1.zip,Quiz F1 1-2 Finish,quizf1.cfg,quizf1.png,/base/path/quizf1.cfg
+./qgakumon.zip,Quiz Gakumon No Susume,qgakumon.cfg,qgakumon.png,/base/path/qgakumon.cfg
+./qgh.zip,Quiz Ghost Hunter,qgh.cfg,qgh.png,/base/path/qgh.cfg
+./quizhq.zip,Quiz H.q.,quizhq.cfg,quizhq.png,/base/path/quizhq.cfg
+./qjinsei.zip,Quiz Jinsei Gekijoh,qjinsei.cfg,qjinsei.png,/base/path/qjinsei.cfg
+./qsangoku.zip,Quiz Sangokushi,qsangoku.cfg,qsangoku.png,/base/path/qsangoku.cfg
+./quizkof.zip,Quiz King of Fighters,quizkof.cfg,quizkof.png,/base/path/quizkof.cfg
+./qzkklogy.zip,Quiz Kokology,qzkklogy.cfg,qzkklogy.png,/base/path/qzkklogy.cfg
+./qzkklgy2.zip,Quiz Kokology 2,qzkklgy2.cfg,qzkklgy2.png,/base/path/qzkklgy2.cfg
+./quizdai2.zip,Quiz Meitantei Neo&Geo - Quiz Daisousa Sen part 2,quizdai2.cfg,quizdai2.png,/base/path/quizdai2.cfg
+./quizmeku.zip,Quiz Mekurumeku Story,quizmeku.cfg,quizmeku.png,/base/path/quizmeku.cfg
+./qndream.zip,Quiz Nanairo Dreams: Nijiirochou no Kiseki,qndream.cfg,qndream.png,/base/path/qndream.cfg
+./quizo.zip,Quiz Olympic,quizo.cfg,quizo.png,/base/path/quizo.cfg
+./qzquest.zip,Quiz Quest - Hime To Yuusha No Monogatari,qzquest.cfg,qzquest.png,/base/path/qzquest.cfg
+./qrouka.zip,Quiz Rouka Ni Tattenasai,qrouka.cfg,qrouka.png,/base/path/qrouka.cfg
+./qzshowby.zip,Quiz Sekai Wa Show By Shobai,qzshowby.cfg,qzshowby.png,/base/path/qzshowby.cfg
+./qsww.zip,Quiz Syukudai Wo Wasuremashita,qsww.cfg,qsww.png,/base/path/qsww.cfg
+./qtheater.zip,Quiz Theater - 3tsu No Monogatari,qtheater.cfg,qtheater.png,/base/path/qtheater.cfg
+./qtono1.zip,Quiz Tonosama no Yabou,qtono1.cfg,qtono1.png,/base/path/qtono1.cfg
+./qtono2j.zip,Quiz Tonosama no Yabou 2: Zenkoku-ban,qtono2j.cfg,qtono2j.png,/base/path/qtono2j.cfg
+./qtorimon.zip,Quiz Torimonochou,qtorimon.cfg,qtorimon.png,/base/path/qtorimon.cfg
+./rshark.zip,R-Shark,rshark.cfg,rshark.png,/base/path/rshark.cfg
+./rtype.zip,R-Type,rtype.cfg,rtype.png,/base/path/rtype.cfg
+./rtype2.zip,R-Type II,rtype2.cfg,rtype2.png,/base/path/rtype2.cfg
+./rtypeleo.zip,R-Type Leo,rtypeleo.cfg,rtypeleo.png,/base/path/rtypeleo.cfg
+./rabbit.zip,Rabbit,rabbit.cfg,rabbit.png,/base/path/rabbit.cfg
+./ribbit.zip,Ribbit!,ribbit.cfg,ribbit.png,/base/path/ribbit.cfg
+./rabiolep.zip,Rabio Lepus,rabiolep.cfg,rabiolep.png,/base/path/rabiolep.cfg
+./raccoon.zip,Raccoon World,raccoon.cfg,raccoon.png,/base/path/raccoon.cfg
+./racingb.zip,Racing Beat,racingb.cfg,racingb.png,/base/path/racingb.cfg
+./rachero.zip,Racing Hero,rachero.cfg,rachero.png,/base/path/rachero.cfg
+./rackemup.zip,Rack 'em Up,rackemup.cfg,rackemup.png,/base/path/rackemup.cfg
+./racknrol.zip,Rack + Roll,racknrol.cfg,racknrol.png,/base/path/racknrol.cfg
+./radm.zip,Rad Mobile,radm.cfg,radm.png,/base/path/radm.cfg
+./radr.zip,Rad Rally,radr.cfg,radr.png,/base/path/radr.cfg
+./radarscp.zip,Radar Scope,radarscp.cfg,radarscp.png,/base/path/radarscp.cfg
+./radrad.zip,Radical Radial,radrad.cfg,radrad.png,/base/path/radrad.cfg
+./raflesia.zip,Rafflesia,raflesia.cfg,raflesia.png,/base/path/raflesia.cfg
+./rotd.zip,Rage of the Dragons,rotd.cfg,rotd.png,/base/path/rotd.cfg
+./ragnagrd.zip,Ragnagard,ragnagrd.cfg,ragnagrd.png,/base/path/ragnagrd.cfg
+./raiden.zip,Raiden,raiden.cfg,raiden.png,/base/path/raiden.cfg
+./raidendx.zip,Raiden DX,raidendx.cfg,raidendx.png,/base/path/raidendx.cfg
+./rdft.zip,Raiden Fighters,rdft.cfg,rdft.png,/base/path/rdft.cfg
+./rdft2.zip,Raiden Fighters 2 - Operation Hell Dive,rdft2.cfg,rdft2.png,/base/path/rdft2.cfg
+./rfjet.zip,Raiden Fighters Jet,rfjet.cfg,rfjet.png,/base/path/rfjet.cfg
+./raiden2.zip,Raiden II,raiden2.cfg,raiden2.png,/base/path/raiden2.cfg
+./r2dx_v33.zip,Raiden II New / Raiden DX,r2dx_v33.cfg,r2dx_v33.png,/base/path/r2dx_v33.cfg
+./raiders5.zip,Raiders5,raiders5.cfg,raiders5.png,/base/path/raiders5.cfg
+./stratof.zip,Raiga - Strato Fighter,stratof.cfg,stratof.png,/base/path/stratof.cfg
+./rallyx.zip,Rally X,rallyx.cfg,rallyx.png,/base/path/rallyx.cfg
+./rchase.zip,Rail Chase,rchase.cfg,rchase.png,/base/path/rchase.cfg
+./raimais.zip,Raimais,raimais.cfg,raimais.png,/base/path/raimais.cfg
+./rbisland.zip,Rainbow Islands,rbisland.cfg,rbisland.png,/base/path/rbisland.cfg
+./rbislande.zip,Rainbow Islands - Extra Version,rbislande.cfg,rbislande.png,/base/path/rbislande.cfg
+./rallybik.zip,Rally Bike / Dash Yarou,rallybik.cfg,rallybik.png,/base/path/rallybik.cfg
+./rambo3.zip,Rambo III,rambo3.cfg,rambo3.png,/base/path/rambo3.cfg
+./rampage.zip,Rampage,rampage.cfg,rampage.png,/base/path/rampage.cfg
+./rmpgwt.zip,Rampage: World Tour,rmpgwt.cfg,rmpgwt.png,/base/path/rmpgwt.cfg
+./rampart.zip,Rampart,rampart.cfg,rampart.png,/base/path/rampart.cfg
+./arcadian.zip,Arcadia,arcadian.cfg,arcadian.png,/base/path/arcadian.cfg
+./rastan.zip,Rastan,rastan.cfg,rastan.png,/base/path/rastan.cfg
+./robowres.zip,Robo Wres 2001,robowres.cfg,robowres.png,/base/path/robowres.cfg
+./gunlock.zip,Gunlock,gunlock.cfg,gunlock.png,/base/path/gunlock.cfg
+./razmataz.zip,Razzmatazz,razmataz.cfg,razmataz.png,/base/path/razmataz.cfg
+./reactor.zip,Reactor,reactor.cfg,reactor.png,/base/path/reactor.cfg
+./reaktor.zip,Reaktor,reaktor.cfg,reaktor.png,/base/path/reaktor.cfg
+./rbff1.zip,Real Bout Fatal Fury,rbff1.cfg,rbff1.png,/base/path/rbff1.cfg
+./rbff2.zip,Real Bout Fatal Fury 2 - The Newcomers,rbff2.cfg,rbff2.png,/base/path/rbff2.cfg
+./rbffspec.zip,Real Bout Fatal Fury Special,rbffspec.cfg,rbffspec.png,/base/path/rbffspec.cfg
+./recalh.zip,Recalhorn,recalh.cfg,recalh.png,/base/path/recalh.cfg
+./recordbr.zip,Recordbreaker,recordbr.cfg,recordbr.png,/base/path/recordbr.cfg
+./redbaron.zip,Red Baron,redbaron.cfg,redbaron.png,/base/path/redbaron.cfg
+./redclash.zip,Red Clash,redclash.cfg,redclash.png,/base/path/redclash.cfg
+./redearth.zip,Red Earth,redearth.cfg,redearth.png,/base/path/redearth.cfg
+./redrobin.zip,Red Robin,redrobin.cfg,redrobin.png,/base/path/redrobin.cfg
+./regulus.zip,Regulus,regulus.cfg,regulus.png,/base/path/regulus.cfg
+./rockduck.zip,Rock Duck,rockduck.cfg,rockduck.png,/base/path/rockduck.cfg
+./relief.zip,Relief Pitcher,relief.cfg,relief.png,/base/path/relief.cfg
+./renegade.zip,Renegade,renegade.cfg,renegade.png,/base/path/renegade.cfg
+./repulse.zip,Repulse,repulse.cfg,repulse.png,/base/path/repulse.cfg
+./rescue.zip,Rescue,rescue.cfg,rescue.png,/base/path/rescue.cfg
+./retofinv.zip,Return of the Invaders,retofinv.cfg,retofinv.png,/base/path/retofinv.cfg
+./revngr84.zip,Revenger '84,revngr84.cfg,revngr84.png,/base/path/revngr84.cfg
+./revx.zip,Revolution X,revx.cfg,revx.png,/base/path/revx.cfg
+./rezon.zip,Rezon,rezon.cfg,rezon.png,/base/path/rezon.cfg
+./rockn3.zip,Rock'n 3,rockn3.cfg,rockn3.png,/base/path/rockn3.cfg
+./rockn4.zip,Rock'n 4,rockn4.cfg,rockn4.png,/base/path/rockn4.cfg
+./ridleofp.zip,Riddle Of Pythagoras,ridleofp.cfg,ridleofp.png,/base/path/ridleofp.cfg
+./ridingf.zip,Riding Fight,ridingf.cfg,ridingf.png,/base/path/ridingf.cfg
+./ridhero.zip,Riding Hero,ridhero.cfg,ridhero.png,/base/path/ridhero.cfg
+./vsgongf.zip,Vs Gong Fight,vsgongf.cfg,vsgongf.png,/base/path/vsgongf.cfg
+./ringdest.zip,Ring of Destruction: Slam Masters II,ringdest.cfg,ringdest.png,/base/path/ringdest.cfg
+./ringrage.zip,Ring Rage,ringrage.cfg,ringrage.png,/base/path/ringrage.cfg
+./riot.zip,Kamniari Kishi Riot,riot.cfg,riot.png,/base/path/riot.cfg
+./riotcity.zip,Riot City,riotcity.cfg,riotcity.png,/base/path/riotcity.cfg
+./riskchal.zip,Risky Challenge,riskchal.cfg,riskchal.png,/base/path/riskchal.cfg
+./rpatrol.zip,River Patrol,rpatrol.cfg,rpatrol.png,/base/path/rpatrol.cfg
+./roadf.zip,Road Fighter,roadf.cfg,roadf.png,/base/path/roadf.cfg
+./roboarmy.zip,Robo Army,roboarmy.cfg,roboarmy.png,/base/path/roboarmy.cfg
+./robocop.zip,RoboCop,robocop.cfg,robocop.png,/base/path/robocop.cfg
+./robocop2.zip,RoboCop 2,robocop2.cfg,robocop2.png,/base/path/robocop2.cfg
+./robotron.zip,Robotron: 2084,robotron.cfg,robotron.png,/base/path/robotron.cfg
+./rocnrope.zip,Roc'n Rope,rocnrope.cfg,rocnrope.png,/base/path/rocnrope.cfg
+./rockclim.zip,Rock Climber,rockclim.cfg,rockclim.png,/base/path/rockclim.cfg
+./rocktris.zip,Rock Tris,rocktris.cfg,rocktris.png,/base/path/rocktris.cfg
+./rockrage.zip,Rock'n Rage,rockrage.cfg,rockrage.png,/base/path/rockrage.cfg
+./rockn.zip,Rock'n Tread,rockn.cfg,rockn.png,/base/path/rockn.cfg
+./rockn2.zip,Rock'n Tread 2,rockn2.cfg,rockn2.png,/base/path/rockn2.cfg
+./rodland.zip,Rod Land,rodland.cfg,rodland.png,/base/path/rodland.cfg
+./rohga.zip,Rohga Armor Force,rohga.cfg,rohga.png,/base/path/rohga.cfg
+./rjammer.zip,Roller Jammer,rjammer.cfg,rjammer.png,/base/path/rjammer.cfg
+./rollerg.zip,Rollergames,rollerg.cfg,rollerg.png,/base/path/rollerg.cfg
+./rolcrush.zip,Rolling Crush,rolcrush.cfg,rolcrush.png,/base/path/rolcrush.cfg
+./rthunder.zip,Rolling Thunder,rthunder.cfg,rthunder.png,/base/path/rthunder.cfg
+./rthun2.zip,Rolling Thunder 2,rthun2.cfg,rthun2.png,/base/path/rthun2.cfg
+./rompers.zip,Rompers,rompers.cfg,rompers.png,/base/path/rompers.cfg
+./clapapa.zip,Rootin' Tootin' / La-pa-pa,clapapa.cfg,clapapa.png,/base/path/clapapa.cfg
+./roughrac.zip,Rough Racer,roughrac.cfg,roughrac.png,/base/path/roughrac.cfg
+./roundup.zip,Round-up,roundup.cfg,roundup.png,/base/path/roundup.cfg
+./route16.zip,Route 16,route16.cfg,route16.png,/base/path/route16.cfg
+./wiping.zip,Wiping,wiping.cfg,wiping.png,/base/path/wiping.cfg
+./rumba.zip,Rumba Lumber,rumba.cfg,rumba.png,/base/path/rumba.cfg
+./rygar.zip,Rygar,rygar.cfg,rygar.png,/base/path/rygar.cfg
+./ryujin.zip,Ryu Jin,ryujin.cfg,ryujin.png,/base/path/ryujin.cfg
+./ryukyu.zip,Ryukyu,ryukyu.cfg,ryukyu.png,/base/path/ryukyu.cfg
+./kirarast.zip,Ryuusei Janshi Kirara Star,kirarast.cfg,kirarast.png,/base/path/kirarast.cfg
+./spy.zip,S.P.Y. - Special Project Y,spy.cfg,spy.png,/base/path/spy.cfg
+./srdmissn.zip,S.R.D. Mission,srdmissn.cfg,srdmissn.png,/base/path/srdmissn.cfg
+./ssmissin.zip,S.S. Mission,ssmissin.cfg,ssmissin.png,/base/path/ssmissin.cfg
+./sabotenb.zip,Saboten Bombers,sabotenb.cfg,sabotenb.png,/base/path/sabotenb.cfg
+./sadari.zip,Sadari,sadari.cfg,sadari.png,/base/path/sadari.cfg
+./safarir.zip,Safari Rally,safarir.cfg,safarir.png,/base/path/safarir.cfg
+./stdragon.zip,Saint Dragon,stdragon.cfg,stdragon.png,/base/path/stdragon.cfg
+./salamand.zip,Salamander,salamand.cfg,salamand.png,/base/path/salamand.cfg
+./samurai.zip,Samurai,samurai.cfg,samurai.png,/base/path/samurai.cfg
+./samuraia.zip,Samurai Aces,samuraia.cfg,samuraia.png,/base/path/samuraia.cfg
+./tsamurai.zip,Samurai Nihon-ichi,tsamurai.cfg,tsamurai.png,/base/path/tsamurai.cfg
+./samsho.zip,Samurai Shodown,samsho.cfg,samsho.png,/base/path/samsho.cfg
+./samsho2.zip,Samurai Shodown II,samsho2.cfg,samsho2.png,/base/path/samsho2.cfg
+./samsho3.zip,Samurai Shodown III,samsho3.cfg,samsho3.png,/base/path/samsho3.cfg
+./samsho4.zip,Samurai Shodown IV - Amakusa's Revenge,samsho4.cfg,samsho4.png,/base/path/samsho4.cfg
+./samsho5.zip,Samurai Shodown V,samsho5.cfg,samsho5.png,/base/path/samsho5.cfg
+./samsh5sp.zip,Samurai Shodown V Special,samsh5sp.cfg,samsh5sp.png,/base/path/samsh5sp.cfg
+./sandscrp.zip,Sand Scorpion,sandscrp.cfg,sandscrp.png,/base/path/sandscrp.cfg
+./3kokushi.zip,Sankokushi,3kokushi.cfg,3kokushi.png,/base/path/3kokushi.cfg
+./searchar.zip,SAR: Search And Rescue,searchar.cfg,searchar.png,/base/path/searchar.cfg
+./sarge.zip,Sarge,sarge.cfg,sarge.png,/base/path/sarge.cfg
+./sasuke.zip,Sasuke Vs. Commander,sasuke.cfg,sasuke.png,/base/path/sasuke.cfg
+./satansat.zip,Satan Of Saturn,satansat.cfg,satansat.png,/base/path/satansat.cfg
+./shollow.zip,Satan's Hollow,shollow.cfg,shollow.png,/base/path/shollow.cfg
+./slammast.zip,Saturday Night Slam Masters,slammast.cfg,slammast.png,/base/path/slammast.cfg
+./saturnzi.zip,Saturn,saturnzi.cfg,saturnzi.png,/base/path/saturnzi.cfg
+./sauro.zip,Sauro,sauro.cfg,sauro.png,/base/path/sauro.cfg
+./savagere.zip,Savage Reign,savagere.cfg,savagere.png,/base/path/savagere.cfg
+./spacewin.zip,Scacco Matto / Space Win,spacewin.cfg,spacewin.png,/base/path/spacewin.cfg
+./schmeisr.zip,Schmeiser Robo,schmeisr.cfg,schmeisr.png,/base/path/schmeisr.cfg
+./scion.zip,Scion,scion.cfg,scion.png,/base/path/scion.cfg
+./sos.zip,Sos,sos.cfg,sos.png,/base/path/sos.cfg
+./scotrsht.zip,Scooter Shooter,scotrsht.cfg,scotrsht.png,/base/path/scotrsht.cfg
+./scorpion.zip,Scorpion,scorpion.cfg,scorpion.png,/base/path/scorpion.cfg
+./scramble.zip,Scramble,scramble.cfg,scramble.png,/base/path/scramble.cfg
+./sspirits.zip,Scramble Spirits,sspirits.cfg,sspirits.png,/base/path/sspirits.cfg
+./scregg.zip,Scrambled Egg,scregg.cfg,scregg.png,/base/path/scregg.cfg
+./screwloo.zip,Screw Loose,screwloo.cfg,screwloo.png,/base/path/screwloo.cfg
+./cscrtry.zip,Scrum Try,cscrtry.cfg,cscrtry.png,/base/path/cscrtry.cfg
+./scudhamm.zip,Scud Hammer,scudhamm.cfg,scudhamm.png,/base/path/scudhamm.cfg
+./stadhr96.zip,Stadium Hero '96,stadhr96.cfg,stadhr96.png,/base/path/stadhr96.cfg
+./sdfight.zip,Sd Fighters,sdfight.cfg,sdfight.png,/base/path/sdfight.cfg
+./neobattl.zip,SD Gundam Neo Battling,neobattl.cfg,neobattl.png,/base/path/neobattl.cfg
+./grainbow.zip,SD Gundam Sangokushi Rainbow Tairiku Senki,grainbow.cfg,grainbow.png,/base/path/grainbow.cfg
+./sdgndmps.zip,SD Gundam Psycho Salamander no Kyoui,sdgndmps.cfg,sdgndmps.png,/base/path/sdgndmps.cfg
+./sdi.zip,SDI - Strategic Defense Initiative,sdi.cfg,sdi.png,/base/path/sdi.cfg
+./sfposeid.zip,Sea Fighter Poseidon,sfposeid.cfg,sfposeid.png,/base/path/sfposeid.cfg
+./searchey.zip,Search Eye,searchey.cfg,searchey.png,/base/path/searchey.cfg
+./searchp2.zip,Search Eye Plus V2.0,searchp2.cfg,searchp2.png,/base/path/searchp2.cfg
+./secretag.zip,Secret Agent,secretag.cfg,secretag.png,/base/path/secretag.cfg
+./sectionz.zip,Section Z,sectionz.cfg,sectionz.png,/base/path/sectionz.cfg
+./seganinj.zip,Sega Ninja,seganinj.cfg,seganinj.png,/base/path/seganinj.cfg
+./sonicfgt.zip,Sega Sonic Cosmo Fighter,sonicfgt.cfg,sonicfgt.png,/base/path/sonicfgt.cfg
+./sonic.zip,Segasonic The Hedgehog,sonic.cfg,sonic.png,/base/path/sonic.cfg
+./seicross.zip,Seicross,seicross.cfg,seicross.png,/base/path/seicross.cfg
+./selfeena.zip,Sel Feena,selfeena.cfg,selfeena.png,/base/path/selfeena.cfg
+./senknow.zip,Sen-know,senknow.cfg,senknow.png,/base/path/senknow.cfg
+./sengekis.zip,Sengeki Striker,sengekis.cfg,sengekis.png,/base/path/sengekis.cfg
+./sengoku.zip,Sengoku,sengoku.cfg,sengoku.png,/base/path/sengoku.cfg
+./sengoku2.zip,Sengoku 2,sengoku2.cfg,sengoku2.png,/base/path/sengoku2.cfg
+./sengoku3.zip,Sengoku 3,sengoku3.cfg,sengoku3.png,/base/path/sengoku3.cfg
+./commando.zip,Commando,commando.cfg,commando.png,/base/path/commando.cfg
+./commsega.zip,Commando,commsega.cfg,commsega.png,/base/path/commsega.cfg
+./senjyo.zip,Senjyo,senjyo.cfg,senjyo.png,/base/path/senjyo.cfg
+./supduck.zip,Super Duck,supduck.cfg,supduck.png,/base/path/supduck.cfg
+./sfx.zip,SF-X,sfx.cfg,sfx.png,/base/path/sfx.cfg
+./shackled.zip,Shackled,shackled.cfg,shackled.png,/base/path/shackled.cfg
+./shdancer.zip,Shadow Dancer,shdancer.cfg,shdancer.png,/base/path/shdancer.cfg
+./shadfrce.zip,Shadow Force,shadfrce.cfg,shadfrce.png,/base/path/shadfrce.cfg
+./shadoww.zip,Shadow Warriors,shadoww.cfg,shadoww.png,/base/path/shadoww.cfg
+./shadowld.zip,Shadowland,shadowld.cfg,shadowld.png,/base/path/shadowld.cfg
+./shangha3.zip,Shanghai III,shangha3.cfg,shangha3.png,/base/path/shangha3.cfg
+./shangkid.zip,Shanghai Kid,shangkid.cfg,shangkid.png,/base/path/shangkid.cfg
+./kicker.zip,Kicker,kicker.cfg,kicker.png,/base/path/kicker.cfg
+./sharkatt.zip,Shark Attack,sharkatt.cfg,sharkatt.png,/base/path/sharkatt.cfg
+./tshingen.zip,Shingen Samurai-fighter,tshingen.cfg,tshingen.png,/base/path/tshingen.cfg
+./shinobi.zip,Shinobi,shinobi.cfg,shinobi.png,/base/path/shinobi.cfg
+./shinygld.zip,Shiny Golds,shinygld.cfg,shinygld.png,/base/path/shinygld.cfg
+./shocktro.zip,Shock Troopers,shocktro.cfg,shocktro.png,/base/path/shocktro.cfg
+./shocktr2.zip,Shock Troopers : 2nd Squad,shocktr2.cfg,shocktr2.png,/base/path/shocktr2.cfg
+./shocking.zip,Shocking,shocking.cfg,shocking.png,/base/path/shocking.cfg
+./shootout.zip,Shoot Out,shootout.cfg,shootout.png,/base/path/shootout.cfg
+./shtrider.zip,Shot Rider,shtrider.cfg,shtrider.png,/base/path/shtrider.cfg
+./moshougi.zip,Syougi No Tatsujin - Master of Syougi,moshougi.cfg,moshougi.png,/base/path/moshougi.cfg
+./showdown.zip,Showdown,showdown.cfg,showdown.png,/base/path/showdown.cfg
+./shufshot.zip,Shuffleshot,shufshot.cfg,shufshot.png,/base/path/shufshot.cfg
+./shuuz.zip,Shuuz,shuuz.cfg,shuuz.png,/base/path/shuuz.cfg
+./sidearms.zip,Side Arms - Hyper Dyne,sidearms.cfg,sidearms.png,/base/path/sidearms.cfg
+./sidepckt.zip,Side Pocket,sidepckt.cfg,sidepckt.png,/base/path/sidepckt.cfg
+./silentd.zip,Silent Dragon,silentd.cfg,silentd.png,/base/path/silentd.cfg
+./silkworm.zip,Silk Worm,silkworm.cfg,silkworm.png,/base/path/silkworm.cfg
+./silvmil.zip,Silver Millennium,silvmil.cfg,silvmil.png,/base/path/silvmil.cfg
+./sinistar.zip,Sinistar,sinistar.cfg,sinistar.png,/base/path/sinistar.cfg
+./skullxbo.zip,Skull & Crossbones,skullxbo.cfg,skullxbo.png,/base/path/skullxbo.cfg
+./skullfng.zip,Skull Fang,skullfng.cfg,skullfng.png,/base/path/skullfng.cfg
+./skyadvnt.zip,Sky Adventure,skyadvnt.cfg,skyadvnt.png,/base/path/skyadvnt.cfg
+./skyalert.zip,Sky Alert,skyalert.cfg,skyalert.png,/base/path/skyalert.cfg
+./skyarmy.zip,Sky Army,skyarmy.cfg,skyarmy.png,/base/path/skyarmy.cfg
+./skybase.zip,Sky Base,skybase.cfg,skybase.png,/base/path/skybase.cfg
+./skydest.zip,Sky Destroyer,skydest.cfg,skydest.png,/base/path/skydest.cfg
+./skyfox.zip,Sky Fox,skyfox.cfg,skyfox.png,/base/path/skyfox.cfg
+./skykid.zip,Sky Kid,skykid.cfg,skykid.png,/base/path/skykid.cfg
+./skykiddx.zip,Sky Kid Deluxe,skykiddx.cfg,skykiddx.png,/base/path/skykiddx.cfg
+./stealsee.zip,Steal See,stealsee.cfg,stealsee.png,/base/path/stealsee.cfg
+./skylancr.zip,Sky Lancer,skylancr.cfg,skylancr.png,/base/path/skylancr.cfg
+./skyrobo.zip,Sky Robo,skyrobo.cfg,skyrobo.png,/base/path/skyrobo.cfg
+./skyskipr.zip,Sky Skipper,skyskipr.cfg,skyskipr.png,/base/path/skyskipr.cfg
+./skysmash.zip,Sky Smasher,skysmash.cfg,skysmash.png,/base/path/skysmash.cfg
+./skysoldr.zip,Sky Soldiers,skysoldr.cfg,skysoldr.png,/base/path/skysoldr.cfg
+./slapshtr.zip,Slap Shooter,slapshtr.cfg,slapshtr.png,/base/path/slapshtr.cfg
+./slapshot.zip,Slap Shot,slapshot.cfg,slapshot.png,/base/path/slapshot.cfg
+./slipstrm.zip,Slip Stream,slipstrm.cfg,slipstrm.png,/base/path/slipstrm.cfg
+./slither.zip,Slither,slither.cfg,slither.png,/base/path/slither.cfg
+./smashtv.zip,Smash T.V.,smashtv.cfg,smashtv.png,/base/path/smashtv.cfg
+./snapjack.zip,Snap Jack,snapjack.cfg,snapjack.png,/base/path/snapjack.cfg
+./snapper.zip,Snapper,snapper.cfg,snapper.png,/base/path/snapper.cfg
+./svc.zip,SVC Chaos - SNK Vs. Capcom,svc.cfg,svc.png,/base/path/svc.cfg
+./snowboar.zip,Snow Board Championship,snowboar.cfg,snowboar.png,/base/path/snowboar.cfg
+./snowbros.zip,Snow Bros. - Nick & Tom,snowbros.cfg,snowbros.png,/base/path/snowbros.cfg
+./snowbro2.zip,Snow Bros. 2 : With New Elves,snowbro2.cfg,snowbro2.png,/base/path/snowbro2.cfg
+./socbrawl.zip,Soccer Brawl,socbrawl.cfg,socbrawl.png,/base/path/socbrawl.cfg
+./sokonuke.zip,Sokonuke Taisen Game,sokonuke.cfg,sokonuke.png,/base/path/sokonuke.cfg
+./soldivid.zip,Sol Divide: Sword of Darkness,soldivid.cfg,soldivid.png,/base/path/soldivid.cfg
+./solarfox.zip,Solar Fox,solarfox.cfg,solarfox.png,/base/path/solarfox.cfg
+./soldam.zip,Soldam,soldam.cfg,soldam.png,/base/path/soldam.cfg
+./amazon.zip,Soldier Girl Amazon,amazon.cfg,amazon.png,/base/path/amazon.cfg
+./solfigtr.zip,Solitary Fighter,solfigtr.cfg,solfigtr.png,/base/path/solfigtr.cfg
+./slspirit.zip,Solite Spirits,slspirit.cfg,slspirit.png,/base/path/slspirit.cfg
+./solomon.zip,Solomon's Key,solomon.cfg,solomon.png,/base/path/solomon.cfg
+./sonson.zip,Son Son,sonson.cfg,sonson.png,/base/path/sonson.cfg
+./sbm.zip,Sonic Blast Man,sbm.cfg,sbm.png,/base/path/sbm.cfg
+./sonicbom.zip,Sonic Boom,sonicbom.cfg,sonicbom.png,/base/path/sonicbom.cfg
+./sstriker.zip,Sorcer Striker,sstriker.cfg,sstriker.png,/base/path/sstriker.cfg
+./kokoroj.zip,Soreike Kokology,kokoroj.cfg,kokoroj.png,/base/path/kokoroj.cfg
+./kokoroj2.zip,Soreike Kokology Vol. 2 - Kokoro No Tanteikyoku,kokoroj2.cfg,kokoroj2.png,/base/path/kokoroj2.cfg
+./sotsugyo.zip,Sotsugyo Shousho,sotsugyo.cfg,sotsugyo.png,/base/path/sotsugyo.cfg
+./sbomber.zip,Space Bomber,sbomber.cfg,sbomber.png,/base/path/sbomber.cfg
+./spacecr.zip,Space Cruiser,spacecr.cfg,spacecr.png,/base/path/spacecr.cfg
+./spacduel.zip,Space Duel,spacduel.cfg,spacduel.png,/base/path/spacduel.cfg
+./sdungeon.zip,Space Dungeon,sdungeon.cfg,sdungeon.png,/base/path/sdungeon.cfg
+./spacefb.zip,Space Firebird,spacefb.cfg,spacefb.png,/base/path/spacefb.cfg
+./spacfury.zip,Space Fury,spacfury.cfg,spacfury.png,/base/path/spacfury.cfg
+./spacegun.zip,Space Gun,spacegun.cfg,spacegun.png,/base/path/spacegun.cfg
+./sharrier.zip,Space Harrier,sharrier.cfg,sharrier.png,/base/path/sharrier.cfg
+./spcinv95.zip,Space Invaders '95: The Attack Of Lunar Loonies,spcinv95.cfg,spcinv95.png,/base/path/spcinv95.cfg
+./spacedx.zip,Space Invaders DX,spacedx.cfg,spacedx.png,/base/path/spacedx.cfg
+./spcpostn.zip,Space Position,spcpostn.cfg,spcpostn.png,/base/path/spcpostn.cfg
+./sraider.zip,Space Raider,sraider.cfg,sraider.png,/base/path/sraider.cfg
+./spaceskr.zip,Space Seeker,spaceskr.cfg,spaceskr.png,/base/path/spaceskr.cfg
+./sstrangr.zip,Space Stranger,sstrangr.cfg,sstrangr.png,/base/path/sstrangr.cfg
+./sparkman.zip,Spark Man,sparkman.cfg,sparkman.png,/base/path/sparkman.cfg
+./spatter.zip,Spatter,spatter.cfg,spatter.png,/base/path/spatter.cfg
+./speakres.zip,Stratovox,speakres.cfg,speakres.png,/base/path/speakres.cfg
+./sci.zip,Special Criminal Investigation,sci.cfg,sci.png,/base/path/sci.cfg
+./spec2k.zip,Spectrum 2000,spec2k.cfg,spec2k.png,/base/path/spec2k.cfg
+./speedbal.zip,Speed Ball,speedbal.cfg,speedbal.png,/base/path/speedbal.cfg
+./spdball.zip,Speed Ball - Contest at Neonworld,spdball.cfg,spdball.png,/base/path/spdball.cfg
+./spdcoin.zip,Speed Coin,spdcoin.cfg,spdcoin.png,/base/path/spdcoin.cfg
+./speedspn.zip,Speed Spin,speedspn.cfg,speedspn.png,/base/path/speedspn.cfg
+./spelunkr.zip,Spelunker,spelunkr.cfg,spelunkr.png,/base/path/spelunkr.cfg
+./spelunk2.zip,Spelunker II,spelunk2.cfg,spelunk2.png,/base/path/spelunk2.cfg
+./spidman.zip,Spider-Man: The Videogame,spidman.cfg,spidman.png,/base/path/spidman.cfg
+./spotty.zip,Spotty,spotty.cfg,spotty.png,/base/path/spotty.cfg
+./spinmast.zip,Spin Master,spinmast.cfg,spinmast.png,/base/path/spinmast.cfg
+./spinlbrk.zip,Spinal Breakers,spinlbrk.cfg,spinlbrk.png,/base/path/spinlbrk.cfg
+./splat.zip,Splat!,splat.cfg,splat.png,/base/path/splat.cfg
+./splatter.zip,Splatter House,splatter.cfg,splatter.png,/base/path/splatter.cfg
+./springer.zip,Springer,springer.cfg,springer.png,/base/path/springer.cfg
+./spyhunt.zip,Spy Hunter,spyhunt.cfg,spyhunt.png,/base/path/spyhunt.cfg
+./spyhunt2.zip,Spy Hunter II,spyhunt2.cfg,spyhunt2.png,/base/path/spyhunt2.cfg
+./squaitsa.zip,Squash,squaitsa.cfg,squaitsa.png,/base/path/squaitsa.cfg
+./squash.zip,Squash,squash.cfg,squash.png,/base/path/squash.cfg
+./stkclmns.zip,Stack Columns,stkclmns.cfg,stkclmns.png,/base/path/stkclmns.cfg
+./scross.zip,Stadium Cross,scross.cfg,scross.png,/base/path/scross.cfg
+./stadhero.zip,Stadium Hero,stadhero.cfg,stadhero.png,/base/path/stadhero.cfg
+./stagger1.zip,Red Hawk,stagger1.cfg,stagger1.png,/base/path/stagger1.cfg
+./stakwin.zip,Stakes Winner,stakwin.cfg,stakwin.png,/base/path/stakwin.cfg
+./stakwin2.zip,Stakes Winner 2,stakwin2.cfg,stakwin2.png,/base/path/stakwin2.cfg
+./starfigh.zip,Star Fighter,starfigh.cfg,starfigh.png,/base/path/starfigh.cfg
+./starforc.zip,Star Force,starforc.cfg,starforc.png,/base/path/starforc.cfg
+./stargrds.zip,Star Guards,stargrds.cfg,stargrds.png,/base/path/stargrds.cfg
+./starjack.zip,Star Jacker,starjack.cfg,starjack.png,/base/path/starjack.cfg
+./starwars.zip,Star Wars,starwars.cfg,starwars.png,/base/path/starwars.cfg
+./jedi.zip,Return of the Jedi,jedi.cfg,jedi.png,/base/path/jedi.cfg
+./stargate.zip,Stargate,stargate.cfg,stargate.png,/base/path/stargate.cfg
+./stlforce.zip,Steel Force,stlforce.cfg,stlforce.png,/base/path/stlforce.cfg
+./sgunner.zip,Steel Gunner,sgunner.cfg,sgunner.png,/base/path/sgunner.cfg
+./sgunner2.zip,Steel Gunner 2,sgunner2.cfg,sgunner2.png,/base/path/sgunner2.cfg
+./stinger.zip,Stinger,stinger.cfg,stinger.png,/base/path/stinger.cfg
+./stonebal.zip,Stone Ball,stonebal.cfg,stonebal.png,/base/path/stonebal.cfg
+./stmblade.zip,Storm Blade,stmblade.cfg,stmblade.png,/base/path/stmblade.cfg
+./stratgyx.zip,Strategy X,stratgyx.cfg,stratgyx.png,/base/path/stratgyx.cfg
+./streakng.zip,Streaking,streakng.cfg,streakng.png,/base/path/streakng.cfg
+./sf.zip,Street Fighter,sf.cfg,sf.png,/base/path/sf.cfg
+./sfa2.zip,Street Fighter Alpha 2,sfa2.cfg,sfa2.png,/base/path/sfa2.cfg
+./sfa3.zip,Street Fighter Alpha 3,sfa3.cfg,sfa3.png,/base/path/sfa3.cfg
+./sfa.zip,Street Fighter Alpha : Warriors' Dreams,sfa.cfg,sfa.png,/base/path/sfa.cfg
+./sf2ce.zip,Street Fighter II' : Champion Edition,sf2ce.cfg,sf2ce.png,/base/path/sf2ce.cfg
+./sf2.zip,Street Fighter II : The World Warrior,sf2.cfg,sf2.png,/base/path/sf2.cfg
+./sfiii2.zip,Street Fighter III 2nd Impact : Giant Attack,sfiii2.cfg,sfiii2.png,/base/path/sfiii2.cfg
+./sfiii3.zip,Street Fighter III 3rd Strike : Fight for the Future,sfiii3.cfg,sfiii3.png,/base/path/sfiii3.cfg
+./sfiii.zip,Street Fighter III : New Generation,sfiii.cfg,sfiii.png,/base/path/sfiii.cfg
+./sfzch.zip,Street Fighter Alpha : Warriors' Dreams,sfzch.cfg,sfzch.png,/base/path/sfzch.cfg
+./sfz2al.zip,Street Fighter Zero 2 Alpha,sfz2al.cfg,sfz2al.png,/base/path/sfz2al.cfg
+./sftm.zip,Street Fighter: The Movie,sftm.cfg,sftm.png,/base/path/sftm.cfg
+./strhoop.zip,Street Hoop,strhoop.cfg,strhoop.png,/base/path/strhoop.cfg
+./streetsm.zip,Street Smart,streetsm.cfg,streetsm.png,/base/path/streetsm.cfg
+./strnskil.zip,Strength & Skill,strnskil.cfg,strnskil.png,/base/path/strnskil.cfg
+./strider.zip,Strider,strider.cfg,strider.png,/base/path/strider.cfg
+./strkfgtr.zip,Strike Fighter,strkfgtr.cfg,strkfgtr.png,/base/path/strkfgtr.cfg
+./strkforc.zip,Strike Force,strkforc.cfg,strkforc.png,/base/path/strkforc.cfg
+./stg.zip,Strike Gunner S.T.G,stg.cfg,stg.png,/base/path/stg.cfg
+./s1945.zip,Strikers 1945,s1945.cfg,s1945.png,/base/path/s1945.cfg
+./s1945ii.zip,Strikers 1945 II,s1945ii.cfg,s1945ii.png,/base/path/s1945ii.cfg
+./s1945iii.zip,Strikers 1945 III,s1945iii.cfg,s1945iii.png,/base/path/s1945iii.cfg
+./s1945p.zip,Strikers 1945 Plus,s1945p.cfg,s1945p.png,/base/path/s1945p.cfg
+./stuntair.zip,Stunt Air,stuntair.cfg,stuntair.png,/base/path/stuntair.cfg
+./sub.zip,Submarine,sub.cfg,sub.png,/base/path/sub.cfg
+./subroc3d.zip,Subroc-3d,subroc3d.cfg,subroc3d.png,/base/path/subroc3d.cfg
+./scessjoe.zip,Success Joe,scessjoe.cfg,scessjoe.png,/base/path/scessjoe.cfg
+./sjryuko.zip,Sukeban Jansi Ryuko,sjryuko.cfg,sjryuko.png,/base/path/sjryuko.cfg
+./sunaq.zip,Suna Quiz 6000 Academy,sunaq.cfg,sunaq.png,/base/path/sunaq.cfg
+./ssriders.zip,Sunset Riders,ssriders.cfg,ssriders.png,/base/path/ssriders.cfg
+./csuperas.zip,Super Astro Fighter,csuperas.cfg,csuperas.png,/base/path/csuperas.cfg
+./sbagman.zip,Super Bagman,sbagman.cfg,sbagman.png,/base/path/sbagman.cfg
+./sbasketb.zip,Super Basketball,sbasketb.cfg,sbasketb.png,/base/path/sbasketb.cfg
+./sbishi.zip,Super Bishi Bashi Championship,sbishi.cfg,sbishi.png,/base/path/sbishi.cfg
+./sb2003.zip,Super Bubble 2003,sb2003.cfg,sb2003.png,/base/path/sb2003.cfg
+./supbtime.zip,Super Burger Time,supbtime.cfg,supbtime.png,/base/path/supbtime.cfg
+./sucasino.zip,Super Casino,sucasino.cfg,sucasino.png,/base/path/sucasino.cfg
+./sbasebal.zip,Super Champion Baseball,sbasebal.cfg,sbasebal.png,/base/path/sbasebal.cfg
+./superchs.zip,Super Chase - Criminal Termination,superchs.cfg,superchs.png,/base/path/superchs.cfg
+./scobra.zip,Super Cobra,scobra.cfg,scobra.png,/base/path/scobra.cfg
+./sprcros2.zip,Super Cross II,sprcros2.cfg,sprcros2.png,/base/path/sprcros2.cfg
+./scfinals.zip,Super Cup Finals,scfinals.cfg,scfinals.png,/base/path/scfinals.cfg
+./sdodgeb.zip,Super Dodge Ball,sdodgeb.cfg,sdodgeb.png,/base/path/sdodgeb.cfg
+./csdtenis.zip,Super Doubles Tennis,csdtenis.cfg,csdtenis.png,/base/path/csdtenis.cfg
+./usg32.zip,Super Duper Casino,usg32.cfg,usg32.png,/base/path/usg32.cfg
+./sgemf.zip,Super Gem Fighter: Mini Mix,sgemf.cfg,sgemf.png,/base/path/sgemf.cfg
+./suprglob.zip,Super Glob,suprglob.cfg,suprglob.png,/base/path/suprglob.cfg
+./shangon.zip,Super Hang-On,shangon.cfg,shangon.png,/base/path/shangon.cfg
+./shimpact.zip,Super High Impact,shimpact.cfg,shimpact.png,/base/path/shimpact.cfg
+./suprleag.zip,Super League,suprleag.cfg,suprleag.png,/base/path/suprleag.cfg
+./suprloco.zip,Super Locomotive,suprloco.cfg,suprloco.png,/base/path/suprloco.cfg
+./suplup.zip,Super Lup Lup Puzzle,suplup.cfg,suplup.png,/base/path/suplup.cfg
+./marukin.zip,Super Marukin-ban,marukin.cfg,marukin.png,/base/path/marukin.cfg
+./sgmast.zip,Super Masters Golf,sgmast.cfg,sgmast.png,/base/path/sgmast.cfg
+./supmodel.zip,Super Model,supmodel.cfg,supmodel.png,/base/path/supmodel.cfg
+./smgp.zip,Super Monaco GP,smgp.cfg,smgp.png,/base/path/smgp.cfg
+./suprmous.zip,Super Mouse,suprmous.cfg,suprmous.png,/base/path/suprmous.cfg
+./superpac.zip,Super Pac-Man,superpac.cfg,superpac.png,/base/path/superpac.cfg
+./spang.zip,Super Pang,spang.cfg,spang.png,/base/path/spang.cfg
+./spnchout.zip,Super Punch-out!!,spnchout.cfg,spnchout.png,/base/path/spnchout.cfg
+./spf2t.zip,Super Puzzle Fighter II Turbo,spf2t.cfg,spf2t.png,/base/path/spf2t.cfg
+./sranger.zip,Rough Ranger,sranger.cfg,sranger.png,/base/path/sranger.cfg
+./srmp7.zip,Super Real Mahjong P7,srmp7.cfg,srmp7.png,/base/path/srmp7.cfg
+./srmp4.zip,Super Real Mahjong Piv,srmp4.cfg,srmp4.png,/base/path/srmp4.cfg
+./suprridr.zip,Super Rider,suprridr.cfg,suprridr.png,/base/path/suprridr.cfg
+./sshangha.zip,Super Shanghai Dragon's Eye,sshangha.cfg,sshangha.png,/base/path/sshangha.cfg
+./ssideki.zip,Super Sidekicks,ssideki.cfg,ssideki.png,/base/path/ssideki.cfg
+./ssideki2.zip,Super Sidekicks 2 - The World Championship,ssideki2.cfg,ssideki2.png,/base/path/ssideki2.cfg
+./ssideki3.zip,Super Sidekicks 3 - The Next Glory,ssideki3.cfg,ssideki3.png,/base/path/ssideki3.cfg
+./ssi.zip,Super Space Invaders '91,ssi.cfg,ssi.png,/base/path/ssi.cfg
+./magix.zip,Magix / Rock,magix.cfg,magix.png,/base/path/magix.cfg
+./macross.zip,Super Spacefortress Macross,macross.cfg,macross.png,/base/path/macross.cfg
+./macross2.zip,Super Spacefortress Macross II,macross2.cfg,macross2.png,/base/path/macross2.cfg
+./ssrj.zip,Super Speed Race Junior,ssrj.cfg,ssrj.png,/base/path/ssrj.cfg
+./sstingry.zip,Super Stingray,sstingry.cfg,sstingry.png,/base/path/sstingry.cfg
+./ssf2t.zip,Super Street Fighter II Turbo,ssf2t.cfg,ssf2t.png,/base/path/ssf2t.cfg
+./ssf2.zip,Super Street Fighter II: The New Challengers,ssf2.cfg,ssf2.png,/base/path/ssf2.cfg
+./superten.zip,Super Ten V8.3,superten.cfg,superten.png,/base/path/superten.cfg
+./suprtrio.zip,Super Trio,suprtrio.cfg,suprtrio.png,/base/path/suprtrio.cfg
+./sderby.zip,Super Derby,sderby.cfg,sderby.png,/base/path/sderby.cfg
+./strvmstr.zip,Super Trivia Master,strvmstr.cfg,strvmstr.png,/base/path/strvmstr.cfg
+./svf.zip,Super Visual Football: European Sega Cup,svf.cfg,svf.png,/base/path/svf.cfg
+./sbubsm.zip,Super Bubble Bobble,sbubsm.cfg,sbubsm.png,/base/path/sbubsm.cfg
+./svolley.zip,Super Volleyball,svolley.cfg,svolley.png,/base/path/svolley.cfg
+./swcourt.zip,Super World Court,swcourt.cfg,swcourt.png,/base/path/swcourt.cfg
+./szaxxon.zip,Super Zaxxon,szaxxon.cfg,szaxxon.png,/base/path/szaxxon.cfg
+./superx.zip,Super-x,superx.cfg,superx.png,/base/path/superx.cfg
+./ssoldier.zip,Superior Soldiers,ssoldier.cfg,ssoldier.png,/base/path/ssoldier.cfg
+./superman.zip,Superman,superman.cfg,superman.png,/base/path/superman.cfg
+./suratk.zip,Surprise Attack,suratk.cfg,suratk.png,/base/path/suratk.cfg
+./survarts.zip,Survival Arts,survarts.cfg,survarts.png,/base/path/survarts.cfg
+./gogomile.zip,Go Go! Mile Smile,gogomile.cfg,gogomile.png,/base/path/gogomile.cfg
+./suzuka8h.zip,Suzuka 8 Hours,suzuka8h.cfg,suzuka8h.png,/base/path/suzuka8h.cfg
+./suzuk8h2.zip,Suzuka 8 Hours 2,suzuk8h2.cfg,suzuk8h2.png,/base/path/suzuk8h2.cfg
+./swat.zip,SWAT,swat.cfg,swat.png,/base/path/swat.cfg
+./swatpolc.zip,SWAT Police,swatpolc.cfg,swatpolc.png,/base/path/swatpolc.cfg
+./swimmer.zip,Swimmer,swimmer.cfg,swimmer.png,/base/path/swimmer.cfg
+./ssozumo.zip,Syusse Oozumou,ssozumo.cfg,ssozumo.png,/base/path/ssozumo.cfg
+./syvalion.zip,Syvalion,syvalion.cfg,syvalion.png,/base/path/syvalion.cfg
+./tacscan.zip,Tac/scan,tacscan.cfg,tacscan.png,/base/path/tacscan.cfg
+./toucheme.zip,Touche Me,toucheme.cfg,toucheme.png,/base/path/toucheme.cfg
+./tactcian.zip,Tactician,tactcian.cfg,tactcian.png,/base/path/tactcian.cfg
+./hotgmck.zip,Taisen Hot Gimmick,hotgmck.cfg,hotgmck.png,/base/path/hotgmck.cfg
+./hotgmck3.zip,Taisen Hot Gimmick 3 Digital Surfing,hotgmck3.cfg,hotgmck3.png,/base/path/hotgmck3.cfg
+./hotgm4ev.zip,Taisen Hot Gimmick 4 Ever,hotgm4ev.cfg,hotgm4ev.png,/base/path/hotgm4ev.cfg
+./hgkairak.zip,Taisen Hot Gimmick Kairakuten,hgkairak.cfg,hgkairak.png,/base/path/hgkairak.cfg
+./cupfinal.zip,Taito Cup Finals,cupfinal.cfg,cupfinal.png,/base/path/cupfinal.cfg
+./pwrgoal.zip,Taito Power Goal,pwrgoal.cfg,pwrgoal.png,/base/path/pwrgoal.cfg
+./tangtang.zip,Tang Tang,tangtang.cfg,tangtang.png,/base/path/tangtang.cfg
+./tankbust.zip,Tank Busters,tankbust.cfg,tankbust.png,/base/path/tankbust.cfg
+./tankfrce.zip,Tank Force,tankfrce.cfg,tankfrce.png,/base/path/tankfrce.cfg
+./tapper.zip,Tapper,tapper.cfg,tapper.png,/base/path/tapper.cfg
+./targeth.zip,Target Hits,targeth.cfg,targeth.png,/base/path/targeth.cfg
+./tharrier.zip,Task Force Harrier,tharrier.cfg,tharrier.png,/base/path/tharrier.cfg
+./tattass.zip,Tattoo Assassins,tattass.cfg,tattass.png,/base/path/tattass.cfg
+./taxidriv.zip,Taxi Driver,taxidriv.cfg,taxidriv.png,/base/path/taxidriv.cfg
+./tazmania.zip,Tazz-Mania,tazmania.cfg,tazmania.png,/base/path/tazmania.cfg
+./taotaido.zip,Tao Taido,taotaido.cfg,taotaido.png,/base/path/taotaido.cfg
+./tbowl.zip,Tecmo Bowl,tbowl.cfg,tbowl.png,/base/path/tbowl.cfg
+./twsoc96.zip,Tecmo World Soccer '96,twsoc96.cfg,twsoc96.png,/base/path/twsoc96.cfg
+./teddybb.zip,Teddyboy Blues,teddybb.cfg,teddybb.png,/base/path/teddybb.cfg
+./toypop.zip,Toypop,toypop.cfg,toypop.png,/base/path/toypop.cfg
+./tmnt.zip,Teenage Mutant Ninja Turtles,tmnt.cfg,tmnt.png,/base/path/tmnt.cfg
+./tmnt2.zip,Teenage Mutant Ninja Turtles: Turtles in Time,tmnt2.cfg,tmnt2.png,/base/path/tmnt2.cfg
+./twcup90.zip,Tecmo World Cup '90,twcup90.cfg,twcup90.png,/base/path/twcup90.cfg
+./tekipaki.zip,The Brain Washing Game,tekipaki.cfg,tekipaki.png,/base/path/tekipaki.cfg
+./teljan.zip,Tel Jan,teljan.cfg,teljan.png,/base/path/teljan.cfg
+./tempest.zip,Tempest,tempest.cfg,tempest.png,/base/path/tempest.cfg
+./tengai.zip,Tengai,tengai.cfg,tengai.png,/base/path/tengai.cfg
+./terracre.zip,Terra Cresta,terracre.cfg,terracre.png,/base/path/terracre.cfg
+./terraf.zip,Terra Force,terraf.cfg,terraf.png,/base/path/terraf.cfg
+./cterrani.zip,Terranean,cterrani.cfg,cterrani.png,/base/path/cterrani.cfg
+./atetris.zip,Tetris,atetris.cfg,atetris.png,/base/path/atetris.cfg
+./tetris.zip,"Tetris (set 4, Japan, System 16a)",tetris.cfg,tetris.png,/base/path/tetris.cfg
+./tetrisse.zip,"Tetris (set 4, Japan, System 16a)",tetrisse.cfg,tetrisse.png,/base/path/tetrisse.cfg
+./tetrsark.zip,"Tetris (set 4, Japan, System 16a)",tetrsark.cfg,tetrsark.png,/base/path/tetrsark.cfg
+./totc.zip,Treasure of the Caribbean,totc.cfg,totc.png,/base/path/totc.cfg
+./tetrisp.zip,Tetris Plus,tetrisp.cfg,tetrisp.png,/base/path/tetrisp.cfg
+./tetrisp2.zip,Tetris Plus 2,tetrisp2.cfg,tetrisp2.png,/base/path/tetrisp2.cfg
+./tgm2.zip,Tetris The Absolute The Grand Master 2,tgm2.cfg,tgm2.png,/base/path/tgm2.cfg
+./thoop2.zip,Th Strikes Back,thoop2.cfg,thoop2.png,/base/path/thoop2.cfg
+./mrflea.zip,The Amazing Adventures of Mr. F. Lea,mrflea.cfg,mrflea.png,/base/path/mrflea.cfg
+./astyanax.zip,The Astyanax,astyanax.cfg,astyanax.png,/base/path/astyanax.cfg
+./battroad.zip,The Battle-Road,battroad.cfg,battroad.png,/base/path/battroad.cfg
+./berlwall.zip,The Berlin Wall,berlwall.cfg,berlwall.png,/base/path/berlwall.cfg
+./bigprowr.zip,Tag Team Wrestling,bigprowr.cfg,bigprowr.png,/base/path/bigprowr.cfg
+./bounty.zip,The Bounty,bounty.cfg,bounty.png,/base/path/bounty.cfg
+./edrandy.zip,The Cliffhanger: Edward Randy,edrandy.cfg,edrandy.png,/base/path/edrandy.cfg
+./ctribe.zip,The Combatribes,ctribe.cfg,ctribe.png,/base/path/ctribe.cfg
+./dealer.zip,The Dealer,dealer.cfg,dealer.png,/base/path/dealer.cfg
+./thedeep.zip,The Deep,thedeep.cfg,thedeep.png,/base/path/thedeep.cfg
+./dbldynj.zip,The Double Dynamites,dbldynj.cfg,dbldynj.png,/base/path/dbldynj.cfg
+./elecyoyo.zip,The Electric Yo-Yo,elecyoyo.cfg,elecyoyo.png,/base/path/elecyoyo.cfg
+./theend.zip,The End,theend.cfg,theend.png,/base/path/theend.cfg
+./flstory.zip,The FairyLand Story,flstory.cfg,flstory.png,/base/path/flstory.cfg
+./daraku.zip,The Fallen Angels,daraku.cfg,daraku.png,/base/path/daraku.cfg
+./fround.zip,The Final Round,fround.cfg,fround.png,/base/path/fround.cfg
+./gametngk.zip,The Game Paradise - Master of Shooting!,gametngk.cfg,gametngk.png,/base/path/gametngk.cfg
+./thehand.zip,The Hand,thehand.cfg,thehand.png,/base/path/thehand.cfg
+./irrmaze.zip,The Irritating Maze,irrmaze.cfg,irrmaze.png,/base/path/irrmaze.cfg
+./karatour.zip,The Karate Tournament,karatour.cfg,karatour.png,/base/path/karatour.cfg
+./kod.zip,The King of Dragons,kod.cfg,kod.png,/base/path/kod.cfg
+./kof94.zip,The King of Fighters '94,kof94.cfg,kof94.png,/base/path/kof94.cfg
+./kof95.zip,The King of Fighters '95,kof95.cfg,kof95.png,/base/path/kof95.cfg
+./kof96.zip,The King of Fighters '96,kof96.cfg,kof96.png,/base/path/kof96.cfg
+./kof97.zip,The King of Fighters '97,kof97.cfg,kof97.png,/base/path/kof97.cfg
+./kof98.zip,The King of Fighters '98 - The Slugfest,kof98.cfg,kof98.png,/base/path/kof98.cfg
+./kof99.zip,The King of Fighters '99 : Millennium Battle,kof99.cfg,kof99.png,/base/path/kof99.cfg
+./kof2000.zip,The King of Fighters 2000,kof2000.cfg,kof2000.png,/base/path/kof2000.cfg
+./kof2001.zip,The King of Fighters 2001,kof2001.cfg,kof2001.png,/base/path/kof2001.cfg
+./kof2002.zip,The King of Fighters 2002,kof2002.cfg,kof2002.png,/base/path/kof2002.cfg
+./kf2k3pcb.zip,The King of Fighters 2003,kf2k3pcb.cfg,kf2k3pcb.png,/base/path/kf2k3pcb.cfg
+./kof2003.zip,The King of Fighters 2003,kof2003.cfg,kof2003.png,/base/path/kof2003.cfg
+./lastblad.zip,The Last Blade,lastblad.cfg,lastblad.png,/base/path/lastblad.cfg
+./lastbld2.zip,The Last Blade 2,lastbld2.cfg,lastbld2.png,/base/path/lastbld2.cfg
+./lastday.zip,The Last Day,lastday.cfg,lastday.png,/base/path/lastday.cfg
+./lkage.zip,The Legend of Kage,lkage.cfg,lkage.png,/base/path/lkage.cfg
+./silkroad.zip,The Legend of Silkroad,silkroad.cfg,silkroad.png,/base/path/silkroad.cfg
+./darkmist.zip,The Lost Castle In Darkmist,darkmist.cfg,darkmist.png,/base/path/darkmist.cfg
+./mainevt.zip,The Main Event,mainevt.cfg,mainevt.png,/base/path/mainevt.cfg
+./mastkin.zip,The Masters of Kin,mastkin.cfg,mastkin.png,/base/path/mastkin.cfg
+./timesup.zip,The NewZealand Story,timesup.cfg,timesup.png,/base/path/timesup.cfg
+./tnzs.zip,The NewZealand Story,tnzs.cfg,tnzs.png,/base/path/tnzs.cfg
+./tnextspc.zip,The Next Space,tnextspc.cfg,tnextspc.png,/base/path/tnextspc.cfg
+./ninjak.zip,The Ninja Kids,ninjak.cfg,ninjak.png,/base/path/ninjak.cfg
+./ninjaw.zip,The Ninja Warriors,ninjaw.cfg,ninjaw.png,/base/path/ninjaw.cfg
+./outfxies.zip,The Outfoxies,outfxies.cfg,outfxies.png,/base/path/outfxies.cfg
+./percuss.zip,The Percussor,percuss.cfg,percuss.png,/base/path/percuss.cfg
+./thepit.zip,The Pit,thepit.cfg,thepit.png,/base/path/thepit.cfg
+./punisher.zip,The Punisher,punisher.cfg,punisher.png,/base/path/punisher.cfg
+./ghostb.zip,The Real Ghostbusters,ghostb.cfg,ghostb.png,/base/path/ghostb.cfg
+./roishtar.zip,The Return of Ishtar,roishtar.cfg,roishtar.png,/base/path/roishtar.cfg
+./simpsons.zip,The Simpsons,simpsons.cfg,simpsons.png,/base/path/simpsons.cfg
+./srumbler.zip,The Speed Rumbler,srumbler.cfg,srumbler.png,/base/path/srumbler.cfg
+./superspy.zip,The Super Spy,superspy.cfg,superspy.png,/base/path/superspy.cfg
+./3stooges.zip,The Three Stooges In Brides Is Brides,3stooges.cfg,3stooges.png,/base/path/3stooges.cfg
+./tinstar.zip,The Tin Star,tinstar.cfg,tinstar.png,/base/path/tinstar.cfg
+./ctower.zip,The Tower of Druaga,ctower.cfg,ctower.png,/base/path/ctower.cfg
+./todruaga.zip,The Tower of Druaga,todruaga.cfg,todruaga.png,/base/path/todruaga.cfg
+./ssideki4.zip,The Ultimate 11: SNK Football Championship,ssideki4.cfg,ssideki4.png,/base/path/ssideki4.cfg
+./wiz.zip,Wiz,wiz.cfg,wiz.png,/base/path/wiz.cfg
+./thief.zip,Thief,thief.cfg,thief.png,/base/path/thief.cfg
+./trally.zip,Thrash Rally,trally.cfg,trally.png,/base/path/trally.cfg
+./3wonders.zip,Three Wonders,3wonders.cfg,3wonders.png,/base/path/3wonders.cfg
+./thunderl.zip,Thunder & Lightning,thunderl.cfg,thunderl.png,/base/path/thunderl.cfg
+./thndrbld.zip,Thunder Blade,thndrbld.cfg,thndrbld.png,/base/path/thndrbld.cfg
+./tceptor.zip,Thunder Ceptor,tceptor.cfg,tceptor.png,/base/path/tceptor.cfg
+./thunderx.zip,Thunder Cross,thunderx.cfg,thunderx.png,/base/path/thunderx.cfg
+./thndrx2.zip,Thunder Cross II,thndrx2.cfg,thndrx2.png,/base/path/thndrx2.cfg
+./tdragon.zip,Thunder Dragon,tdragon.cfg,tdragon.png,/base/path/tdragon.cfg
+./tdragon2.zip,Thunder Dragon 2,tdragon2.cfg,tdragon2.png,/base/path/tdragon2.cfg
+./tfrceac.zip,Thunder Force AC,tfrceac.cfg,tfrceac.png,/base/path/tfrceac.cfg
+./thundfox.zip,Thunder Fox,thundfox.cfg,thundfox.png,/base/path/thundfox.cfg
+./theroes.zip,Thunder Heroes,theroes.cfg,theroes.png,/base/path/theroes.cfg
+./thoop.zip,Thunder Hoop,thoop.cfg,thoop.png,/base/path/thoop.cfg
+./thndzone.zip,Thunder Zone,thndzone.cfg,thndzone.png,/base/path/thndzone.cfg
+./tndrcade.zip,Thundercade,tndrcade.cfg,tndrcade.png,/base/path/tndrcade.cfg
+./thunderj.zip,ThunderJaws,thunderj.cfg,thunderj.png,/base/path/thunderj.cfg
+./tigerh.zip,Tiger Heli,tigerh.cfg,tigerh.png,/base/path/tigerh.cfg
+./tigeroad.zip,Tiger Road,tigeroad.cfg,tigeroad.png,/base/path/tigeroad.cfg
+./timber.zip,Timber,timber.cfg,timber.png,/base/path/timber.cfg
+./timefgtr.zip,Time Fighter,timefgtr.cfg,timefgtr.png,/base/path/timefgtr.cfg
+./timekill.zip,Time Killers,timekill.cfg,timekill.png,/base/path/timekill.cfg
+./timelimt.zip,Time Limit,timelimt.cfg,timelimt.png,/base/path/timelimt.cfg
+./timeplt.zip,Time Pilot,timeplt.cfg,timeplt.png,/base/path/timeplt.cfg
+./tp84.zip,Time Pilot '84,tp84.cfg,tp84.png,/base/path/tp84.cfg
+./timescan.zip,Time Scanner,timescan.cfg,timescan.png,/base/path/timescan.cfg
+./timesold.zip,Time Soldiers,timesold.cfg,timesold.png,/base/path/timesold.cfg
+./timetunl.zip,Time Tunnel,timetunl.cfg,timetunl.png,/base/path/timetunl.cfg
+./tinklpit.zip,Tinkle Pit,tinklpit.cfg,tinklpit.png,/base/path/tinklpit.cfg
+./congo.zip,Congo Bongo,congo.cfg,congo.png,/base/path/congo.cfg
+./titlef.zip,Title Fight,titlef.cfg,titlef.png,/base/path/titlef.cfg
+./tnk3.zip,T.N.K III,tnk3.cfg,tnk3.png,/base/path/tnk3.cfg
+./tokisens.zip,Toki no Senshi: Chrono-Soldier,tokisens.cfg,tokisens.png,/base/path/tokisens.cfg
+./tokio.zip,Tokio,tokio.cfg,tokio.png,/base/path/tokio.cfg
+./tomagic.zip,Tom Tom Magic,tomagic.cfg,tomagic.png,/base/path/tomagic.cfg
+./toobin.zip,Toobin',toobin.cfg,toobin.png,/base/path/toobin.cfg
+./jackal.zip,Jackal,jackal.cfg,jackal.png,/base/path/jackal.cfg
+./tophuntr.zip,Top Hunter: Roddy & Cathy,tophuntr.cfg,tophuntr.png,/base/path/tophuntr.cfg
+./tpgolf.zip,Top Player's Golf,tpgolf.cfg,tpgolf.png,/base/path/tpgolf.cfg
+./topsecex.zip,Top Secret,topsecex.cfg,topsecex.png,/base/path/topsecex.cfg
+./cskater.zip,Top Skater,cskater.cfg,cskater.png,/base/path/cskater.cfg
+./topshoot.zip,Top Shooter,topshoot.cfg,topshoot.png,/base/path/topshoot.cfg
+./topspeed.zip,Top Speed,topspeed.cfg,topspeed.png,/base/path/topspeed.cfg
+./toppyrap.zip,Tappy And Rappy,toppyrap.cfg,toppyrap.png,/base/path/toppyrap.cfg
+./toride2g.zip,Toride II Adauchi Gaiden,toride2g.cfg,toride2g.png,/base/path/toride2g.cfg
+./ctornado.zip,Tornado,ctornado.cfg,ctornado.png,/base/path/ctornado.cfg
+./toryumon.zip,Toryumon,toryumon.cfg,toryumon.png,/base/path/toryumon.cfg
+./totcarn.zip,Total Carnage,totcarn.cfg,totcarn.png,/base/path/totcarn.cfg
+./touchgo.zip,Touch & Go,touchgo.cfg,touchgo.png,/base/path/touchgo.cfg
+./tdfever.zip,Touchdown Fever,tdfever.cfg,tdfever.png,/base/path/tdfever.cfg
+./tturf.zip,Tough Turf,tturf.cfg,tturf.png,/base/path/tturf.cfg
+./arkatour.zip,Tournament Arkanoid,arkatour.cfg,arkatour.png,/base/path/arkatour.cfg
+./cprogolf.zip,Tournament Pro Golf,cprogolf.cfg,cprogolf.png,/base/path/cprogolf.cfg
+./toyland.zip,Toy Land Adventure,toyland.cfg,toyland.png,/base/path/toyland.cfg
+./trackfld.zip,Hyper Olympic,trackfld.cfg,trackfld.png,/base/path/trackfld.cfg
+./transfrm.zip,Transformer,transfrm.cfg,transfrm.png,/base/path/transfrm.cfg
+./travrusa.zip,Traverse Usa / Zippy Race,travrusa.cfg,travrusa.png,/base/path/travrusa.cfg
+./ctisland.zip,Treasure Island,ctisland.cfg,ctisland.png,/base/path/ctisland.cfg
+./tripool.zip,Tri-pool,tripool.cfg,tripool.png,/base/path/tripool.cfg
+./trisport.zip,Tri-sports,trisport.cfg,trisport.png,/base/path/trisport.cfg
+./tricktrp.zip,Trick Trap,tricktrp.cfg,tricktrp.png,/base/path/tricktrp.cfg
+./trckydoc.zip,Tricky Doc,trckydoc.cfg,trckydoc.png,/base/path/trckydoc.cfg
+./lgtnfght.zip,Lightning Fighters,lgtnfght.cfg,lgtnfght.png,/base/path/lgtnfght.cfg
+./triothep.zip,Trio The Punch - Never Forget Me...,triothep.cfg,triothep.png,/base/path/triothep.cfg
+./tdpgal.zip,Triple Draw Poker,tdpgal.cfg,tdpgal.png,/base/path/tdpgal.cfg
+./triplep.zip,Triple Punch,triplep.cfg,triplep.png,/base/path/triplep.cfg
+./trvmstr.zip,Trivia Master,trvmstr.cfg,trvmstr.png,/base/path/trvmstr.cfg
+./trog.zip,Trog,trog.cfg,trog.png,/base/path/trog.cfg
+./trojan.zip,Trojan,trojan.cfg,trojan.png,/base/path/trojan.cfg
+./tron.zip,Tron,tron.cfg,tron.png,/base/path/tron.cfg
+./troangel.zip,Tropical Angel,troangel.cfg,troangel.png,/base/path/troangel.cfg
+./truxton.zip,Truxton,truxton.cfg,truxton.png,/base/path/truxton.cfg
+./truxton2.zip,Truxton II,truxton2.cfg,truxton2.png,/base/path/truxton2.cfg
+./tubep.zip,Tube Panic,tubep.cfg,tubep.png,/base/path/tubep.cfg
+./tumblep.zip,Tumble Pop,tumblep.cfg,tumblep.png,/base/path/tumblep.cfg
+./turbo.zip,Turbo,turbo.cfg,turbo.png,/base/path/turbo.cfg
+./turbofrc.zip,Turbo Force,turbofrc.cfg,turbofrc.png,/base/path/turbofrc.cfg
+./toutrun.zip,Turbo Out Run,toutrun.cfg,toutrun.png,/base/path/toutrun.cfg
+./turtles.zip,Turtles,turtles.cfg,turtles.png,/base/path/turtles.cfg
+./turtship.zip,Turtle Ship,turtship.cfg,turtship.png,/base/path/turtship.cfg
+./tutankhm.zip,Tutankham,tutankhm.cfg,tutankhm.png,/base/path/tutankhm.cfg
+./twinactn.zip,Twin Action,twinactn.cfg,twinactn.png,/base/path/twinactn.cfg
+./twinadv.zip,Twin Adventure,twinadv.cfg,twinadv.png,/base/path/twinadv.cfg
+./twinbrat.zip,Twin Brats,twinbrat.cfg,twinbrat.png,/base/path/twinbrat.cfg
+./twincobr.zip,Twin Cobra,twincobr.cfg,twincobr.png,/base/path/twincobr.cfg
+./tcobra2.zip,Twin Cobra II,tcobra2.cfg,tcobra2.png,/base/path/tcobra2.cfg
+./twineagl.zip,Twin Eagle - Revenge Joe's Brother,twineagl.cfg,twineagl.png,/base/path/twineagl.cfg
+./twineag2.zip,Twin Eagle II - The Rescue Mission,twineag2.cfg,twineag2.png,/base/path/twineag2.cfg
+./twinhawk.zip,Twin Hawk,twinhawk.cfg,twinhawk.png,/base/path/twinhawk.cfg
+./twinqix.zip,Twin Qix,twinqix.cfg,twinqix.png,/base/path/twinqix.cfg
+./twinsqua.zip,Twin Squash,twinsqua.cfg,twinsqua.png,/base/path/twinsqua.cfg
+./twinbee.zip,Twinbee,twinbee.cfg,twinbee.png,/base/path/twinbee.cfg
+./twinkle.zip,Twinkle,twinkle.cfg,twinkle.png,/base/path/twinkle.cfg
+./twinspri.zip,Twinkle Star Sprites,twinspri.cfg,twinspri.png,/base/path/twinspri.cfg
+./twotiger.zip,Two Tigers,twotiger.cfg,twotiger.png,/base/path/twotiger.cfg
+./tylz.zip,Tylz,tylz.cfg,tylz.png,/base/path/tylz.cfg
+./tkdensho.zip,Toukidenshou - Angel Eyes,tkdensho.cfg,tkdensho.png,/base/path/tkdensho.cfg
+./earthjkr.zip,U.N. Defense Force: Earth Joker,earthjkr.cfg,earthjkr.png,/base/path/earthjkr.cfg
+./vball.zip,U.s. Championship V'ball,vball.cfg,vball.png,/base/path/vball.cfg
+./usclssic.zip,U.s. Classic,usclssic.cfg,usclssic.png,/base/path/usclssic.cfg
+./dangar.zip,UFO Robo Dangar,dangar.cfg,dangar.png,/base/path/dangar.cfg
+./ufosensi.zip,UFO Senshi Yoko-chan,ufosensi.cfg,ufosensi.png,/base/path/ufosensi.cfg
+./umk3.zip,Ultimate Mortal Kombat 3,umk3.cfg,umk3.png,/base/path/umk3.cfg
+./ultennis.zip,Ultimate Tennis,ultennis.cfg,ultennis.png,/base/path/ultennis.cfg
+./uballoon.zip,Ultra Balloon,uballoon.cfg,uballoon.png,/base/path/uballoon.cfg
+./utoukond.zip,Ultra Toukon Densetsu,utoukond.cfg,utoukond.png,/base/path/utoukond.cfg
+./ultrax.zip,Ultra X Weapons,ultrax.cfg,ultrax.png,/base/path/ultrax.cfg
+./ultraman.zip,Ultraman,ultraman.cfg,ultraman.png,/base/path/ultraman.cfg
+./umanclub.zip,Ultraman Club - Tatakae! Ultraman Kyoudai!!,umanclub.cfg,umanclub.png,/base/path/umanclub.cfg
+./unclepoo.zip,Uncle Poo,unclepoo.cfg,unclepoo.png,/base/path/unclepoo.cfg
+./undrfire.zip,Under Fire,undrfire.cfg,undrfire.png,/base/path/undrfire.cfg
+./uccops.zip,Undercover Cops,uccops.cfg,uccops.png,/base/path/uccops.cfg
+./uniwars.zip,UniWar S,uniwars.cfg,uniwars.png,/base/path/uniwars.cfg
+./unkpacg.zip,Unknown Pac-man Gambling Game,unkpacg.cfg,unkpacg.png,/base/path/unkpacg.cfg
+./unksig.zip,unknown 'Space Invaders' gambling game,unksig.cfg,unksig.png,/base/path/unksig.cfg
+./upndown.zip,Up'n Down,upndown.cfg,upndown.png,/base/path/upndown.cfg
+./mustang.zip,USAAF Mustang,mustang.cfg,mustang.png,/base/path/mustang.cfg
+./vliner.zip,V-Liner,vliner.cfg,vliner.png,/base/path/vliner.cfg
+./valkyrie.zip,Valkyrie no Densetsu,valkyrie.cfg,valkyrie.png,/base/path/valkyrie.cfg
+./valtric.zip,Valtric,valtric.cfg,valtric.png,/base/path/valtric.cfg
+./vamphalf.zip,Vamf x1/2,vamphalf.cfg,vamphalf.png,/base/path/vamphalf.cfg
+./vsav2.zip,Vampire Savior 2 : The Lord of Vampire,vsav2.cfg,vsav2.png,/base/path/vsav2.cfg
+./vsav.zip,Vampire Savior: The Lord of Vampire,vsav.cfg,vsav.png,/base/path/vsav.cfg
+./vanvan.zip,Van-Van Car,vanvan.cfg,vanvan.png,/base/path/vanvan.cfg
+./vandyke.zip,Vandyke,vandyke.cfg,vandyke.png,/base/path/vandyke.cfg
+./vanguard.zip,Vanguard,vanguard.cfg,vanguard.png,/base/path/vanguard.cfg
+./vangrd2.zip,Vanguard II,vangrd2.cfg,vangrd2.png,/base/path/vangrd2.cfg
+./vaportra.zip,Vapor Trail: Hyper Offence Formation,vaportra.cfg,vaportra.png,/base/path/vaportra.cfg
+./vmetal.zip,Varia Metal,vmetal.cfg,vmetal.png,/base/path/vmetal.cfg
+./varth.zip,Varth: Operation Thunderstorm,varth.cfg,varth.png,/base/path/varth.cfg
+./vasara.zip,Vasara,vasara.cfg,vasara.png,/base/path/vasara.cfg
+./vasara2.zip,Vasara 2,vasara2.cfg,vasara2.png,/base/path/vasara2.cfg
+./vastar.zip,Vastar,vastar.cfg,vastar.png,/base/path/vastar.cfg
+./vendetta.zip,Vendetta,vendetta.cfg,vendetta.png,/base/path/vendetta.cfg
+./victoryc.zip,Victory,victoryc.cfg,victoryc.png,/base/path/victoryc.cfg
+./victroad.zip,Victory Road,victroad.cfg,victroad.png,/base/path/victroad.cfg
+./hustler.zip,Video Hustler,hustler.cfg,hustler.png,/base/path/hustler.cfg
+./vidvince.zip,Video Vince And The Game Factory,vidvince.cfg,vidvince.png,/base/path/vidvince.cfg
+./viewpoin.zip,Viewpoint,viewpoin.cfg,viewpoin.png,/base/path/viewpoin.cfg
+./vigilant.zip,Vigilante,vigilant.cfg,vigilant.png,/base/path/vigilant.cfg
+./vimana.zip,Vimana,vimana.cfg,vimana.png,/base/path/vimana.cfg
+./vindictr.zip,Vindicators,vindictr.cfg,vindictr.png,/base/path/vindictr.cfg
+./vindctr2.zip,Vindicators Part II,vindctr2.cfg,vindctr2.png,/base/path/vindctr2.cfg
+./viofight.zip,Violence Fight,viofight.cfg,viofight.png,/base/path/viofight.cfg
+./viostorm.zip,Violent Storm,viostorm.cfg,viostorm.png,/base/path/viostorm.cfg
+./viprp1.zip,Viper Phase 1,viprp1.cfg,viprp1.png,/base/path/viprp1.cfg
+./volfied.zip,Volfied,volfied.cfg,volfied.png,/base/path/volfied.cfg
+./gowcaizr.zip,Voltage Fighter Gowcaizer,gowcaizr.cfg,gowcaizr.png,/base/path/gowcaizr.cfg
+./vblokbrk.zip,Vs Block Breaker,vblokbrk.cfg,vblokbrk.png,/base/path/vblokbrk.cfg
+./ryouran.zip,Vs Mahjong Otome Ryouran,ryouran.cfg,ryouran.png,/base/path/ryouran.cfg
+./vscastlevania.zip,Vs. Castlevania,vscastlevania.cfg,vscastlevania.png,/base/path/vscastlevania.cfg
+./vsclucluland.zip,Vs. Clu Clu Land,vsclucluland.cfg,vsclucluland.png,/base/path/vsclucluland.cfg
+./vsfreedomforce.zip,Vs. Freedom Force,vsfreedomforce.cfg,vsfreedomforce.png,/base/path/vsfreedomforce.cfg
+./vsgoonies.zip,Vs. The Goonies,vsgoonies.cfg,vsgoonies.png,/base/path/vsgoonies.cfg
+./vsgumshoe.zip,Vs. Gumshoe,vsgumshoe.cfg,vsgumshoe.png,/base/path/vsgumshoe.cfg
+./vshogansalley.zip,Vs. Hogan's Alley,vshogansalley.cfg,vshogansalley.png,/base/path/vshogansalley.cfg
+./vsiceclimber.zip,Vs. Ice Climber,vsiceclimber.cfg,vsiceclimber.png,/base/path/vsiceclimber.cfg
+./bnstars1.zip,Vs. Janshi Brandnew Stars,bnstars1.cfg,bnstars1.png,/base/path/bnstars1.cfg
+./vsmachrider.zip,Vs. Mach Rider,vsmachrider.cfg,vsmachrider.png,/base/path/vsmachrider.cfg
+./vspinball.zip,Vs. Pinball,vspinball.cfg,vspinball.png,/base/path/vspinball.cfg
+./vsplatoon.zip,Vs. Platoon,vsplatoon.cfg,vsplatoon.png,/base/path/vsplatoon.cfg
+./vsslalom.zip,Vs. Slalom,vsslalom.cfg,vsslalom.png,/base/path/vsslalom.cfg
+./vssoccer.zip,Vs. Soccer,vssoccer.cfg,vssoccer.png,/base/path/vssoccer.cfg
+./vssuperskykid.zip,Vs. Super Skykid,vssuperskykid.cfg,vssuperskykid.png,/base/path/vssuperskykid.cfg
+./vstetris.zip,Vs. Tetris,vstetris.cfg,vstetris.png,/base/path/vstetris.cfg
+./vstkoboxing.zip,Vs. T.k.o. Boxing,vstkoboxing.cfg,vstkoboxing.png,/base/path/vstkoboxing.cfg
+./vstopgun.zip,Vs. Top Gun,vstopgun.cfg,vstopgun.png,/base/path/vstopgun.cfg
+./vsgradius.zip,Vs. Gradius,vsgradius.cfg,vsgradius.png,/base/path/vsgradius.cfg
+./vsmightybomjack.zip,Vs. Mighty Bomb Jack,vsmightybomjack.cfg,vsmightybomjack.png,/base/path/vsmightybomjack.cfg
+./vsninjajkun.zip,Vs. Ninja Jajamaru Kun,vsninjajkun.cfg,vsninjajkun.png,/base/path/vsninjajkun.cfg
+./vsraidbbay.zip,Vs. Raid On Bungeling Bay,vsraidbbay.cfg,vsraidbbay.png,/base/path/vsraidbbay.cfg
+./vsrbibbal.zip,Vs. Atari R.b.i. Baseball,vsrbibbal.cfg,vsrbibbal.png,/base/path/vsrbibbal.cfg
+./vssmb.zip,Vs. Super Mario Bros.,vssmb.cfg,vssmb.png,/base/path/vssmb.cfg
+./vssmgolf.zip,Stroke And Match Golf,vssmgolf.cfg,vssmgolf.png,/base/path/vssmgolf.cfg
+./vssmgolfla.zip,Stroke And Match Golf,vssmgolfla.cfg,vssmgolfla.png,/base/path/vssmgolfla.cfg
+./vsstarluster.zip,Vs. Star Luster,vsstarluster.cfg,vsstarluster.png,/base/path/vsstarluster.cfg
+./vssuperxevious.zip,Vs. Super Xevious,vssuperxevious.cfg,vssuperxevious.png,/base/path/vssuperxevious.cfg
+./vulcan.zip,Vulcan Venture,vulcan.cfg,vulcan.png,/base/path/vulcan.cfg
+./vulgus.zip,Vulgus,vulgus.cfg,vulgus.png,/base/path/vulgus.cfg
+./grindstm.zip,Grind Stormer,grindstm.cfg,grindstm.png,/base/path/grindstm.cfg
+./wizzquiz.zip,Wizz Quiz,wizzquiz.cfg,wizzquiz.png,/base/path/wizzquiz.cfg
+./wacko.zip,Wacko,wacko.cfg,wacko.png,/base/path/wacko.cfg
+./wwjgtin.zip,Wai Wai Jockey Gate-in!,wwjgtin.cfg,wwjgtin.png,/base/path/wwjgtin.cfg
+./mj4simai.zip,Wakakusamonogatari Mahjong Yonshimai,mj4simai.cfg,mj4simai.png,/base/path/mj4simai.cfg
+./wakuwak7.zip,Waku Waku 7,wakuwak7.cfg,wakuwak7.png,/base/path/wakuwak7.cfg
+./wwmarine.zip,Waku Waku Marine,wwmarine.cfg,wwmarine.png,/base/path/wwmarine.cfg
+./soniccar.zip,Waku Waku Sonic Patrol Car,soniccar.cfg,soniccar.png,/base/path/soniccar.cfg
+./ultracin.zip,Waku Waku Ultraman Racing,ultracin.cfg,ultracin.png,/base/path/ultracin.cfg
+./wallc.zip,Wall Crash,wallc.cfg,wallc.png,/base/path/wallc.cfg
+./wwallyj.zip,Wally Wo Sagase!,wwallyj.cfg,wwallyj.png,/base/path/wwallyj.cfg
+./wanted.zip,Wanted,wanted.cfg,wanted.png,/base/path/wanted.cfg
+./wrofaero.zip,War of Aero: Project MEIOU,wrofaero.cfg,wrofaero.png,/base/path/wrofaero.cfg
+./warofbug.zip,War of the Bugs or Monsterous Manouvers in a Mushr,warofbug.cfg,warofbug.png,/base/path/warofbug.cfg
+./wardner.zip,Wardner,wardner.cfg,wardner.png,/base/path/wardner.cfg
+./warpwarp.zip,Warp & Warp,warpwarp.cfg,warpwarp.png,/base/path/warpwarp.cfg
+./warriorb.zip,Warrior Blade - Rastan Saga Episode III,warriorb.cfg,warriorb.png,/base/path/warriorb.cfg
+./wof.zip,Warriors of Fate,wof.cfg,wof.png,/base/path/wof.cfg
+./wofch.zip,Warriors of Fate,wofch.cfg,wofch.png,/base/path/wofch.cfg
+./watrball.zip,Water Balls,watrball.cfg,watrball.png,/base/path/watrball.cfg
+./wmatch.zip,Water Match,wmatch.cfg,wmatch.png,/base/path/wmatch.cfg
+./waterski.zip,Water Ski,waterski.cfg,waterski.png,/base/path/waterski.cfg
+./wecleman.zip,Wec Le Mans 24,wecleman.cfg,wecleman.png,/base/path/wecleman.cfg
+./welltris.zip,Alexey Pajitnov's Welltris,welltris.cfg,welltris.png,/base/path/welltris.cfg
+./wheelrun.zip,Wheels Runner,wheelrun.cfg,wheelrun.png,/base/path/wheelrun.cfg
+./twinfalc.zip,Twin Falcons,twinfalc.cfg,twinfalc.png,/base/path/twinfalc.cfg
+./whodunit.zip,Who Dunit,whodunit.cfg,whodunit.png,/base/path/whodunit.cfg
+./wiggie.zip,Wiggie Waggie,wiggie.cfg,wiggie.png,/base/path/wiggie.cfg
+./wildfang.zip,Tecmo Knight,wildfang.cfg,wildfang.png,/base/path/wildfang.cfg
+./wildplt.zip,Wild Pilot,wildplt.cfg,wildplt.png,/base/path/wildplt.cfg
+./moomesa.zip,Wild West C.O.W.-Boys of Moo Mesa,moomesa.cfg,moomesa.png,/base/path/moomesa.cfg
+./wwestern.zip,Wild Western,wwestern.cfg,wwestern.png,/base/path/wwestern.cfg
+./willow.zip,Willow,willow.cfg,willow.png,/base/path/willow.cfg
+./wilytowr.zip,Wily Tower,wilytowr.cfg,wilytowr.png,/base/path/wilytowr.cfg
+./wjammers.zip,Windjammers,wjammers.cfg,wjammers.png,/base/path/wjammers.cfg
+./wingforc.zip,Wing Force,wingforc.cfg,wingforc.png,/base/path/wingforc.cfg
+./wits.zip,Wit's,wits.cfg,wits.png,/base/path/wits.cfg
+./wizwarz.zip,Wiz Warz,wizwarz.cfg,wizwarz.png,/base/path/wizwarz.cfg
+./wizdfire.zip,Wizard Fire,wizdfire.cfg,wizdfire.png,/base/path/wizdfire.cfg
+./wboy.zip,Wonder Boy,wboy.cfg,wboy.png,/base/path/wboy.cfg
+./wb3.zip,Wonder Boy III - Monster Lair,wb3.cfg,wb3.png,/base/path/wb3.cfg
+./wbml.zip,Wonder Boy In Monster Land,wbml.cfg,wbml.png,/base/path/wbml.cfg
+./wondl96.zip,Wonder League '96,wondl96.cfg,wondl96.png,/base/path/wondl96.cfg
+./wlstar.zip,Wonder League Star - Sok-magicball Fighting,wlstar.cfg,wlstar.png,/base/path/wlstar.cfg
+./wndrmomo.zip,Wonder Momo,wndrmomo.cfg,wndrmomo.png,/base/path/wndrmomo.cfg
+./wndrplnt.zip,Wonder Planet,wndrplnt.cfg,wndrplnt.png,/base/path/wndrplnt.cfg
+./woodpeck.zip,Woodpecker,woodpeck.cfg,woodpeck.png,/base/path/woodpeck.cfg
+./worldadv.zip,World Adventure,worldadv.cfg,worldadv.png,/base/path/worldadv.cfg
+./wbeachvl.zip,World Beach Volley,wbeachvl.cfg,wbeachvl.png,/base/path/wbeachvl.cfg
+./wcbowl.zip,World Class Bowling,wcbowl.cfg,wcbowl.png,/base/path/wcbowl.cfg
+./wcbowldx.zip,World Class Bowling Deluxe,wcbowldx.cfg,wcbowldx.png,/base/path/wcbowldx.cfg
+./wcvol95.zip,World Cup Volley '95,wcvol95.cfg,wcvol95.png,/base/path/wcvol95.cfg
+./wh1.zip,World Heroes,wh1.cfg,wh1.png,/base/path/wh1.cfg
+./wh2.zip,World Heroes 2,wh2.cfg,wh2.png,/base/path/wh2.cfg
+./wh2j.zip,World Heroes 2 Jet,wh2j.cfg,wh2j.png,/base/path/wh2j.cfg
+./whp.zip,World Heroes Perfect,whp.cfg,whp.png,/base/path/whp.cfg
+./wpksocv2.zip,World Pk Soccer V2,wpksocv2.cfg,wpksocv2.png,/base/path/wpksocv2.cfg
+./wrally.zip,World Rally,wrally.cfg,wrally.png,/base/path/wrally.cfg
+./wrally2.zip,World Rally 2: Twin Racing,wrally2.cfg,wrally2.png,/base/path/wrally2.cfg
+./sws.zip,Super World Stadium,sws.cfg,sws.png,/base/path/sws.cfg
+./sws92.zip,World Stadium,sws92.cfg,sws92.png,/base/path/sws92.cfg
+./sws93.zip,World Stadium,sws93.cfg,sws93.png,/base/path/sws93.cfg
+./sws95.zip,Super World Stadium '95,sws95.cfg,sws95.png,/base/path/sws95.cfg
+./sws96.zip,Super World Stadium '96,sws96.cfg,sws96.png,/base/path/sws96.cfg
+./sws97.zip,Super World Stadium '97,sws97.cfg,sws97.png,/base/path/sws97.cfg
+./worldwar.zip,World Wars,worldwar.cfg,worldwar.png,/base/path/worldwar.cfg
+./wownfant.zip,Wow New Fantasia,wownfant.cfg,wownfant.png,/base/path/wownfant.cfg
+./wrestwar.zip,Wrestle War,wrestwar.cfg,wrestwar.png,/base/path/wrestwar.cfg
+./wwfsstar.zip,Wwf Superstars,wwfsstar.cfg,wwfsstar.png,/base/path/wwfsstar.cfg
+./wwfwfest.zip,Wwf Wrestlefest,wwfwfest.cfg,wwfwfest.png,/base/path/wwfwfest.cfg
+./wwfmania.zip,WWF: Wrestlemania,wwfmania.cfg,wwfmania.png,/base/path/wwfmania.cfg
+./wyvernf0.zip,Wyvern F-0,wyvernf0.cfg,wyvernf0.png,/base/path/wyvernf0.cfg
+./wivernwg.zip,Wivern Wings,wivernwg.cfg,wivernwg.png,/base/path/wivernwg.cfg
+./xmultipl.zip,X Multiply,xmultipl.cfg,xmultipl.png,/base/path/xmultipl.cfg
+./xday2.zip,X-day 2,xday2.cfg,xday2.png,/base/path/xday2.cfg
+./xmen.zip,X-Men,xmen.cfg,xmen.png,/base/path/xmen.cfg
+./xmvsf.zip,X-Men vs. Street Fighter,xmvsf.cfg,xmvsf.png,/base/path/xmvsf.cfg
+./xmcota.zip,X-Men: Children of the Atom,xmcota.cfg,xmcota.png,/base/path/xmcota.cfg
+./xsleena.zip,Solar Warrior,xsleena.cfg,xsleena.png,/base/path/xsleena.cfg
+./xenophob.zip,Xenophobe,xenophob.cfg,xenophob.png,/base/path/xenophob.cfg
+./xevious.zip,Xevious,xevious.cfg,xevious.png,/base/path/xevious.cfg
+./x2222.zip,X2222,x2222.cfg,x2222.png,/base/path/x2222.cfg
+./xexex.zip,Xexex,xexex.cfg,xexex.png,/base/path/xexex.cfg
+./xorworld.zip,Xor World,xorworld.cfg,xorworld.png,/base/path/xorworld.cfg
+./xxmissio.zip,XX Mission,xxmissio.cfg,xxmissio.png,/base/path/xxmissio.cfg
+./xybots.zip,Xybots,xybots.cfg,xybots.png,/base/path/xybots.cfg
+./xyonix.zip,Xyonix,xyonix.cfg,xyonix.png,/base/path/xyonix.cfg
+./yamato.zip,Yamato,yamato.cfg,yamato.png,/base/path/yamato.cfg
+./yesnoj.zip,Yes/no Sinri Tokimeki Chart,yesnoj.cfg,yesnoj.png,/base/path/yesnoj.cfg
+./yiear.zip,Yie Ar Kung-Fu,yiear.cfg,yiear.png,/base/path/yiear.cfg
+./youjyudn.zip,Youjyuden,youjyudn.cfg,youjyudn.png,/base/path/youjyudn.cfg
+./yukon.zip,Yukon,yukon.cfg,yukon.png,/base/path/yukon.cfg
+./yuyugogo.zip,Yuuyu No Quiz De Go!go!,yuyugogo.cfg,yuyugogo.png,/base/path/yuyugogo.cfg
+./zaviga.zip,Zaviga,zaviga.cfg,zaviga.png,/base/path/zaviga.cfg
+./zaxxon.zip,Zaxxon,zaxxon.cfg,zaxxon.png,/base/path/zaxxon.cfg
+./zedblade.zip,Zed Blade,zedblade.cfg,zedblade.png,/base/path/zedblade.cfg
+./zektor.zip,Zektor,zektor.cfg,zektor.png,/base/path/zektor.cfg
+./zerohour.zip,Zero Hour,zerohour.cfg,zerohour.png,/base/path/zerohour.cfg
+./zeropnt.zip,Zero Point,zeropnt.cfg,zeropnt.png,/base/path/zeropnt.cfg
+./zeropnt2.zip,Zero Point 2,zeropnt2.cfg,zeropnt2.png,/base/path/zeropnt2.cfg
+./zeroteam.zip,Zero Team Usa,zeroteam.cfg,zeroteam.png,/base/path/zeroteam.cfg
+./zerowing.zip,Zero Wing,zerowing.cfg,zerowing.png,/base/path/zerowing.cfg
+./zerozone.zip,Zero Zone,zerozone.cfg,zerozone.png,/base/path/zerozone.cfg
+./czeroize.zip,Zeroize,czeroize.cfg,czeroize.png,/base/path/czeroize.cfg
+./zingzip.zip,Zing Zing Zip,zingzip.cfg,zingzip.png,/base/path/zingzip.cfg
+./zipzap.zip,Zip & Zap,zipzap.cfg,zipzap.png,/base/path/zipzap.cfg
+./zoar.zip,Zoar,zoar.cfg,zoar.png,/base/path/zoar.cfg
+./zodiack.zip,Zodiack,zodiack.cfg,zodiack.png,/base/path/zodiack.cfg
+./zombraid.zip,Zombie Raid,zombraid.cfg,zombraid.png,/base/path/zombraid.cfg
+./zookeep.zip,Zoo Keeper,zookeep.cfg,zookeep.png,/base/path/zookeep.cfg
+./zunkyou.zip,Zunzunkyou no Yabou,zunkyou.cfg,zunkyou.png,/base/path/zunkyou.cfg
+./zupapa.zip,Zupapa!,zupapa.cfg,zupapa.png,/base/path/zupapa.cfg
+./zwackery.zip,Zwackery,zwackery.cfg,zwackery.png,/base/path/zwackery.cfg
+./zzyzzyxx.zip,Zzyzzyxx,zzyzzyxx.cfg,zzyzzyxx.png,/base/path/zzyzzyxx.cfg
+./galaga.zip,Galaga,galaga.cfg,galaga.png,/base/path/galaga.cfg
+./galaxian.zip,Galaxian,galaxian.cfg,galaxian.png,/base/path/galaxian.cfg
+./invaders.zip,Space Invaders / Space Invaders M,invaders.cfg,invaders.png,/base/path/invaders.cfg
