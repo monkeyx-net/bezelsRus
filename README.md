@@ -1,6 +1,6 @@
 # bezelsRus
 
-Add Bezels to your games in ES-DE.
+Add Bezels to your games in ES-DE and other emulators.
 
 ## TODO
 
