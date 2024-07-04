@@ -1,0 +1,106 @@
+[gd_scene load_steps=3 format=3 uid="uid://wi8nqwqpg1g3"]
+
+[ext_resource type="Script" path="res://scripts/Control.gd" id="1_7k8s6"]
+[ext_resource type="Texture2D" uid="uid://d2rugflburhvu" path="res://assets/graphics/BezelsRus.png" id="2_urcdp"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1.0
+offset_top = -2.0
+offset_right = 1.0
+offset_bottom = -2.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_7k8s6")
+
+[node name="FileDialog_Load" type="FileDialog" parent="."]
+title = "Open a File"
+size = Vector2i(498, 400)
+ok_button_text = "Open"
+file_mode = 0
+access = 2
+use_native_dialog = true
+
+[node name="Button_Load" type="Button" parent="."]
+layout_mode = 0
+offset_left = 895.0
+offset_top = 186.0
+offset_right = 1036.0
+offset_bottom = 252.0
+text = "Open"
+
+[node name="Button_Process" type="Button" parent="."]
+layout_mode = 0
+offset_left = 521.0
+offset_top = 291.0
+offset_right = 701.0
+offset_bottom = 362.0
+text = "Process"
+
+[node name="LineEdit_Path" type="LineEdit" parent="."]
+layout_mode = 0
+offset_left = 26.0
+offset_top = 190.0
+offset_right = 875.0
+offset_bottom = 251.0
+placeholder_text = "Path to gamelist.xml"
+
+[node name="Label_Csv" type="Label" parent="."]
+layout_mode = 0
+offset_left = 30.0
+offset_top = 282.0
+offset_right = 172.0
+offset_bottom = 336.0
+text = "Path to csv file"
+
+[node name="Label_Status" type="Label" parent="."]
+layout_mode = 0
+offset_left = 246.0
+offset_top = 616.0
+offset_right = 388.0
+offset_bottom = 645.0
+text = "Status:
+"
+
+[node name="Label_Current" type="Label" parent="."]
+layout_mode = 0
+offset_left = 321.0
+offset_top = 616.0
+offset_right = 619.0
+offset_bottom = 648.0
+
+[node name="Label_Processed" type="Label" parent="."]
+layout_mode = 0
+offset_left = 237.0
+offset_top = 284.0
+offset_right = 412.0
+offset_bottom = 338.0
+text = "Path to processed files"
+
+[node name="Button_Csv" type="Button" parent="."]
+layout_mode = 0
+offset_left = 31.0
+offset_top = 306.0
+offset_right = 214.0
+offset_bottom = 347.0
+text = "csv/games.csv"
+
+[node name="Button_Processed" type="Button" parent="."]
+layout_mode = 0
+offset_left = 240.0
+offset_top = 310.0
+offset_right = 409.0
+offset_bottom = 351.0
+
+[node name="BezelsRus" type="Sprite2D" parent="."]
+position = Vector2(547, 85)
+texture = ExtResource("2_urcdp")
+
+[connection signal="file_selected" from="FileDialog_Load" to="." method="_on_file_dialog_load_file_selected"]
+[connection signal="pressed" from="Button_Load" to="." method="_on_button_load_pressed"]
+[connection signal="pressed" from="Button_Process" to="." method="_on_button_process_pressed"]
+[connection signal="pressed" from="Button_Csv" to="." method="_on_button_csv_pressed"]
+[connection signal="pressed" from="Button_Processed" to="." method="_on_button_processed_pressed"]
