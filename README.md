@@ -1,5 +1,7 @@
 # bezelsRus
 
+![All You R Bezels are Ours](src/assets/graphics/BezelsRus.pngp)
+
 Add Bezels to your games in ES-DE and other emulators.
 
 ## TODO
