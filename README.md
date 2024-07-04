@@ -1,4 +1,4 @@
-# Bezels4ESDE
+# bezelsRus
 
 Add Bezels to your games in ES-DE.
 
